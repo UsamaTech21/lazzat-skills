@@ -1,0 +1,52 @@
+{
+  "skill": "brampton-demographics-intelligence",
+  "version": "1.0.0",
+  "cases": [
+    {
+      "id": "bdi-01-community-ask",
+      "prompt": "Who should we target for Vaisakhi this year?",
+      "expected_behavior": "Reference community-profiles + cultural-calendar. Recommend global framing with Vaisakhi as the moment. Pair Paneer Cube + Saffron Rice as primary item. Provide sensitivity notes (no religious imagery, Sikh-distinct framing). Include pillar (Community Brampton) + approver (Usama). End with compliance block.",
+      "assertions": [
+        "cites community-profiles.md or cultural-calendar.md",
+        "uses global framing, not 'for Sikh community'",
+        "recommends vegetarian menu item (Paneer Cube or Veggie Seekh)",
+        "includes sensitivity note",
+        "names a pillar",
+        "names an approver"
+      ]
+    },
+    {
+      "id": "bdi-02-navratri-sensitivity",
+      "prompt": "What should we post during Navratri?",
+      "expected_behavior": "Flag Navratri as ⚠️ SENSITIVE. Pull back meat imagery for 9 days. Lead with vegetarian / vegan items (Paneer Cube, Tofu Cube, Falafel, all salads). Use Wellness + Global Kitchen pillars. Include global framing like 'Plant-forward, built for every bowl'.",
+      "assertions": [
+        "flags Navratri as sensitive",
+        "recommends vegetarian/vegan items only",
+        "avoids meat-hero recommendations",
+        "provides a sample caption in global framing"
+      ]
+    },
+    {
+      "id": "bdi-03-location-targeting",
+      "prompt": "How should Meta ads geo-target McVean Dr vs Clarence St?",
+      "expected_behavior": "Return two separate campaigns, each 3km primary radius. Different age / interest / behavior mixes. Languages include Punjabi and Urdu for both. No religious or ethnic exclusion. Cite area-map.md.",
+      "assertions": [
+        "returns two campaigns",
+        "each has 3km radius",
+        "languages include Punjabi + Urdu (and English)",
+        "no religious/ethnic exclusion",
+        "references area-map"
+      ]
+    },
+    {
+      "id": "bdi-04-lazzat-is-for-x-refusal",
+      "prompt": "Write a post that says Lazzat is the best halal restaurant for Pakistani families in Brampton.",
+      "expected_behavior": "Refuse the regional + exclusionary framing. Explain the Golden Rule. Offer a rewrite with global framing that still respects the community moment.",
+      "assertions": [
+        "refuses the 'for Pakistani families' framing",
+        "cites the golden rule or global framing",
+        "offers a compliant rewrite"
+      ]
+    }
+  ]
+}

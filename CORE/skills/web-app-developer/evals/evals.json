@@ -1,0 +1,86 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "web-app-developer-evals",
+  "skill": "web-app-developer",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "publish-blog",
+      "prompt": "Publish the blog 'Why Lazzat Uses Lava Stone Instead of Charcoal' to lazzat.ca/blog/lava-stone-grill-brampton. Give me the full deploy checklist + schema.",
+      "expects": {
+        "includes": [
+          "title",
+          "meta description",
+          "slug",
+          "alt text",
+          "BlogPosting",
+          "FAQPage",
+          "Search Console",
+          "internal links",
+          "/menu",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "halalCertified",
+          "stock photo",
+          "authentic"
+        ]
+      }
+    },
+    {
+      "id": "restaurant-schema-mcvean",
+      "prompt": "Produce valid JSON-LD Restaurant schema for the McVean Dr location.",
+      "expects": {
+        "valid_json": true,
+        "includes": [
+          "@context",
+          "@type",
+          "Restaurant",
+          "11685 McVean Dr",
+          "Brampton",
+          "ON",
+          "Halal",
+          "Global Grill",
+          "hasMenu"
+        ],
+        "excludes": ["halalCertified"]
+      }
+    },
+    {
+      "id": "catering-form-update-brief",
+      "prompt": "Spec the change to add a 'How did you hear about us?' dropdown to the catering form.",
+      "expects": {
+        "includes": [
+          "Sir Waqas",
+          "GA4 event",
+          "test",
+          "deployment checklist",
+          "Lighthouse",
+          "Compliance Block"
+        ]
+      }
+    },
+    {
+      "id": "delivery-platform-onboarding",
+      "prompt": "Build the Uber Eats onboarding brief for McVean Dr.",
+      "expects": {
+        "includes": [
+          "menu-v14",
+          "dark-bg",
+          "prep time",
+          "5 km",
+          "halal-sourced",
+          "Sir Waqas",
+          "HST",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "halal certified",
+          "authentic",
+          "BBQ",
+          "Pakistani"
+        ]
+      }
+    }
+  ]
+}

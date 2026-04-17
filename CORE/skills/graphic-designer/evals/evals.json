@@ -1,0 +1,64 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "graphic-designer-evals",
+  "skill": "graphic-designer",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "brief-launch-feed-post",
+      "prompt": "Write a full Canva design brief for an Instagram Feed post launching Lazzat on April 26 at McVean Dr.",
+      "expects": {
+        "includes": [
+          "1080",
+          "#1A1A1A",
+          "#C0392B",
+          "Arial Black",
+          "logo",
+          "Uniting Through Flavours",
+          "McVean",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "stock photo",
+          "Pakistani",
+          "authentic",
+          "passionate"
+        ]
+      }
+    },
+    {
+      "id": "menu-board-print",
+      "prompt": "Write a print-ready menu board brief for McVean Dr (A2 size). Items pulled from menu-v14.",
+      "expects": {
+        "includes": [
+          "A2",
+          "300 DPI",
+          "CMYK",
+          "bleed",
+          "No pork",
+          "Halal-sourced",
+          "v14"
+        ],
+        "excludes": ["halal certified", "BBQ", "tandoor"]
+      }
+    },
+    {
+      "id": "packaging-takeaway-bag",
+      "prompt": "Design brief for the takeaway paper bag. Cream base, brand-compliant.",
+      "expects": {
+        "includes": [
+          "cream",
+          "#F2EBDD",
+          "wordmark",
+          "halal-sourced",
+          "recyclable"
+        ],
+        "excludes": [
+          "price",
+          "religious",
+          "promotional code"
+        ]
+      }
+    }
+  ]
+}

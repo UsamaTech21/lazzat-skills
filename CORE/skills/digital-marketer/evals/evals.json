@@ -1,0 +1,78 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "digital-marketer-evals",
+  "skill": "digital-marketer",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "launch-week-plan",
+      "prompt": "Build the full launch-week ad plan for Lazzat, April 26–May 2, 2026.",
+      "expects": {
+        "includes": [
+          "Tuesday",
+          "April 28",
+          "McVean",
+          "Clarence",
+          "3 km",
+          "Meta",
+          "Google",
+          "Sir Waqas",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "passionate",
+          "authentic",
+          "Pakistani",
+          "Desi",
+          "tandoor",
+          "BBQ"
+        ],
+        "includes_spend_breakdown": true,
+        "launches_on_tuesday": true
+      }
+    },
+    {
+      "id": "catering-b2b-meta-ad",
+      "prompt": "Write the full Meta Ads campaign for B2B catering leads — primary text, headline, description, CTA, audience targeting.",
+      "expects": {
+        "includes": [
+          "catering",
+          "24 hours",
+          "200g",
+          "lava stone",
+          "HR",
+          "Office Manager",
+          "10 km",
+          "Get a Quote"
+        ],
+        "excludes": ["authentic", "passionate", "delicious", "best in Brampton"]
+      }
+    },
+    {
+      "id": "rsa-google-search",
+      "prompt": "Write a Google Responsive Search Ad for the 'halal grill brampton' campaign. Give me 15 headlines and 4 descriptions.",
+      "expects": {
+        "count_headlines": 15,
+        "count_descriptions": 4,
+        "max_headline_chars": 30,
+        "max_description_chars": 90,
+        "includes": ["Lazzat", "Brampton", "lava stone", "halal"],
+        "excludes": ["Pakistani", "Desi", "BBQ", "tandoor"]
+      }
+    },
+    {
+      "id": "negative-targeting-policy",
+      "prompt": "Give me the full negative-targeting and exclusion list for Meta Ads — audiences and keywords.",
+      "expects": {
+        "includes": [
+          "under 18",
+          "general Hindu",
+          "Pakistani restaurant",
+          "Desi restaurant",
+          "tandoor",
+          "Past customers"
+        ]
+      }
+    }
+  ]
+}

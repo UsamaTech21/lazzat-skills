@@ -1,0 +1,98 @@
+{
+  "$schema": "https://agentskills.md/schema/marketplace.json",
+  "name": "lazzat-skills",
+  "displayName": "Lazzat Grill & Shakes — AI Marketing Agency",
+  "owner": "Lazzat Grill & Shakes",
+  "description": "A production-grade Claude skill suite that turns any session into Lazzat's in-house marketing agency: brand-compliant, menu-accurate, approver-aware, and auto-compliance-checked.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/lazzatgrill/lazzat-skills",
+  "repository": "https://github.com/lazzatgrill/lazzat-skills",
+  "metadata": {
+    "brand": "Lazzat Grill & Shakes",
+    "locations": ["McVean Dr, Castlemore, Brampton, ON", "Clarence St, Downtown Brampton, ON"],
+    "launch_date": "2026-04-26",
+    "owner": "Lazzat-Brand",
+    "approver": "Lazzat-Founder"
+  },
+  "plugins": [
+    {
+      "name": "lazzat-core",
+      "displayName": "Lazzat Core (Brand Foundation)",
+      "description": "Master brand context: voice, palette, approved claims, menu v14, team roles, team bios, brand story, and the compliance checker. Loaded first by every other Lazzat skill.",
+      "skills": ["./CORE"]
+    },
+    {
+      "name": "lazzat-brand-compliance-checker",
+      "displayName": "Brand Compliance Checker",
+      "description": "Auto-runs on every Lazzat output. Flags banned words, unapproved claims, off-menu items, off-palette colors, and routes to the correct approver.",
+      "skills": ["./CORE/skills/brand-compliance-checker"]
+    },
+    {
+      "name": "lazzat-senior-strategist",
+      "displayName": "Senior Strategist",
+      "description": "High-level campaigns, 6-month roadmap, positioning, monthly focus, and competitor analysis for Sir Waqas review.",
+      "skills": ["./CORE/skills/senior-strategist"]
+    },
+    {
+      "name": "lazzat-social-media-handler",
+      "displayName": "Social Media Handler",
+      "description": "Weekly IG / TikTok / FB calendars, captions, hashtags, DM playbook, and community engagement.",
+      "skills": ["./CORE/skills/social-media-handler"]
+    },
+    {
+      "name": "lazzat-content-writer",
+      "displayName": "Content Writer",
+      "description": "Blogs, long-form captions, newsletter, wall-panel copy, and website long-form.",
+      "skills": ["./CORE/skills/content-writer"]
+    },
+    {
+      "name": "lazzat-seo-expert",
+      "displayName": "SEO Expert",
+      "description": "Google Business Profile, local Brampton SEO, on-page rules, blog SEO checklists, and keyword targeting.",
+      "skills": ["./CORE/skills/seo-expert"]
+    },
+    {
+      "name": "lazzat-digital-marketer",
+      "displayName": "Digital Marketer",
+      "description": "Paid ads (Meta / Google), delivery platform optimization (Uber Eats / DoorDash / Skip), attribution, and funnel.",
+      "skills": ["./CORE/skills/digital-marketer"]
+    },
+    {
+      "name": "lazzat-graphic-designer",
+      "displayName": "Graphic Designer",
+      "description": "Canva templates, brand kit, print rules, post templates, packaging, and in-store wall panels.",
+      "skills": ["./CORE/skills/graphic-designer"]
+    },
+    {
+      "name": "lazzat-video-editor",
+      "displayName": "Video Editor",
+      "description": "Reel formats, TikTok cuts, brand film edits, recording guide, and hook templates.",
+      "skills": ["./CORE/skills/video-editor"]
+    },
+    {
+      "name": "lazzat-web-app-developer",
+      "displayName": "Web & App Developer",
+      "description": "Website pages, app roadmap, delivery platform setup, and online-ordering integrations.",
+      "skills": ["./CORE/skills/web-app-developer"]
+    },
+    {
+      "name": "lazzat-guerrilla-movement-marketer",
+      "displayName": "Guerrilla & Movement Marketer",
+      "description": "On-ground activations, street-level campaigns, community partnerships, and Brampton-specific buzz plays.",
+      "skills": ["./CORE/skills/guerrilla-movement-marketer"]
+    },
+    {
+      "name": "lazzat-brampton-demographics-intelligence",
+      "displayName": "Brampton Demographics Intelligence",
+      "description": "Community profiles, cultural calendar, neighbourhood map, and menu–community matching for Brampton.",
+      "skills": ["./CORE/skills/brampton-demographics-intelligence"]
+    },
+    {
+      "name": "lazzat-influencer-finder",
+      "displayName": "Influencer Finder",
+      "description": "Creator discovery across tiers, platform-specific search, vetting checklist, and outreach templates.",
+      "skills": ["./CORE/skills/influencer-finder"]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "influencer-finder-evals",
+  "skill": "influencer-finder",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "week-2-plan",
+      "prompt": "Build the Week 2 (May 3–9) influencer plan — 2–3 Tier 1 creator visits.",
+      "expects": {
+        "includes": [
+          "Tier 1",
+          "Brampton",
+          "lava stone",
+          "halal-sourced",
+          "free meal",
+          "no payment",
+          "Compliance Block",
+          "Soha"
+        ],
+        "excludes": [
+          "opening day",
+          "Day 1",
+          "all at once",
+          "paid post Phase 1"
+        ],
+        "count_creators_min": 2,
+        "count_creators_max": 3
+      }
+    },
+    {
+      "id": "vet-sample-creator",
+      "prompt": "Here's a creator: @brampton.gym.bowls — 12,400 followers, posts fitness + meal prep, 4.1% engagement, Brampton location, halal-aligned. Score them against the 10-point vetting checklist.",
+      "expects": {
+        "includes": [
+          "Location fit",
+          "Niche relevance",
+          "Engagement rate",
+          "Audience quality",
+          "Content consistency",
+          "Brand safety",
+          "Halal alignment",
+          "Competitor conflict",
+          "Tone fit",
+          "Regional framing",
+          "TOTAL",
+          "Tier"
+        ],
+        "has_total_score": true
+      }
+    },
+    {
+      "id": "cold-dm-tier1",
+      "prompt": "Write a cold DM from Soha to a Brampton food IG creator @brampton.foodie.diary we've never spoken to.",
+      "expects": {
+        "includes": ["Soha", "Lazzat", "McVean", "hosted", "honest", "plus-one"],
+        "excludes": ["authentic", "passionate", "delicious", "journey", "Pakistani", "BBQ"]
+      }
+    },
+    {
+      "id": "visit-brief-tier1",
+      "prompt": "Write the visit brief for a Tier 1 creator visiting Clarence St on May 7 at 1:00 PM.",
+      "expects": {
+        "includes": [
+          "Clarence",
+          "May 7",
+          "1:00",
+          "menu-v14",
+          "lava stone",
+          "halal-sourced",
+          "#hosted",
+          "Soha",
+          "tagline"
+        ],
+        "excludes": [
+          "script",
+          "must say",
+          "charcoal",
+          "BBQ"
+        ]
+      }
+    }
+  ]
+}

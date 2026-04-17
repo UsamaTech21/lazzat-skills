@@ -1,0 +1,63 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "seo-expert-evals",
+  "skill": "seo-expert",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "gmb-mcvean-setup",
+      "prompt": "Give me the full Google Business Profile setup for Lazzat's McVean Dr location: categories, description, services, attributes, 10 seeded Q&A questions.",
+      "expects": {
+        "includes": [
+          "Restaurant",
+          "Halal Restaurant",
+          "McVean",
+          "Castlemore",
+          "lava stone",
+          "halal-sourced",
+          "No pork",
+          "Uniting Through Flavours",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "halal certified",
+          "HACCP",
+          "BBQ",
+          "Pakistani",
+          "Desi"
+        ],
+        "count_questions_min": 10
+      }
+    },
+    {
+      "id": "meta-title-description-homepage",
+      "prompt": "Write the title tag and meta description for lazzat.ca homepage. Primary keyword: halal grill brampton.",
+      "expects": {
+        "includes": ["Lazzat Grill & Shakes", "halal"],
+        "title_max_chars": 60,
+        "meta_min_chars": 145,
+        "meta_max_chars": 165,
+        "excludes": ["passionate", "authentic", "journey"]
+      }
+    },
+    {
+      "id": "schema-json-restaurant",
+      "prompt": "Give me valid JSON-LD Restaurant schema for the Clarence St location.",
+      "expects": {
+        "valid_json": true,
+        "includes": ["@context", "@type", "Restaurant", "Clarence", "Brampton", "ON", "Halal", "Global Grill"],
+        "excludes": ["halalCertified"]
+      }
+    },
+    {
+      "id": "keyword-gap-analysis",
+      "prompt": "Run a keyword-gap analysis vs Paramount Fine Foods Brampton. Give me 10 keywords they rank for that we should target.",
+      "expects": {
+        "count_min": 10,
+        "includes": ["halal", "brampton"],
+        "excludes": ["pakistani restaurant", "desi restaurant", "tandoor"],
+        "has_priority_column": true
+      }
+    }
+  ]
+}

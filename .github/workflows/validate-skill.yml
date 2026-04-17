@@ -1,0 +1,65 @@
+name: Validate Skills
+
+on:
+  push:
+    paths:
+      - '**/SKILL.md'
+      - 'CORE/**'
+      - 'validate-skills.sh'
+      - '.github/workflows/validate-skill.yml'
+  pull_request:
+    paths:
+      - '**/SKILL.md'
+      - 'CORE/**'
+
+jobs:
+  validate:
+    name: Validate SKILL.md spec compliance
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make validator executable
+        run: chmod +x validate-skills.sh
+
+      - name: Run validator
+        run: bash validate-skills.sh
+
+      - name: Check for placeholder content
+        run: |
+          set -e
+          if grep -rln 'STATUS:.*Placeholder' --include='*.md' CORE/ ; then
+            echo "::error::Placeholder content remaining — fill every file before merging."
+            exit 1
+          fi
+
+      - name: Check for TODO markers
+        run: |
+          set -e
+          if grep -rn 'TODO\|FIXME\|XXX' --include='*.md' CORE/ ; then
+            echo "::warning::TODO/FIXME markers found — consider resolving."
+          fi
+
+      - name: Check menu-only references
+        run: |
+          set -e
+          BANNED="Tandoori|Tikka Masala|Butter Chicken|Biryani|Karahi|Haleem|Nihari"
+          if grep -rEin "$BANNED" --include='*.md' CORE/ ; then
+            echo "::error::Banned region-coded menu items referenced. See CORE/menu-v14.md."
+            exit 1
+          fi
+
+      - name: Check banned cultural framing
+        run: |
+          set -e
+          BANNED="\\bPakistani\\b|\\bDesi\\b|\\bPunjabi\\b|\\bIndian\\b|\\bSouth Asian\\b"
+          MATCHES=$(grep -rEIn "$BANNED" --include='*.md' CORE/ || true)
+          # Allow mentions inside content-compliance-checklist.md and approved-claims.md where they are listed AS banned
+          FILTERED=$(echo "$MATCHES" | grep -vE 'content-compliance-checklist|approved-claims|brand-guidelines|team-bios|brand-story' || true)
+          if [ -n "$FILTERED" ]; then
+            echo "::error::Banned regional framing found:"
+            echo "$FILTERED"
+            exit 1
+          fi

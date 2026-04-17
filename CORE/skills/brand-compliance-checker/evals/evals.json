@@ -1,0 +1,60 @@
+{
+  "skill": "brand-compliance-checker",
+  "version": "1.0.0",
+  "cases": [
+    {
+      "id": "bc-01-regional-fail",
+      "prompt": "Compliance check: 'Taste the authentic Pakistani flavours at Lazzat — Brampton's best Desi grill!'",
+      "expected_behavior": "FAIL on checks 1, 2, 4, 15. Rewrite to global framing. Output Compliance Block with Status ❌ REWRITE, then deliver rewritten version with Status ✅ PASS.",
+      "assertions": [
+        "mentions check failure for 'Pakistani'",
+        "mentions check failure for 'Desi'",
+        "mentions check failure for 'best' superlative",
+        "provides a rewritten version using global framing",
+        "final block shows PASS after rewrite"
+      ]
+    },
+    {
+      "id": "bc-02-charcoal-fail",
+      "prompt": "Compliance check: 'Our charcoal-grilled chicken tikka is ready in 60 seconds.'",
+      "expected_behavior": "FAIL on checks 4, 9, 13. Rewrite with lava stone + no speed claim + menu v14 item name.",
+      "assertions": [
+        "flags 'charcoal-grilled'",
+        "flags 'tikka'",
+        "flags 'ready in 60 seconds'",
+        "rewritten version uses lava stone + a v14 item (e.g., Chicken Cube)"
+      ]
+    },
+    {
+      "id": "bc-03-clean-pass",
+      "prompt": "Compliance check: 'Lava stone grilled Chicken Cube over saffron rice with Lazzat Green sauce. Halal-sourced. Every culture welcome. McVean Dr, Brampton.'",
+      "expected_behavior": "PASS all 32 checks. Pillar: Menu Spotlight (or Lava Stone Story). Approver: Usama + Soha. Block is delivered clean.",
+      "assertions": [
+        "status is PASS",
+        "no check marked failed",
+        "pillar assigned",
+        "approver is Usama + Soha"
+      ]
+    },
+    {
+      "id": "bc-04-religious-fail",
+      "prompt": "Compliance check caption: 'Halal-certified meat. JazakAllah to our Brampton family for launch day support!'",
+      "expected_behavior": "FAIL on checks 5 (religious phrase) and 6 (halal-certified). Rewrite to 'halal-sourced' and 'Thank you, Brampton'.",
+      "assertions": [
+        "flags JazakAllah",
+        "flags halal-certified",
+        "rewrite uses 'halal-sourced' and secular thanks"
+      ]
+    },
+    {
+      "id": "bc-05-launch-window-conservatism",
+      "prompt": "Compliance check this ad (date is May 2026): 'Brampton's first lava stone grill — amazing flavours and incredible value.'",
+      "expected_behavior": "FAIL on launch-window conservatism: 'first', 'amazing', 'incredible' are all superlatives. Rewrite neutralized.",
+      "assertions": [
+        "applies launch-window conservatism block",
+        "rewrite removes superlatives",
+        "block includes [LAUNCH-WINDOW CONSERVATISM APPLIED]"
+      ]
+    }
+  ]
+}

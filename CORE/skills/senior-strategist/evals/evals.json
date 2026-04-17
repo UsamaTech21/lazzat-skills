@@ -1,0 +1,54 @@
+{
+  "skill": "senior-strategist",
+  "version": "1.0.0",
+  "cases": [
+    {
+      "id": "ss-01-weekly-plan",
+      "prompt": "Give me a 7-post weekly plan for the first week of June 2026.",
+      "expected_behavior": "Return the full 7-row table with all 6 pillars covered, Wed/Fri/Sun as Reels, Mon/Thu as carousels, Tue/Sat as stories; pillar mix approximates 20/25/15/10/15/15; each row includes hook, CTA question, and approver; overall output ends with pillar distribution check + per-row Compliance Block.",
+      "assertions": [
+        "contains 7 rows",
+        "every row has a pillar assigned",
+        "no row mentions Pakistani/Desi/Indian framing",
+        "no row mentions charcoal",
+        "every row includes an approver",
+        "pillar mix check appears",
+        "compliance block per row"
+      ]
+    },
+    {
+      "id": "ss-02-campaign-brief",
+      "prompt": "Write a campaign brief for Canada Day 2026 for Sir Waqas.",
+      "expected_behavior": "Produce the full Campaign Brief format with concrete KPI, channels, assets, budget ask, risk flags, and a specific yes/no question.",
+      "assertions": [
+        "uses the Campaign Brief Format",
+        "has an event anchor of Canada Day",
+        "specifies channel mix",
+        "names assets needed with counts",
+        "asks Sir Waqas one clear approver question"
+      ]
+    },
+    {
+      "id": "ss-03-monthly-focus",
+      "prompt": "What should Lazzat focus on in September 2026?",
+      "expected_behavior": "Return September as 'Brand film' month with the flagship moment (60s film → Reels/TikTok, 3–5min → Meta ads), monthly budget target ~$1,500, pillar focus Team & Craft + Lava Stone, and cite the roadmap reference.",
+      "assertions": [
+        "identifies September as brand-film month",
+        "names 60s / 3-5min / 8-12min cuts",
+        "sets paid budget guidance",
+        "references the 6-month-roadmap file"
+      ]
+    },
+    {
+      "id": "ss-04-competitor-response",
+      "prompt": "Osmow's just launched a new wrap. Should Lazzat respond?",
+      "expected_behavior": "Apply the Competitor Response Playbook: do not mention them publicly; identify the gap they still miss (no lava stone, no 200g honesty, no dietary inclusivity); recommend a Lazzat post within 72 hours that leans into one of those gaps. Never suggest a 'vs them' ad.",
+      "assertions": [
+        "refuses to name the competitor in public content",
+        "identifies a gap (e.g., lava stone, 200g, dietary inclusivity)",
+        "suggests a 72-hour counter-post with a specific pillar",
+        "does not propose a comparison ad"
+      ]
+    }
+  ]
+}

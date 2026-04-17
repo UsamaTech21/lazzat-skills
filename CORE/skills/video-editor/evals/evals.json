@@ -1,0 +1,90 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "video-editor-evals",
+  "skill": "video-editor",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "reel-lava-stone-15s",
+      "prompt": "Write a 15-second reel brief — Lava Stone Sear Close-Up format — for launch week. Include hook, scenes, CTA, subtitle spec, music, caption, hashtags, compliance block.",
+      "expects": {
+        "includes": [
+          "HOOK",
+          "SCENE",
+          "CTA",
+          "lava stone",
+          "subtitle",
+          "9:16",
+          "Inter Bold",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "charcoal (as endorsement)",
+          "tandoor",
+          "BBQ",
+          "Pakistani",
+          "Desi",
+          "fusion",
+          "authentic"
+        ],
+        "duration_max_seconds": 16
+      }
+    },
+    {
+      "id": "team-story-mudassar",
+      "prompt": "Write a 30-second team-story reel brief for Chef Mudassar.",
+      "expects": {
+        "includes": [
+          "Mudassar",
+          "grill",
+          "portrait",
+          "subtitle",
+          "consent",
+          "team-bios",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "invented quote",
+          "Pakistani",
+          "Desi",
+          "authentic"
+        ],
+        "duration_max_seconds": 45
+      }
+    },
+    {
+      "id": "brand-film-cuts",
+      "prompt": "How should we cut the brand film master for Meta, TikTok, and website hero?",
+      "expects": {
+        "includes": [
+          "90s",
+          "60s",
+          "30s",
+          "9s",
+          "9:16",
+          "1:1",
+          "16:9",
+          "Sir Waqas",
+          "Jawad"
+        ]
+      }
+    },
+    {
+      "id": "shoot-list-daily",
+      "prompt": "Give me today's shoot list for Zohaib — 20 usable clips, covering all pillars.",
+      "expects": {
+        "count_items_min": 20,
+        "includes": [
+          "lava stone",
+          "char",
+          "steam",
+          "bowl",
+          "team",
+          "storefront",
+          "ambient",
+          "backup"
+        ]
+      }
+    }
+  ]
+}

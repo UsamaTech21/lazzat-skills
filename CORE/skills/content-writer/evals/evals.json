@@ -1,0 +1,75 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "content-writer-evals",
+  "skill": "content-writer",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "blog-lava-stone",
+      "prompt": "Write a 900-word blog about why Lazzat chose volcanic lava stone grilling over charcoal. Target keyword: 'lava stone grill brampton'. Pillar: Craft & Ingredients.",
+      "expects": {
+        "includes": [
+          "lava stone",
+          "Brampton",
+          "Chef Mudassar",
+          "radiant",
+          "open kitchen",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "charcoal (positively)",
+          "BBQ",
+          "tandoor",
+          "Pakistani",
+          "Desi",
+          "fusion",
+          "authentic",
+          "journey",
+          "passionate"
+        ],
+        "word_count_min": 800,
+        "word_count_max": 1100,
+        "has_frontmatter": true,
+        "has_meta_description": true
+      }
+    },
+    {
+      "id": "wall-panel-copy",
+      "prompt": "Write 4 wall-panel copy blocks for the McVean Dr store. Each ≤ 40 words.",
+      "expects": {
+        "count": 4,
+        "max_words_per_block": 45,
+        "includes": ["Uniting Through Flavours"],
+        "excludes": ["charcoal", "BBQ", "amazing", "delicious", "authentic"]
+      }
+    },
+    {
+      "id": "catering-email",
+      "prompt": "Draft a catering reply for 'Sarah' asking about 25-person office lunch on May 14.",
+      "expects": {
+        "includes": ["25", "Mega Platter", "Office Combo", "200g", "Soha"],
+        "excludes": ["unfortunately", "passionate", "authentic", "JazakAllah"],
+        "word_count_max": 200
+      }
+    },
+    {
+      "id": "reel-script-60s",
+      "prompt": "Write a 60-second reel script for Pillar 1 — 'Why we use lava stone.' Include hook, 2 scenes, and CTA.",
+      "expects": {
+        "includes": ["HOOK", "SCENE 1", "SCENE 2", "CTA", "lava stone", "CAPTION FIRST LINE", "COMPLIANCE"],
+        "word_count_max": 160,
+        "excludes": ["charcoal (as endorsement)", "tandoor", "BBQ"]
+      }
+    },
+    {
+      "id": "press-pitch-launch",
+      "prompt": "Write a press pitch to a Toronto Star food reporter about Lazzat's April 26 opening.",
+      "expects": {
+        "includes": ["April 26", "McVean", "lava stone", "Brampton", "Professor Parveen"],
+        "word_count_min": 150,
+        "word_count_max": 260,
+        "excludes": ["passionate", "journey", "authentic", "delightful"]
+      }
+    }
+  ]
+}

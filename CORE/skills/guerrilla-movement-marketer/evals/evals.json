@@ -1,0 +1,89 @@
+{
+  "$schema": "https://agentskills.md/schema/evals.json",
+  "name": "guerrilla-movement-marketer-evals",
+  "skill": "guerrilla-movement-marketer",
+  "version": "1.0.0",
+  "tests": [
+    {
+      "id": "earth-day-buried-charcoal",
+      "prompt": "Give me the full stunt brief for 'We Buried the Charcoal' on April 22, 2026 — concept, logistics, content, risks, compliance, approver.",
+      "expects": {
+        "includes": [
+          "Earth Day",
+          "April 22",
+          "permit",
+          "Forests Ontario",
+          "BlogTO",
+          "Sir Waqas",
+          "Compliance Block",
+          "risks"
+        ],
+        "excludes": [
+          "charcoal (endorsed)",
+          "tandoor",
+          "Pakistani",
+          "Desi",
+          "competitor name"
+        ]
+      }
+    },
+    {
+      "id": "news-jack-sports-win",
+      "prompt": "The Toronto Raptors just won Game 7. Give me a news-jack response — organic post, 30 minutes to ship.",
+      "expects": {
+        "includes": [
+          "Brampton",
+          "Team",
+          "celebrate",
+          "catering",
+          "organic only",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "specific player quote",
+          "copyrighted lyric",
+          "political",
+          "loss",
+          "Raptors logo"
+        ]
+      }
+    },
+    {
+      "id": "one-table-challenge-plan",
+      "prompt": "Build the full One Table Challenge campaign — rules, prize, content cadence, budget, metrics.",
+      "expects": {
+        "includes": [
+          "#OneTableLazzat",
+          "weekly",
+          "Mega Platter",
+          "consent",
+          "privacy",
+          "reel",
+          "Compliance Block"
+        ]
+      }
+    },
+    {
+      "id": "diwali-brief-2026",
+      "prompt": "Design the Diwali 2026 stunt. Respectful, brand-compliant, community-first.",
+      "expects": {
+        "includes": [
+          "Light Up Your Table",
+          "LED",
+          "community",
+          "customer",
+          "family table",
+          "no religious iconography",
+          "reel",
+          "Compliance Block"
+        ],
+        "excludes": [
+          "mandir",
+          "Lakshmi",
+          "religious",
+          "open flame indoor"
+        ]
+      }
+    }
+  ]
+}
