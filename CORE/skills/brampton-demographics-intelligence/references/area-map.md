@@ -1,4 +1,4 @@
-﻿# Brampton Area Map — Neighbourhoods & Location Targeting
+# Brampton Area Map — Neighbourhoods & Location Targeting
 
 > **Owner:** Lazzat-Brand
 > **Rule:** Geo-target 3km primary radius from each Lazzat location. 5km secondary for delivery.

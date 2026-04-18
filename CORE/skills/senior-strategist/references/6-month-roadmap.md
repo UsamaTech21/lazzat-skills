@@ -1,4 +1,4 @@
-﻿# 6-Month Strategic Roadmap (Apr 2026 → Oct 2026)
+# 6-Month Strategic Roadmap (Apr 2026 → Oct 2026)
 
 > **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder
 > **Last updated:** 2026-04-17

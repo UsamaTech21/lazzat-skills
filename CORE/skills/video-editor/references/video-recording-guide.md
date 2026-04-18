@@ -1,4 +1,4 @@
-﻿# Video Recording Guide — Lazzat-Video's Shoot Playbook
+# Video Recording Guide — Lazzat-Video's Shoot Playbook
 
 > **Rule:** Every shoot follows this. Improvisation on composition is allowed; improvisation on gear spec is not.
 

@@ -1,4 +1,4 @@
-﻿# Approved Claims — What Lazzat May Say
+# Approved Claims — What Lazzat May Say
 
 > **STATUS:** Locked — April 2026
 > **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder

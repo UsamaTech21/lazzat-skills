@@ -1,4 +1,4 @@
-﻿# Approval Workflow — Full Routing Logic
+# Approval Workflow — Full Routing Logic
 
 > **STATUS:** Locked
 > **Owner:** Lazzat-Brand

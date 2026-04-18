@@ -1,4 +1,4 @@
-﻿# Lazzat Grill & Shakes — AI Marketing Agency Skill System
+# Lazzat Grill & Shakes — AI Marketing Agency Skill System
 
 > **Internal use — Lazzat team only.**
 > Version **1.0.0** · April 2026 · Brampton, Ontario

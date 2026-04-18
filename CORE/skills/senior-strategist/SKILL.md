@@ -1,4 +1,4 @@
-﻿---
+---
 name: senior-strategist
 description: "High-level Lazzat marketing strategy: campaign planning, 6-month roadmaps, monthly focus, positioning, competitive response, brand-film release strategy, opening-window playbook, catering push, GMB-review velocity, and major campaign briefs for Lazzat-Founder review. Triggers on: 'plan a campaign', 'marketing strategy', 'what should we focus on this month', '6 month plan', 'monthly focus', 'competitor analysis', 'campaign brief', 'positioning', 'growth strategy', 'next steps', '7-post plan', 'seasonal strategy', 'launch plan'. Related skills: core-brand, brand-compliance-checker, brampton-demographics-intelligence, social-media-handler, digital-marketer."
 license: MIT

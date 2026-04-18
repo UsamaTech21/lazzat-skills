@@ -1,4 +1,4 @@
-﻿# Outreach Templates — DMs, Emails, Visit Briefs, Follow-Ups
+# Outreach Templates — DMs, Emails, Visit Briefs, Follow-Ups
 
 > **Rule:** Every message sounds like Lazzat-Social, not like a corporate account. Real. Warm. Specific.
 

@@ -1,4 +1,4 @@
-﻿# The 6 Content Pillars — In Depth
+# The 6 Content Pillars — In Depth
 
 > **Source:** `CORE/brand-guidelines.md` + Lazzat Marketing Strategy doc
 > **Owner:** Lazzat-Brand

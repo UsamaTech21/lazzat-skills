@@ -1,4 +1,4 @@
-﻿# Ad Campaign Calendar — 12 Months
+# Ad Campaign Calendar — 12 Months
 
 > **Rule:** Ads always launch/refresh on a TUESDAY. Seasonal ads go live 5–7 days before the event. Lazzat-Founder approves all spend over $500/week.
 

@@ -1,4 +1,4 @@
-﻿# Posting Schedule — Default Weekly Cadence
+# Posting Schedule — Default Weekly Cadence
 
 > **Owner:** Lazzat-Social | **Approved by:** Lazzat-Brand
 > **Rule:** Times are Eastern Time (Brampton local). Adjust for daylight savings transitions.

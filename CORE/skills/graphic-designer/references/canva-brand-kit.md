@@ -1,4 +1,4 @@
-﻿# Canva Brand Kit — Setup & Usage
+# Canva Brand Kit — Setup & Usage
 
 > **Rule:** The brand kit is the source of truth. Don't override colours or fonts at the design level.
 

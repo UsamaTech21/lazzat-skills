@@ -1,4 +1,4 @@
-﻿# The 10 Repeatable Reel Formats
+# The 10 Repeatable Reel Formats
 
 > **Rule:** Don't invent new formats every week. Use the 10 below. Only propose a new format with Lazzat-Social + Lazzat-Brand sign-off.
 

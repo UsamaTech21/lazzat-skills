@@ -1,4 +1,4 @@
-﻿# Lazzat Brand Guidelines
+# Lazzat Brand Guidelines
 
 > **STATUS:** Locked — April 2026 (Wall Posts v4 palette confirmed)
 > **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder

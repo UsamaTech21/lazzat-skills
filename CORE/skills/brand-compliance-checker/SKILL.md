@@ -1,4 +1,4 @@
-﻿---
+---
 name: brand-compliance-checker
 description: "Auto-run compliance layer for Lazzat. Checks any Lazzat content — captions, blogs, ads, wall copy, video scripts, emails, DMs, website copy, press pitches, influencer briefs, menus, packaging — against CORE brand rules, approved claims, menu v14, and the non-negotiables list. Flags failures, proposes corrections, and routes to the right approver. Use automatically inside every other Lazzat skill. Triggers on: 'check this', 'is this ok', 'review this post', 'compliance check', 'can we publish', 'does this pass brand guidelines', 'approve this copy'. Related skills: core-brand (required), senior-strategist, social-media-handler, content-writer."
 license: MIT

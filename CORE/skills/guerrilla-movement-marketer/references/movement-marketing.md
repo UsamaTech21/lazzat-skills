@@ -1,4 +1,4 @@
-﻿# Movement Marketing — Campaigns That Outlive Ads
+# Movement Marketing — Campaigns That Outlive Ads
 
 > **Rule:** A movement is a belief with a format. Lazzat's belief: every table welcome. The format: the four campaigns below.
 

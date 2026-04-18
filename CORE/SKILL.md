@@ -1,4 +1,4 @@
-﻿---
+---
 name: core-brand
 description: "Master brand context for Lazzat Grill & Shakes. Load this before any other Lazzat skill. Contains brand identity, approved claims, menu v14, team roles, team bios, brand story, and the compliance checker. Use whenever working on ANYTHING for Lazzat — social posts, blogs, ads, wall panels, emails, DMs, website copy, video scripts, influencer briefs, press pitches, menus, packaging, or internal strategy. Triggers on: 'lazzat', 'grill & shakes', 'brand guidelines', 'compliance check', 'brand rules', 'can we say', 'menu v14'."
 license: MIT

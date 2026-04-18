@@ -1,4 +1,4 @@
-﻿# Blog Publishing Checklist
+# Blog Publishing Checklist
 
 > **Rule:** Every blog runs through this end-to-end before it lands in Lazzat-Brand's inbox for approval.
 

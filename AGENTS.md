@@ -1,4 +1,4 @@
-﻿# AGENTS.md — Guidelines for AI Agents Working in This Repo
+# AGENTS.md — Guidelines for AI Agents Working in This Repo
 
 > This file is read by any AI agent (Claude, GPT, Cursor, Codex, Gemini, etc.) that operates on or inside the `lazzat-skills/` repository. It is NOT part of Lazzat's marketing output. It is the agent's operating manual for the repo itself.
 

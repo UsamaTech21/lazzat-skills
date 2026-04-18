@@ -1,4 +1,4 @@
-﻿# News-Jacking Guide
+# News-Jacking Guide
 
 > **Rule:** News-jacking is opportunistic, time-bound, and risky. Follow this guide or skip the trend.
 

@@ -1,4 +1,4 @@
-﻿# Contributing to `lazzat-skills`
+# Contributing to `lazzat-skills`
 
 Thanks for working on the Lazzat AI Marketing Agency skill system. This repo is internal — every change here ripples directly into how Lazzat communicates to Brampton and beyond. Read carefully before you commit.
 

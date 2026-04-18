@@ -1,4 +1,4 @@
-﻿# Platform Search Guide — How to Find the Right Creators
+# Platform Search Guide — How to Find the Right Creators
 
 > **Rule:** Every creator we contact was found and vetted in writing. No blind DMs.
 

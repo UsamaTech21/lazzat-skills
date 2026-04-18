@@ -1,4 +1,4 @@
-﻿# Brampton Cultural Calendar — Apr 2026 → Apr 2027
+# Brampton Cultural Calendar — Apr 2026 → Apr 2027
 
 > **Source:** Brampton_Canada_Demographics_2026.txt + Lazzat Marketing Strategy doc
 > **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17

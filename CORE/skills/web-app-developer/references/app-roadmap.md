@@ -1,4 +1,4 @@
-﻿# Lazzat Mobile App — Phased Roadmap
+# Lazzat Mobile App — Phased Roadmap
 
 > **Vision (Lazzat-Founder):** A dedicated Lazzat app that bypasses third-party delivery commissions, builds loyalty, and gives Brampton customers the smoothest ordering in the city.
 

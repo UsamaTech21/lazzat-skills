@@ -1,4 +1,4 @@
-﻿# Lazzat Menu — v14 (FINAL, AUTHORITATIVE)
+# Lazzat Menu — v14 (FINAL, AUTHORITATIVE)
 
 > **STATUS:** Locked — this is the ONLY menu that may be referenced in any Lazzat content.
 > **Source:** `lazzat Final Menu v14.xlsx` (Lazzat-Founder approved).

@@ -1,4 +1,4 @@
-﻿# Content Compliance Checklist — The Auto-Checker
+# Content Compliance Checklist — The Auto-Checker
 
 > **STATUS:** Locked — April 2026
 > **Owner:** Lazzat-Brand | **Loaded by:** every Lazzat skill, automatically

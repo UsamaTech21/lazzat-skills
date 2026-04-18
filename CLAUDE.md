@@ -1,4 +1,4 @@
-﻿# CLAUDE.md — Claude Code Specific Enhancements
+# CLAUDE.md — Claude Code Specific Enhancements
 
 > Everything in this file is **Claude Code / claude.ai only.** If you are running this skill system on any other agent (Cursor, Codex, Gemini, generic ChatGPT), ignore this file.
 

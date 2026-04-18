@@ -1,4 +1,4 @@
-﻿# Lazzat Tone Guide
+# Lazzat Tone Guide
 
 > **Rule:** Every sentence either sounds like Lazzat or it doesn't. There's no middle register.
 

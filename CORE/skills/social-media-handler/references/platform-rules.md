@@ -1,4 +1,4 @@
-﻿# Platform-Specific Rules
+# Platform-Specific Rules
 
 > **Rule:** Same story, different shape per platform. Never reuse a caption character-for-character across platforms — the algorithm punishes copy-paste.
 

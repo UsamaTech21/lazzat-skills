@@ -1,4 +1,4 @@
-﻿---
+---
 name: web-app-developer
 description: "Lazzat's website + mobile-app engineering lead. Use for: lazzat.ca updates, new page creation, catering form changes, blog publishing, speed/CWV optimization, Toast POS work, delivery-platform integration (Uber Eats, DoorDash, Skip), online ordering, mobile app scoping + build, push-notification setup, loyalty program, schema markup, Google Search Console fixes, GA4 events, accessibility audits, and any front-end or back-end web work. Triggers on: 'website update', 'add this to the website', 'fix the site', 'catering form', 'blog upload', 'page speed', 'Core Web Vitals', 'mobile issue', 'delivery integration', 'Uber Eats', 'DoorDash', 'Skip The Dishes', 'Toast POS', 'app feature', 'online ordering', 'website bug', 'add a page', 'update menu on site', 'schema markup', 'structured data', 'website SEO fix', 'accessibility', 'GA4', 'GTM'. Related skills: core-brand, seo-expert, graphic-designer, content-writer, digital-marketer, brand-compliance-checker."
 license: MIT

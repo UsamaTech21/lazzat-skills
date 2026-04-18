@@ -1,0 +1,25 @@
+# Enforce LF line endings on all text files across platforms.
+# Prevents bash validators on Linux CI from choking on CRLF or BOM from Windows commits.
+
+* text=auto eol=lf
+
+# Explicit text files that the validator / workflows parse on Linux.
+*.md    text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.sh    text eol=lf
+*.ps1   text eol=crlf
+*.txt   text eol=lf
+
+# Binary safelist (never transform these).
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.pdf   binary
+*.docx  binary
+*.xlsx  binary
+*.zip   binary
+*.mp4   binary

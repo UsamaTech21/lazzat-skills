@@ -30,9 +30,41 @@ say() {
 
 extract_field() {
   local file="$1" field="$2"
+  # BOM-tolerant: strip leading UTF-8 BOM on first line before matching.
   awk -v f="$field" '
-    /^---/ { c++; next }
+    NR==1 { sub(/^\xef\xbb\xbf/, "") }
+    /^---[[:space:]]*$/ { c++; next }
     c==1 && $1 == (f ":") { $1=""; sub(/^ +/, ""); print; exit }
+  ' "$file"
+}
+
+extract_description() {
+  # Description is always a single-line quoted string in our SKILL.md files.
+  # Grab the first line that starts with "description:" anywhere in the frontmatter.
+  local file="$1"
+  awk '
+    NR==1 { sub(/^\xef\xbb\xbf/, "") }
+    /^description:[[:space:]]*/ {
+      sub(/^description:[[:space:]]*/, "")
+      print
+      exit
+    }
+  ' "$file" | sed -e 's/^"//' -e 's/"$//'
+}
+
+extract_metadata_field() {
+  # Pull a single key from the metadata: block (handles 2-space indent).
+  local file="$1" field="$2"
+  awk -v f="$field" '
+    NR==1 { sub(/^\xef\xbb\xbf/, "") }
+    /^metadata:[[:space:]]*$/ { in_m=1; next }
+    /^[a-zA-Z_][a-zA-Z0-9_-]*:/ && in_m && !match($0, /^[[:space:]]/) { in_m=0 }
+    in_m && $0 ~ ("^[[:space:]]+" f ":") {
+      sub("^[[:space:]]+" f ":[[:space:]]*", "")
+      gsub(/"/, "")
+      print
+      exit
+    }
   ' "$file"
 }
 
@@ -51,10 +83,10 @@ validate_skill() {
 
   local name desc license version owner
   name=$(extract_field "$skill_md" "name" | tr -d '"')
-  desc=$(awk '/^description:/,/^[a-z]+:/' "$skill_md" | sed '1s/description:[ ]*//' | sed '$d' | tr -d '"' | tr '\n' ' ')
+  desc=$(extract_description "$skill_md")
   license=$(extract_field "$skill_md" "license" | tr -d '"')
-  version=$(awk '/^metadata:/,/^---/' "$skill_md" | grep -E '^\s*version:' | head -1 | awk -F: '{print $2}' | tr -d ' "')
-  owner=$(awk '/^metadata:/,/^---/' "$skill_md" | grep -E '^\s*owner:' | head -1 | awk -F: '{print $2}' | sed 's/^ *//')
+  version=$(extract_metadata_field "$skill_md" "version")
+  owner=$(extract_metadata_field "$skill_md" "owner")
 
   if [ -z "$name" ]; then
     die "$skill_md: missing name field"

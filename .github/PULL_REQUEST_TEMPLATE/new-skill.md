@@ -1,4 +1,4 @@
-﻿# New / Updated Skill — PR Template
+# New / Updated Skill — PR Template
 
 ## Skill name
 `<skill-name>` (must match directory under `CORE/skills/`)

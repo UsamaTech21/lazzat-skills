@@ -1,4 +1,4 @@
-﻿# Influencer Tier System
+# Influencer Tier System
 
 > **Rule:** Every creator we contact fits one of these three tiers. Nothing else. No improvisation.
 

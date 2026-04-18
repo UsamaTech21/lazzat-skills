@@ -1,4 +1,4 @@
-﻿# DO-NOT-DO List — Expanded with Examples
+# DO-NOT-DO List — Expanded with Examples
 
 > **STATUS:** Locked
 > **Owner:** Lazzat-Brand

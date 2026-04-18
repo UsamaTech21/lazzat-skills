@@ -1,4 +1,4 @@
-﻿# Lazzat Visual Rules
+# Lazzat Visual Rules
 
 > **Rule:** If a design breaks these, it never leaves Canva.
 

@@ -1,4 +1,4 @@
-﻿# Brampton Community Profiles
+# Brampton Community Profiles
 
 > **Source:** `Brampton_Canada_Demographics_2026.txt` + Lazzat Marketing Strategy doc
 > **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17

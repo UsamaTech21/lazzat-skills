@@ -1,4 +1,4 @@
-﻿# Delivery Platform Setup — Uber Eats, DoorDash, SkipTheDishes
+# Delivery Platform Setup — Uber Eats, DoorDash, SkipTheDishes
 
 > **Status:** Registration pending for both locations. Awaiting: final menu PDF (approved by Lazzat-Founder), business phone, tax IDs from Sir Shahid.
 

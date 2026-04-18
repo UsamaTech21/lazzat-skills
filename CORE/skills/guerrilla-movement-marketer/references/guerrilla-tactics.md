@@ -1,4 +1,4 @@
-﻿# Guerrilla Tactics Library
+# Guerrilla Tactics Library
 
 > **Rule:** Every tactic below has been pre-vetted for Lazzat brand fit + Lazzat-Founder sensibilities. Execution still requires his final sign-off per stunt.
 

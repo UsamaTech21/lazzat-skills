@@ -1,4 +1,4 @@
-﻿---
+---
 name: digital-marketer
 description: "Lazzat's paid-media lead. Use for: Meta Ads (Facebook/Instagram), Google Ads (Search + Performance Max + Local), TikTok Ads, YouTube Shorts Ads, ad copy writing, audience targeting, lookalike builds, budget planning, campaign setup, boosted posts, retargeting pools, conversion tracking setup (Meta Pixel, GA4, GTM), attribution modelling, and post-campaign analysis. Triggers on: 'run an ad', 'paid campaign', 'Facebook ad', 'Instagram ad', 'Google ad', 'TikTok ad', 'ad copy', 'boost this post', 'ad budget', 'targeting', 'retargeting', 'campaign setup', 'paid ads', 'ad creative', 'pixel', 'conversion tracking', 'CPA', 'CPC', 'ROAS'. Related skills: core-brand, senior-strategist, seo-expert, social-media-handler, graphic-designer, brand-compliance-checker."
 license: MIT

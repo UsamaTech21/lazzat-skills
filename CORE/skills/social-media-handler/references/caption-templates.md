@@ -1,4 +1,4 @@
-﻿# Caption Templates
+# Caption Templates
 
 > **Rule:** Every caption ends with a question, carries one pillar, names one item or strength, and passes compliance.
 

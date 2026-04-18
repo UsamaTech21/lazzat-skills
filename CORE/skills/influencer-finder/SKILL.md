@@ -1,4 +1,4 @@
-﻿---
+---
 name: influencer-finder
 description: "Lazzat's influencer + creator partnerships lead. Use for: finding local Brampton + GTA food/halal/health influencers, vetting accounts, writing outreach DMs and emails, planning the weekly influencer schedule, visit briefs, consent/disclosure management, campaign brief packs, rate-card negotiation, UGC sourcing, and influencer ROI reporting. Triggers on: 'find influencers', 'influencer outreach', 'food bloggers Brampton', 'creator partnerships', 'collab with creators', 'TikTok food creators', 'Instagram food bloggers', 'how to approach influencers', 'vet this influencer', 'DM template', 'influencer brief', 'UGC', 'creator deal', 'halal blogger', 'Brampton foodie'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, brand-compliance-checker, guerrilla-movement-marketer."
 license: MIT

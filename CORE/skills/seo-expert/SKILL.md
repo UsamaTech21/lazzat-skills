@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-expert
 description: "Lazzat's Search & Discovery lead. Use for: keyword research, on-page SEO, GMB / Google Business Profile optimization (both McVean Dr and Clarence St), blog SEO, meta titles & descriptions, schema markup, local SEO strategy (3 km radius), Google Search Console fixes, Yelp/Zomato/TripAdvisor citations, and AI SEO (getting Lazzat cited in ChatGPT, Perplexity, Google AI Overviews). Triggers on: 'SEO', 'rank higher', 'Google ranking', 'near me', 'keyword', 'GMB', 'Google Business Profile', 'meta description', 'meta title', 'local SEO', 'blog SEO', 'search console', 'schema markup', 'why aren't we ranking', 'AI SEO', 'ChatGPT citation', 'Yelp', 'review sites'. Related skills: core-brand, content-writer, social-media-handler, brand-compliance-checker."
 license: MIT

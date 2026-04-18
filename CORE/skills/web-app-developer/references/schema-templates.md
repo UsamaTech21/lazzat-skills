@@ -1,4 +1,4 @@
-﻿# Schema Templates — Ready-to-Paste JSON-LD
+# Schema Templates — Ready-to-Paste JSON-LD
 
 > **Rule:** Every page deploys with schema validated via Rich Results Test. No false claims in schema.
 

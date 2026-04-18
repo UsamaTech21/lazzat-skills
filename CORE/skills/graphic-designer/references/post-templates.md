@@ -1,4 +1,4 @@
-﻿# Post Templates — Canva Layout Library
+# Post Templates — Canva Layout Library
 
 > Every template here is design-locked. To change a layout pattern, route through Lazzat-Brand.
 

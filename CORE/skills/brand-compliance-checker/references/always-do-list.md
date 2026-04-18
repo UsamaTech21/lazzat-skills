@@ -1,4 +1,4 @@
-﻿# ALWAYS-DO List — The Positive Rules
+# ALWAYS-DO List — The Positive Rules
 
 > **STATUS:** Locked
 > **Owner:** Lazzat-Brand

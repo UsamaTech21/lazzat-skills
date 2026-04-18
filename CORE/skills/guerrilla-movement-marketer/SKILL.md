@@ -1,4 +1,4 @@
-﻿---
+---
 name: guerrilla-movement-marketer
 description: "Lazzat's unconventional-marketing lead. Use for: guerrilla stunts, street activations, ambush campaigns, news-jacking (trend-response), viral social stunts, movement marketing, community-charity tie-ins, calendar-linked stunts (Vaisakhi / Earth Day / Canada Day / Diwali / Ramadan / Eid / Halloween / Anniversary), publicity campaigns that don't buy ads, and low-budget high-impact ideas. Triggers on: 'guerrilla idea', 'viral stunt', 'how do we go viral', 'cheap marketing idea', 'news marketing', 'trending topic', 'movement campaign', 'street marketing', 'ambush campaign', 'innovative idea', 'how to stand out', 'low budget campaign', 'PR stunt', 'free press', 'activation'. Related skills: core-brand, senior-strategist, social-media-handler, video-editor, content-writer, influencer-finder, brand-compliance-checker."
 license: MIT

@@ -1,4 +1,4 @@
-﻿---
+---
 name: content-writer
 description: "Lazzat's long-form voice. Use for: blog posts, SEO articles, wall-panel copy, website long-form pages (About, Story, Catering, Locations), newsletter, email drafts, reel/video scripts, press pitches, catering inquiry responses, customer-complaint replies (draft-for-Lazzat-Brand), menu descriptions for delivery platforms, and any text that is longer than a social caption. Triggers on: 'write a blog', 'blog about', 'write an article', 'wall panel copy', 'About page copy', 'newsletter', 'email draft', 'WhatsApp message', 'draft a response', 'write copy for', 'reel script', 'video script', 'menu description', 'catering email', 'press pitch'. Related skills: core-brand, senior-strategist, seo-expert, social-media-handler, video-editor, brand-compliance-checker."
 license: MIT

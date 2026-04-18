@@ -1,4 +1,4 @@
-﻿# Video Hook Templates
+# Video Hook Templates
 
 > **Rule:** The first 2 seconds decide the life of a video. If the hook fails, nothing after matters.
 

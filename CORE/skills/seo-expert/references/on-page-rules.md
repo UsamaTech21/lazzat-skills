@@ -1,4 +1,4 @@
-﻿# On-Page SEO Rules
+# On-Page SEO Rules
 
 > **Rule:** Every Lazzat page must pass these rules before publish. No exceptions.
 

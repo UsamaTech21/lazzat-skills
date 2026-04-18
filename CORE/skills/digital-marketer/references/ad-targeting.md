@@ -1,4 +1,4 @@
-﻿# Ad Targeting — Full Matrix
+# Ad Targeting — Full Matrix
 
 > **Rule:** 3 km radius per location at launch. Broader radii only after Lazzat-Founder sign-off.
 

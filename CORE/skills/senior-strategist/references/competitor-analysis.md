@@ -1,4 +1,4 @@
-﻿# Brampton Competitor Analysis — Apr 2026
+# Brampton Competitor Analysis — Apr 2026
 
 > **Source:** Lazzat Competitor Intelligence Report 2026 + live GMB / social scans
 > **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17

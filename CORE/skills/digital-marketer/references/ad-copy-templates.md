@@ -1,4 +1,4 @@
-﻿# Ad Copy Templates
+# Ad Copy Templates
 
 > **Rule:** Fill the `[brackets]`, run compliance, launch on a Tuesday. No exceptions.
 

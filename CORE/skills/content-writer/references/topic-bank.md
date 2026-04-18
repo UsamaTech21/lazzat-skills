@@ -1,4 +1,4 @@
-﻿# Blog + Long-Form Topic Bank
+# Blog + Long-Form Topic Bank
 
 > **Rule:** Every blog must map to one of the 6 content pillars and one primary keyword. Pick from this list first; only create new topics with Lazzat-Brand's approval.
 

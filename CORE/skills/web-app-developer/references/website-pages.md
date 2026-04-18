@@ -1,4 +1,4 @@
-﻿# Website Page Inventory — lazzat.ca
+# Website Page Inventory — lazzat.ca
 
 > **Rule:** Every page is brand-compliant, SEO-optimized, fast, accessible. No exceptions.
 

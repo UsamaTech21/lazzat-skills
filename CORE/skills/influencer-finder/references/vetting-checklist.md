@@ -1,4 +1,4 @@
-﻿# Creator Vetting Checklist — 10 Points + Score Sheet
+# Creator Vetting Checklist — 10 Points + Score Sheet
 
 > **Rule:** No creator gets a DM from Lazzat-Social without this checklist passing. Every check is scored; anyone below 70 is skipped.
 

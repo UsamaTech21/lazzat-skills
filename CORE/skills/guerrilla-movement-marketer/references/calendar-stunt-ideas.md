@@ -1,4 +1,4 @@
-﻿# Calendar-Linked Stunt Ideas — April 2026 → April 2027
+# Calendar-Linked Stunt Ideas — April 2026 → April 2027
 
 > **Rule:** Every stunt below is tied to a cultural / civic / brand moment. Timing is pre-mapped. Final sign-off = Lazzat-Founder per stunt.
 
