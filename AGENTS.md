@@ -186,3 +186,13 @@ This means: no Claude-specific dynamic content injection inside `SKILL.md`. Keep
 ## 11. When in Doubt
 
 Stop. Ask the user. The repo is small; the cost of a bad edit to a brand-critical file is large. A cautious clarification always beats a speculative commit.
+
+---
+
+## 12. Maintainer / Author
+
+- **Author:** Usama ([@UsamaTech21](https://github.com/UsamaTech21)) — Brand & Marketing Lead, Lazzat Grill & Shakes.
+- **Brand owner:** Lazzat Grill & Shakes (all content inside `CORE/`).
+- **Scaffolding license:** MIT (see `LICENSE`).
+- **Architectural PRs or skill-schema changes** must be reviewed by the author before merge. Routine content edits follow the approval chain in `CORE/team-roles.md` (Lazzat-Brand → Lazzat-Founder).
+- Open issues / questions: [github.com/UsamaTech21/lazzat-skills/issues](https://github.com/UsamaTech21/lazzat-skills/issues)

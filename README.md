@@ -1,4 +1,4 @@
-# Lazzat Grill & Shakes — AI Marketing Agency Skill System
+﻿# Lazzat Grill & Shakes — AI Marketing Agency Skill System
 
 > **Internal use — Lazzat team only.**
 > Version **1.0.0** · April 2026 · Brampton, Ontario
@@ -250,3 +250,14 @@ MIT — see `LICENSE`. Lazzat brand IP (name, logo, recipes, wall content, brand
 
 **Lazzat-Brand** — Brand & Marketing Lead, Lazzat Grill & Shakes.
 All CORE/ changes require Lazzat-Brand sign-off + Lazzat-Founder notification.
+
+---
+
+## Built By
+
+Designed and built by **Usama** ([@UsamaTech21](https://github.com/UsamaTech21)) — Brand & Marketing Lead, Lazzat Grill & Shakes.
+
+This skill system — its architecture, skill taxonomy, compliance framework, validation tooling, and production packaging — was architected end-to-end for Lazzat Grill & Shakes. Brand content inside `CORE/` remains the property of Lazzat Grill & Shakes; the scaffolding is MIT-licensed.
+
+- Questions / issues: [github.com/UsamaTech21/lazzat-skills/issues](https://github.com/UsamaTech21/lazzat-skills/issues)
+- Pull requests: see `CONTRIBUTING.md`

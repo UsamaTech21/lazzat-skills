@@ -3,11 +3,17 @@
   "name": "lazzat-skills",
   "displayName": "Lazzat Grill & Shakes — AI Marketing Agency",
   "owner": "Lazzat Grill & Shakes",
+  "author": {
+    "name": "Usama",
+    "role": "Brand & Marketing Lead, Lazzat Grill & Shakes",
+    "github": "UsamaTech21",
+    "url": "https://github.com/UsamaTech21"
+  },
   "description": "A production-grade Claude skill suite that turns any session into Lazzat's in-house marketing agency: brand-compliant, menu-accurate, approver-aware, and auto-compliance-checked.",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/lazzatgrill/lazzat-skills",
-  "repository": "https://github.com/lazzatgrill/lazzat-skills",
+  "homepage": "https://github.com/UsamaTech21/lazzat-skills",
+  "repository": "https://github.com/UsamaTech21/lazzat-skills",
   "metadata": {
     "brand": "Lazzat Grill & Shakes",
     "locations": ["McVean Dr, Castlemore, Brampton, ON", "Clarence St, Downtown Brampton, ON"],
