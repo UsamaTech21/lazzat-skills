@@ -19,7 +19,9 @@ The `brand-compliance-checker` skill will flag any output that references these 
 
 ---
 
-## 1. SIR WAQAS — Founder & CEO
+## 1. SIR WAQAS MUKHTAR — Founder & CEO
+
+- **Full legal name:** Waqas Mukhtar. Public brand-copy honorific: "Sir Waqas." Legal / governance / LICENSE / marketplace author metadata: "Waqas Mukhtar."
 
 - **Role:** Brand vision, capital, culture, final approval on everything public.
 - **Story angle:** First-generation builder. Moved from opportunity to ownership. Wants Lazzat to be the grill brand every culture in Brampton feels ownership of.
@@ -29,8 +31,9 @@ The `brand-compliance-checker` skill will flag any output that references these 
 
 ---
 
-## 2. MUDASSAR — Co-Founder & Head Chef
+## 2. MUDASSAR MUKHTAR — Co-Founder & Head Chef
 
+- **Full legal name:** Mudassar Mukhtar. Public brand-copy form: "Mudassar" or "Chef Mudassar." Legal / governance metadata: "Mudassar Mukhtar."
 - **Role (public):** Co-Founder & Head Chef. Owns kitchen, recipes, portion integrity, vendor relationships, floor team.
 - **Role (internal):** Co-equal voice to Sir Waqas on kitchen, menu, vendors. Veto on anything food-related. (Internal-only relationship note in Section 0.)
 - **Story angle:** The craftsman co-founder. Believes a bowl is a contract: 200g protein means 200g protein.

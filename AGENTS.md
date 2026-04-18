@@ -189,10 +189,15 @@ Stop. Ask the user. The repo is small; the cost of a bad edit to a brand-critica
 
 ---
 
-## 12. Maintainer / Author
+## 12. Maintainer / Author / Brand Ownership
 
-- **Author:** Usama ([@UsamaTech21](https://github.com/UsamaTech21)) — Brand & Marketing Lead, Lazzat Grill & Shakes.
 - **Brand owner:** Lazzat Grill & Shakes (all content inside `CORE/`).
-- **Scaffolding license:** MIT (see `LICENSE`).
-- **Architectural PRs or skill-schema changes** must be reviewed by the author before merge. Routine content edits follow the approval chain in `CORE/team-roles.md` (Lazzat-Brand → Lazzat-Founder).
+- **Brand founders:**
+  - **Waqas Mukhtar** — Founder & CEO, Lazzat Grill & Shakes.
+  - **Mudassar Mukhtar** — Co-Founder & Head Chef, Lazzat Grill & Shakes.
+- **Skill system author:** Usama ([@UsamaTech21](https://github.com/UsamaTech21)) — Brand & Marketing Lead, Lazzat Grill & Shakes.
+- **Scaffolding license:** MIT (see `LICENSE`). Brand content license: proprietary to Lazzat Grill & Shakes (see `LICENSE` BRAND-CONTENT CLAUSE).
+- **Architectural PRs or skill-schema changes** must be reviewed by the author before merge. Routine content edits follow the approval chain in `CORE/team-roles.md` (Lazzat-Brand → Lazzat-Founder, where Lazzat-Founder is Waqas Mukhtar).
 - Open issues / questions: [github.com/UsamaTech21/lazzat-skills/issues](https://github.com/UsamaTech21/lazzat-skills/issues)
+
+> **Note on naming:** The public brand-copy convention uses "Sir Waqas" (team honorific) and first names (e.g., "Mudassar," "Usama"). This governance file and other legal/ownership surfaces (LICENSE, README "Founded By" + "Built By," marketplace.json `brandFounders` / `author`) use legal names for unambiguous attribution. Marketing content never shows last names — see `CORE/skills/brand-compliance-checker/references/do-not-do-list.md` §7b.

@@ -3,6 +3,16 @@
   "name": "lazzat-skills",
   "displayName": "Lazzat Grill & Shakes — AI Marketing Agency",
   "owner": "Lazzat Grill & Shakes",
+  "brandFounders": [
+    {
+      "name": "Waqas Mukhtar",
+      "role": "Founder & CEO, Lazzat Grill & Shakes"
+    },
+    {
+      "name": "Mudassar Mukhtar",
+      "role": "Co-Founder & Head Chef, Lazzat Grill & Shakes"
+    }
+  ],
   "author": {
     "name": "Usama",
     "role": "Brand & Marketing Lead, Lazzat Grill & Shakes",
