@@ -1,4 +1,4 @@
-# Website Page Inventory — lazzat.ca
+﻿# Website Page Inventory — lazzat.ca
 
 > **Rule:** Every page is brand-compliant, SEO-optimized, fast, accessible. No exceptions.
 
@@ -62,7 +62,7 @@ Show the real menu. Connect to online ordering. Connect to delivery apps.
   - Dark-bg hero image
   - Item name (Arial Black, 24pt)
   - Description (≤ 20 words)
-  - Price (once Sir Waqas confirms)
+  - Price (once Lazzat-Founder confirms)
   - Dietary badges (V, VG, GF-aware, Halal, Kids)
   - "Add to order" button (links to Toast / Uber / DoorDash / Skip per user choice)
 
@@ -120,11 +120,11 @@ Convert catering leads (B2B + B2C events).
 1. Hero: catering platter shot (lifestyle)
 2. Value proposition: 200g honest portions, dietary-inclusive, 24-hour notice, pickup or delivery
 3. What we cater: office lunches, Iftar, Eid, Diwali, birthdays, graduations, Thanksgiving, Christmas
-4. Sample platters (3–4 with price ranges after Sir Waqas approves)
+4. Sample platters (3–4 with price ranges after Lazzat-Founder approves)
 5. The catering form (4 steps) — see `Catering Form` section below
 6. FAQ (catering-specific)
 7. Testimonials (once live reviews exist)
-8. Press contact + Soha's direct email
+8. Press contact + Lazzat-Social's direct email
 
 ### Catering Form (live)
 - Step 1: Contact (name, email, phone, company if B2B)
@@ -162,7 +162,7 @@ Long-form brand story. Anchor for AI SEO + press research.
 ### SEO
 - Title: `The Lazzat Story | Lava Stone Grill in Brampton`
 - Meta: "How Lazzat Grill & Shakes came to Brampton. A lava stone grill, honestly-weighed portions, thirteen sauces, and a grill for every table."
-- Schema: AboutPage + Organization + Person (Sir Waqas as founder)
+- Schema: AboutPage + Organization + Person (Lazzat-Founder as founder)
 
 ---
 
@@ -179,7 +179,7 @@ Humanize the brand. Pillar 3 content anchor.
 
 ### SEO
 - Title: `The Team Behind Lazzat — Brampton's Lava Stone Grill`
-- Meta: "Meet the team at Lazzat Grill & Shakes: Chef Mudassar, Sir Waqas, Soha, Usama, and the full crew behind Brampton's lava stone grill."
+- Meta: "Meet the team at Lazzat Grill & Shakes: Chef Lazzat-Kitchen, Lazzat-Founder, Lazzat-Social, Lazzat-Brand, and the full crew behind Brampton's lava stone grill."
 
 ---
 
@@ -245,8 +245,8 @@ Capture structured customer feedback (flavor, service, delivery experience).
 ### Post-submit
 - Thank-you message
 - Routed to `feedback@lazzat.ca`
-- Every response reviewed by Soha weekly
-- Anything < 3 stars → escalated to Usama within 24 hours
+- Every response reviewed by Lazzat-Social weekly
+- Anything < 3 stars → escalated to Lazzat-Brand within 24 hours
 
 ---
 
@@ -257,7 +257,7 @@ Capture structured customer feedback (flavor, service, delivery experience).
 - `/accessibility` — WCAG 2.1 AA commitment + contact for accommodations
 - `/sitemap` — visible sitemap for humans
 
-All legal pages drafted with legal counsel (Sir Waqas engages).
+All legal pages drafted with legal counsel (Lazzat-Founder engages).
 
 ---
 

@@ -1,10 +1,10 @@
-# Platform Search Guide — How to Find the Right Creators
+﻿# Platform Search Guide — How to Find the Right Creators
 
 > **Rule:** Every creator we contact was found and vetted in writing. No blind DMs.
 
 ---
 
-## Weekly Sourcing Rhythm (Soha's 90-minute block, every Wednesday)
+## Weekly Sourcing Rhythm (Lazzat-Social's 90-minute block, every Wednesday)
 
 | Minute block | Platform | What to do |
 |---|---|---|
@@ -106,7 +106,7 @@ Once Lazzat has ad account in place, TCM gives data on:
 - Audience age / gender
 - Rate guidance
 
-(Requires TikTok for Business setup — Zohaib owns.)
+(Requires TikTok for Business setup — Lazzat-Video owns.)
 
 ---
 

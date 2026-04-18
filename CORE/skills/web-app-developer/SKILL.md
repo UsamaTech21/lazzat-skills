@@ -1,4 +1,4 @@
----
+﻿---
 name: web-app-developer
 description: "Lazzat's website + mobile-app engineering lead. Use for: lazzat.ca updates, new page creation, catering form changes, blog publishing, speed/CWV optimization, Toast POS work, delivery-platform integration (Uber Eats, DoorDash, Skip), online ordering, mobile app scoping + build, push-notification setup, loyalty program, schema markup, Google Search Console fixes, GA4 events, accessibility audits, and any front-end or back-end web work. Triggers on: 'website update', 'add this to the website', 'fix the site', 'catering form', 'blog upload', 'page speed', 'Core Web Vitals', 'mobile issue', 'delivery integration', 'Uber Eats', 'DoorDash', 'Skip The Dishes', 'Toast POS', 'app feature', 'online ordering', 'website bug', 'add a page', 'update menu on site', 'schema markup', 'structured data', 'website SEO fix', 'accessibility', 'GA4', 'GTM'. Related skills: core-brand, seo-expert, graphic-designer, content-writer, digital-marketer, brand-compliance-checker."
 license: MIT
@@ -30,19 +30,19 @@ You build and maintain Lazzat's digital infrastructure: the website, the caterin
 
 | Layer | Tech | Owner |
 |---|---|---|
-| Website frontend | Next.js (or the current CMS — verify with Ali Hamza) | Ali Hamza |
-| Website hosting | Vercel / current host | Ali Hamza |
-| Domain | lazzat.ca | Sir Kamran (DNS) |
-| Email / transactional | Postmark / SendGrid / current | Ali Hamza |
-| Catering form | Custom multi-step (already live) | Ali Hamza |
-| POS | Toast (pos.toasttab.com) | Sir Kamran (data) + Usama (strategy) |
-| Delivery platforms | Uber Eats, DoorDash, SkipTheDishes (registration pending — awaiting menu PDF + phone from Sir Waqas) | Ali Hamza |
-| Analytics | GA4 + Google Tag Manager | Ali Hamza |
-| Search | Google Search Console | Ali Hamza |
-| CDN | Cloudflare | Ali Hamza |
-| Forms / captcha | Turnstile or reCAPTCHA v3 | Ali Hamza |
-| Maps | Google Maps Platform (embedded) | Ali Hamza |
-| Mobile app (Phase 2) | React Native | TBD (Sir Waqas approves hire/agency) |
+| Website frontend | Next.js (or the current CMS — verify with Lazzat-SEO) | Lazzat-SEO |
+| Website hosting | Vercel / current host | Lazzat-SEO |
+| Domain | lazzat.ca | Lazzat-Tech (DNS) |
+| Email / transactional | Postmark / SendGrid / current | Lazzat-SEO |
+| Catering form | Custom multi-step (already live) | Lazzat-SEO |
+| POS | Toast (pos.toasttab.com) | Lazzat-Tech (data) + Lazzat-Brand (strategy) |
+| Delivery platforms | Uber Eats, DoorDash, SkipTheDishes (registration pending — awaiting menu PDF + phone from Lazzat-Founder) | Lazzat-SEO |
+| Analytics | GA4 + Google Tag Manager | Lazzat-SEO |
+| Search | Google Search Console | Lazzat-SEO |
+| CDN | Cloudflare | Lazzat-SEO |
+| Forms / captcha | Turnstile or reCAPTCHA v3 | Lazzat-SEO |
+| Maps | Google Maps Platform (embedded) | Lazzat-SEO |
+| Mobile app (Phase 2) | React Native | TBD (Lazzat-Founder approves hire/agency) |
 
 ---
 
@@ -91,9 +91,9 @@ Full spec → `references/website-pages.md`. Core pages:
 | `/team` | Team bios + photos | lazzat team | content-writer |
 | `/blog` | Blog index | lazzat blog | seo-expert + content-writer |
 | `/blog/[slug]` | Individual posts | various | content-writer |
-| `/feedback` | Customer feedback form | — | Ali Hamza |
-| `/contact` | Phone + hours + social | contact lazzat | Ali Hamza |
-| `/catering/thank-you` | Post-submission confirm | — | Ali Hamza |
+| `/feedback` | Customer feedback form | — | Lazzat-SEO |
+| `/contact` | Phone + hours + social | contact lazzat | Lazzat-SEO |
+| `/catering/thank-you` | Post-submission confirm | — | Lazzat-SEO |
 
 ---
 
@@ -101,7 +101,7 @@ Full spec → `references/website-pages.md`. Core pages:
 
 ### 1. Blog Publishing
 
-1. Receive approved blog + frontmatter from Usama (must have passed `content-writer/blog-checklist.md` + `seo-expert/blog-seo-checklist.md`)
+1. Receive approved blog + frontmatter from Lazzat-Brand (must have passed `content-writer/blog-checklist.md` + `seo-expert/blog-seo-checklist.md`)
 2. Create post at `/blog/[slug]` (short, lowercase, hyphenated)
 3. Set title tag (≤ 60 chars), meta description (150–160 chars)
 4. Upload featured image (WebP, < 200 KB, 1200×628, alt text with keyword + dish)
@@ -109,13 +109,13 @@ Full spec → `references/website-pages.md`. Core pages:
 6. Internal links (≥ 2): to `/menu` + `/catering` or `/locations`
 7. Add BlogPosting + FAQPage schema JSON-LD
 8. Publish → submit URL to Google Search Console
-9. Report URL to Ali Hamza (SEO tracking) + Usama (final confirmation)
+9. Report URL to Lazzat-SEO (SEO tracking) + Lazzat-Brand (final confirmation)
 
 ### 2. Menu Page Updates
 
-- **Approver:** Usama + Sir Waqas (Sir Waqas on any menu v14 → v15 change)
+- **Approver:** Lazzat-Brand + Lazzat-Founder (Lazzat-Founder on any menu v14 → v15 change)
 - Items match `menu-v14.md` exactly (names + descriptions)
-- Prices publish ONLY after Sir Waqas confirms
+- Prices publish ONLY after Lazzat-Founder confirms
 - Block listed items (per menu-v14.md) never display
 - Item image: dark-bg hero; WebP; < 200 KB; descriptive alt
 - Category order matches menu-v14 sections
@@ -123,7 +123,7 @@ Full spec → `references/website-pages.md`. Core pages:
 
 ### 3. Catering Form
 
-- **Approver:** Sir Waqas (any structural change)
+- **Approver:** Lazzat-Founder (any structural change)
 - Current flow: 4-step form → Quote email → E-transfer → Confirmation
 - Fields: Customer info / Event details / Menu selection from v14 / Pickup vs. Delivery
 - Minimum notice: "Catering requires minimum 24 hours advance notice" must be visible
@@ -153,7 +153,7 @@ Standard fixes:
 
 Run Lighthouse after every significant change; target Performance ≥ 85 on mobile.
 
-### 5. SEO-Technical Fixes (work with Ali Hamza + seo-expert)
+### 5. SEO-Technical Fixes (work with Lazzat-SEO + seo-expert)
 
 - Meta titles + descriptions on every page (`seo-expert/on-page-rules.md`)
 - Schema: LocalBusiness / Restaurant (per location), Menu, BlogPosting, FAQPage, BreadcrumbList, WebSite
@@ -166,12 +166,12 @@ Run Lighthouse after every significant change; target Performance ≥ 85 on mobi
 - Online ordering link prominent on Home + Menu
 - Customer email capture flow (marketing list) — opt-in checkbox, CASL-compliant
 - GA4 tracking of clickout to Toast order page
-- Monthly reconciliation with Sir Kamran for order vs. website referral
+- Monthly reconciliation with Lazzat-Tech for order vs. website referral
 - Never auto-push customers to marketing list without consent
 
 ### 7. Delivery Platform Integration
 
-**Status at launch:** Registration pending. Menu PDF + phone + tax numbers required from Sir Waqas / Sir Shahid.
+**Status at launch:** Registration pending. Menu PDF + phone + tax numbers required from Lazzat-Founder / Sir Shahid.
 
 Full onboarding playbook → `references/delivery-platform-setup.md`.
 
@@ -185,7 +185,7 @@ Once live:
 
 Full roadmap → `references/app-roadmap.md`. Short-version:
 
-- Phase 1 (months 4–6): Scope + vendor selection + Sir Waqas sign-off
+- Phase 1 (months 4–6): Scope + vendor selection + Lazzat-Founder sign-off
 - Phase 2 (months 7–9): Build MVP — ordering, loyalty, push
 - Phase 3 (months 10–12): Launch, iterate
 
@@ -218,7 +218,7 @@ Stack recommendation: React Native + Toast POS API integration + Firebase (auth,
   - `click_order_now_doordash`
   - `click_order_now_skip`
   - `scroll_50_percent` (menu + catering pages)
-- Dashboards: Google Looker Studio — weekly auto-refresh to Usama
+- Dashboards: Google Looker Studio — weekly auto-refresh to Lazzat-Brand
 
 ---
 
@@ -226,15 +226,15 @@ Stack recommendation: React Native + Toast POS API integration + Firebase (auth,
 
 | Task | Approver |
 |---|---|
-| Blog upload | Usama |
-| Minor content fix | Usama |
-| Catering form change | Sir Waqas |
-| New page | Sir Waqas |
-| Delivery platform setup | Sir Waqas |
-| Menu version bump (v14 → v15) | Sir Waqas |
-| Major redesign | Sir Waqas |
-| App feature launch | Sir Waqas |
-| Price change on site | Sir Waqas + Sir Shahid |
+| Blog upload | Lazzat-Brand |
+| Minor content fix | Lazzat-Brand |
+| Catering form change | Lazzat-Founder |
+| New page | Lazzat-Founder |
+| Delivery platform setup | Lazzat-Founder |
+| Menu version bump (v14 → v15) | Lazzat-Founder |
+| Major redesign | Lazzat-Founder |
+| App feature launch | Lazzat-Founder |
+| Price change on site | Lazzat-Founder + Sir Shahid |
 
 ---
 
@@ -261,12 +261,12 @@ Stack recommendation: React Native + Toast POS API integration + Firebase (auth,
 
 | Situation | Action |
 |---|---|
-| Site down | Notify Ali Hamza + Usama WhatsApp; check Cloudflare + host status; roll back last deploy if necessary |
-| Wrong item on menu | Immediate hide (CSS flag) → fix → redeploy; notify Usama + Sir Waqas |
-| Unapproved claim published | Immediate remove → notify Usama → root-cause with `brand-compliance-checker` |
-| PII breach (catering form leak) | Freeze form; notify Sir Waqas immediately; contact legal; disclose per PIPEDA within 72h if required |
-| Payment issue on catering | Pause form; notify Sir Waqas + Sir Shahid; call affected customers directly |
-| POS/Toast outage | Coordinate with Sir Kamran; switch orders to in-store only; post update to website + social |
+| Site down | Notify Lazzat-SEO + Lazzat-Brand WhatsApp; check Cloudflare + host status; roll back last deploy if necessary |
+| Wrong item on menu | Immediate hide (CSS flag) → fix → redeploy; notify Lazzat-Brand + Lazzat-Founder |
+| Unapproved claim published | Immediate remove → notify Lazzat-Brand → root-cause with `brand-compliance-checker` |
+| PII breach (catering form leak) | Freeze form; notify Lazzat-Founder immediately; contact legal; disclose per PIPEDA within 72h if required |
+| Payment issue on catering | Pause form; notify Lazzat-Founder + Sir Shahid; call affected customers directly |
+| POS/Toast outage | Coordinate with Lazzat-Tech; switch orders to in-store only; post update to website + social |
 
 ---
 

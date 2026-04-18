@@ -1,6 +1,6 @@
----
+﻿---
 name: video-editor
-description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Zohaib/Jawad, brand film cuts (from Jawad's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
+description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Lazzat-Video/Lazzat-BrandFilm, brand film cuts (from Lazzat-BrandFilm's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -20,7 +20,7 @@ You lead Lazzat's moving-image output: reels, TikToks, Shorts, brand film cuts, 
 2. `CORE/menu-v14.md` — only real menu items filmed
 3. `CORE/approved-claims.md` — only GREEN-list statements may be captioned / voiced-over
 4. `references/reel-formats.md` — the repeatable video formats
-5. `references/video-recording-guide.md` — Zohaib's shoot-day playbook
+5. `references/video-recording-guide.md` — Lazzat-Video's shoot-day playbook
 6. `references/hook-templates.md` — first-2-second hooks
 
 ---
@@ -100,7 +100,7 @@ COMPLIANCE:
   - Regional framing: ✅ none
   - Compliance Block attached
 
-APPROVER: Soha (routine) / Usama (campaign) / Sir Waqas (brand-film master)
+APPROVER: Lazzat-Social (routine) / Lazzat-Brand (campaign) / Lazzat-Founder (brand-film master)
 ```
 
 ---
@@ -119,14 +119,14 @@ See `references/reel-formats.md` for full detail. Summary:
 | 6 | Community Moment (Brampton angle) | 30–60s | Pillar 2 |
 | 7 | BTS — Kitchen Morning | 15–30s | Story + feed mirror |
 | 8 | Before → After (raw → plated) | 9–15s | High-engagement format |
-| 9 | Brand Story Cut (from Jawad master) | 30–90s | Launch + anniversary |
+| 9 | Brand Story Cut (from Lazzat-BrandFilm master) | 30–90s | Launch + anniversary |
 | 10 | Testimonial (customer quote) | 15–30s | Pillar 6 + social proof |
 
 ---
 
 ## Must-Film Shots (Every Shoot Session)
 
-Zohaib brings back from every session:
+Lazzat-Video brings back from every session:
 
 1. Close-up of lava stone preheat (radiant glow)
 2. Raw protein hitting stone (first sizzle)
@@ -139,19 +139,19 @@ Zohaib brings back from every session:
 9. Guest interaction (face blurred or consent-given)
 10. Storefront exterior (blue hour + daytime)
 
-All raw footage sent to Usama same day. **Never delete anything before review.**
+All raw footage sent to Lazzat-Brand same day. **Never delete anything before review.**
 
 ---
 
-## Brand Film (Jawad / Filmmaker's Brief)
+## Brand Film (Lazzat-BrandFilm / Filmmaker's Brief)
 
-The brand film master is built by Jawad per `Lazzat_Brand_Film_Package__The_Filmmaker's_Brief.pdf`. Your job:
+The brand film master is built by Lazzat-BrandFilm per `Lazzat_Brand_Film_Package__The_Filmmaker's_Brief.pdf`. Your job:
 
 - Secure ALL raw files on shoot day (Google Drive + backup drive)
 - Cut short versions: 60s, 30s, 15s, 9s (for different placements)
 - Preserve director's frame in the 16:9 master; re-frame for 9:16 carefully
-- All cuts reviewed by Sir Waqas + Usama before publish
-- Never re-score the brand film with a different track without Sir Waqas sign-off
+- All cuts reviewed by Lazzat-Founder + Lazzat-Brand before publish
+- Never re-score the brand film with a different track without Lazzat-Founder sign-off
 
 ---
 
@@ -161,7 +161,7 @@ The brand film master is built by Jawad per `Lazzat_Brand_Film_Package__The_Film
 - **Position:** horizontally centered, vertically at 80% of frame (above IG bottom UI)
 - **Pacing:** 1–2 lines at a time; never walls of text
 - **Reading speed:** ≤ 17 characters per second
-- **Verification:** auto-generated captions must be manually corrected — proper nouns (Mudassar, Parveen, Brampton, McVean, Clarence) are common mis-transcriptions
+- **Verification:** auto-generated captions must be manually corrected — proper nouns (Lazzat-Kitchen, Lazzat-Culinary, Brampton, McVean, Clarence) are common mis-transcriptions
 
 ---
 
@@ -187,7 +187,7 @@ Never "hope it flies" with copyrighted music — it will get muted 2 weeks in an
 - Audio: external mic where possible; ambient kitchen sound is valuable B-roll
 - Minimum 3 usable clips per visit
 - Backup raw to external drive before leaving venue
-- Hand off to Usama same day
+- Hand off to Lazzat-Brand same day
 
 ---
 

@@ -1,4 +1,4 @@
-# Contributing to `lazzat-skills`
+﻿# Contributing to `lazzat-skills`
 
 Thanks for working on the Lazzat AI Marketing Agency skill system. This repo is internal — every change here ripples directly into how Lazzat communicates to Brampton and beyond. Read carefully before you commit.
 
@@ -6,9 +6,9 @@ Thanks for working on the Lazzat AI Marketing Agency skill system. This repo is 
 
 ## 1. Before You Start
 
-1. Message Usama. No unsolicited skill additions.
+1. Message Lazzat-Brand. No unsolicited skill additions.
 2. Open a lightweight issue / note: *what problem are you solving, what file(s) will change, what approver chain does it affect?*
-3. If the change touches `CORE/` → Sir Waqas sign-off is required **before** any file is edited.
+3. If the change touches `CORE/` → Lazzat-Founder sign-off is required **before** any file is edited.
 
 ---
 
@@ -107,9 +107,9 @@ Before you commit:
 
 1. Branch name: `skill/<skill-name>` or `core/<short-description>`.
 2. Use `.github/PULL_REQUEST_TEMPLATE/new-skill.md`.
-3. Request review from Usama. If the change touches CORE → also tag Sir Waqas.
+3. Request review from Lazzat-Brand. If the change touches CORE → also tag Lazzat-Founder.
 4. CI must pass before merge.
-5. Only Usama (or the repo maintainer) merges.
+5. Only Lazzat-Brand (or the repo maintainer) merges.
 
 ---
 
@@ -127,7 +127,7 @@ Before you commit:
 
 CORE files are the most sensitive in the repo. Before editing:
 
-1. Get Sir Waqas written approval (WhatsApp / email screenshot in PR).
+1. Get Lazzat-Founder written approval (WhatsApp / email screenshot in PR).
 2. Bump CORE's `metadata.version`.
 3. Update the header timestamp on the file you changed.
 4. If the edit changes approved claims → update `CORE/approved-claims.md` in the same PR.
@@ -144,4 +144,4 @@ CORE files are the most sensitive in the repo. Before editing:
 - No skipping the compliance checker.
 - No inventing brand facts.
 
-When in doubt → ask Usama. A PR held for a day is always cheaper than a brand-damaging merge.
+When in doubt → ask Lazzat-Brand. A PR held for a day is always cheaper than a brand-damaging merge.

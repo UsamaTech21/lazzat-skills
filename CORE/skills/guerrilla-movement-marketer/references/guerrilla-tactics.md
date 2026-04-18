@@ -1,6 +1,6 @@
-# Guerrilla Tactics Library
+﻿# Guerrilla Tactics Library
 
-> **Rule:** Every tactic below has been pre-vetted for Lazzat brand fit + Sir Waqas sensibilities. Execution still requires his final sign-off per stunt.
+> **Rule:** Every tactic below has been pre-vetted for Lazzat brand fit + Lazzat-Founder sensibilities. Execution still requires his final sign-off per stunt.
 
 ---
 
@@ -27,7 +27,7 @@
 - Give away full platters (becomes a food-distribution issue for Peel Health)
 
 **Budget:** $$$ (unit: $8-12K one-time; events: $500/event)
-**Approver:** Sir Waqas
+**Approver:** Lazzat-Founder
 **Content yield:** 5+ reels per event day
 
 ---
@@ -36,7 +36,7 @@
 
 **Concept:** Introduce a limited-edition "13th Sauce" (sku: Lazzat Volcano) so hot, customers must sign a mock "waiver" before ordering. Actors pretend to be on stretchers outside after eating it. Film the whole thing tongue-in-cheek.
 
-**Pre-approval required from Sir Waqas — this is marked Phase 2 (month 4+), not launch.**
+**Pre-approval required from Lazzat-Founder — this is marked Phase 2 (month 4+), not launch.**
 
 **What to do:**
 - Soft-launch a genuinely hot sauce (habanero base; we can craft it)
@@ -47,10 +47,10 @@
 **Risks + mitigations:**
 - Medical-concern optics → always include disclaimers + genuine food-safety protocols
 - Could read as mocking illness → keep tone clearly theatrical; actors not looking genuinely ill
-- Halal diligence → sauce recipe reviewed by Professor Parveen first
+- Halal diligence → sauce recipe reviewed by Lazzat-Culinary first
 
 **Budget:** $$ (sauce R&D + actors + filming)
-**Approver:** Sir Waqas
+**Approver:** Lazzat-Founder
 **Content yield:** 10+ reels from the reaction wall alone
 
 ---
@@ -81,14 +81,14 @@
 - Ask the recipient to post
 
 **Budget:** $ ($120–$200 per platter)
-**Approver:** Usama (routine) / Sir Waqas (first-of-kind)
+**Approver:** Lazzat-Brand (routine) / Lazzat-Founder (first-of-kind)
 **Content yield:** 1 reel + 1 story + 1 GMB post per drop
 
 ---
 
 ## Tactic 4 — The Lava Stone Open House (Phase 1)
 
-**Concept:** One Saturday per month, Lazzat opens the kitchen for a 1-hour public tour. Chef Mudassar walks guests through the lava stone, explains the method, answers questions. Capacity 20 guests per tour.
+**Concept:** One Saturday per month, Lazzat opens the kitchen for a 1-hour public tour. Chef Lazzat-Kitchen walks guests through the lava stone, explains the method, answers questions. Capacity 20 guests per tour.
 
 **What to do:**
 - Free RSVP via lazzat.ca/openhouse
@@ -98,7 +98,7 @@
 
 **Content yield:** 2 reels + 5 stories + 1 blog recap monthly
 **Budget:** $ ($100 cost per session)
-**Approver:** Usama
+**Approver:** Lazzat-Brand
 
 ---
 
@@ -109,7 +109,7 @@
 **What to do:**
 - Street Flame Unit on Lazzat property curbside (check City bylaw for commercial curbside display — may need permit)
 - Hand out free sauce samples (not full meals)
-- Selfie moment with Chef Mudassar and the grill
+- Selfie moment with Chef Lazzat-Kitchen and the grill
 - Film for reel montage
 
 **What NOT to do:**
@@ -119,7 +119,7 @@
 - Hand out discount codes targeting competitor's menu
 
 **Budget:** $
-**Approver:** Sir Waqas
+**Approver:** Lazzat-Founder
 **Content yield:** 3 reels per session
 
 ---
@@ -140,14 +140,14 @@
 - Requiring a tag for a free drink (reads as forced)
 
 **Budget:** $ ($800 one-time install + $100/quarter swap)
-**Approver:** Soha → Usama
+**Approver:** Lazzat-Social → Lazzat-Brand
 **Content yield:** Dozens of UGC posts weekly (ongoing)
 
 ---
 
 ## Tactic 7 — WhatsApp Viral Campaign (Phase 1)
 
-**Concept:** A WhatsApp Business broadcast list that shares, weekly, a 30-second recipe tease from Chef Mudassar — customers screenshot + share + come in.
+**Concept:** A WhatsApp Business broadcast list that shares, weekly, a 30-second recipe tease from Chef Lazzat-Kitchen — customers screenshot + share + come in.
 
 **What to do:**
 - Customers opt-in via QR code at the table
@@ -161,7 +161,7 @@
 - Broadcast on holiday religious mornings
 
 **Budget:** $ ($30/month WhatsApp Business Cloud API)
-**Approver:** Soha → Usama
+**Approver:** Lazzat-Social → Lazzat-Brand
 **Content yield:** Relationship-building, retention-focused
 
 ---
@@ -175,7 +175,7 @@
 **What to do:**
 - Get permit from City of Brampton Parks department for designated community garden
 - Plant a real tree (sponsor the tree fee via local nursery)
-- Film: founder (Sir Waqas) with shovel + charcoal bag + tree; 2-min documentary cut
+- Film: founder (Lazzat-Founder) with shovel + charcoal bag + tree; 2-min documentary cut
 - Press pitch to BlogTO + Narcity + Global News Brampton bureau + Toronto Star food desk
 - Tie into Earth Day organic social push (no paid spend)
 
@@ -185,7 +185,7 @@
 - Competitor accusations → zero competitor naming
 
 **Budget:** $$ ($500 tree sponsorship + filming + permits)
-**Approver:** Sir Waqas
+**Approver:** Lazzat-Founder
 **Content yield:** 1 documentary cut + 5 short reels + 3 press placements
 
 ---
@@ -213,7 +213,7 @@
 - Gurdwara partnership unless explicitly invited and approved
 
 **Budget:** $ ($300–$500 in ingredients)
-**Approver:** Sir Waqas (mandatory — cultural sensitivity)
+**Approver:** Lazzat-Founder (mandatory — cultural sensitivity)
 **Content yield:** 1 post + 1 reel only (low-key intentionally)
 
 ---
@@ -230,7 +230,7 @@
 - Pitch: BlogTO / Narcity / Toronto Star "Brampton's 1-year food story"
 
 **Budget:** $$$ ($15-25K)
-**Approver:** Sir Waqas (long planning arc)
+**Approver:** Lazzat-Founder (long planning arc)
 **Content yield:** Anniversary brand film + press cycle + 30+ reels
 
 ---
@@ -239,7 +239,7 @@
 
 | Idea | Reason for rejection |
 |---|---|
-| Free meal for 1 million followers | Reads as stunt-buy; Sir Waqas rejected |
+| Free meal for 1 million followers | Reads as stunt-buy; Lazzat-Founder rejected |
 | Publicly drop sauce flavor behind competitor's restaurant | Unethical ambush |
 | Ask influencers to "disappear" from competitors | Too schemey |
 | Religious-themed stunt during Ramadan daytime | Cultural sensitivity concerns |
@@ -256,4 +256,4 @@
 4. **Budget + logistics:** dollars, permits, team, suppliers
 5. **Risk + mitigation:** what could go wrong, how we've planned for it
 6. **Compliance Block:** brand-compliance-checker pass
-7. **Approver chain:** Usama → Sir Waqas
+7. **Approver chain:** Lazzat-Brand → Lazzat-Founder

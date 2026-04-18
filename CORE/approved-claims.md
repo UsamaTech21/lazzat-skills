@@ -1,9 +1,9 @@
-# Approved Claims — What Lazzat May Say
+﻿# Approved Claims — What Lazzat May Say
 
 > **STATUS:** Locked — April 2026
-> **Owner:** Usama | **Approver:** Sir Waqas
-> **Rule:** Any claim not in the GREEN list requires Sir Waqas written approval BEFORE it appears in copy.
-> **Process:** If a team member wants to add a new claim → write it here → tag Usama → Usama tags Sir Waqas → approval before publishing.
+> **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder
+> **Rule:** Any claim not in the GREEN list requires Lazzat-Founder written approval BEFORE it appears in copy.
+> **Process:** If a team member wants to add a new claim → write it here → tag Lazzat-Brand → Lazzat-Brand tags Lazzat-Founder → approval before publishing.
 
 ---
 
@@ -52,9 +52,9 @@ These are confirmed facts. Use freely in any brand-compliant format.
 - "Built by Brampton. For every Brampton."
 
 ### Team
-- "Founded by Sir Waqas"
-- "Recipes validated by Professor Parveen (culinary advisor)"
-- "Open-kitchen craft led by Chef Mudassar & Chef Remon"
+- "Founded by Lazzat-Founder"
+- "Recipes validated by Lazzat-Culinary (culinary advisor)"
+- "Open-kitchen craft led by Chef Lazzat-Kitchen & Chef Lazzat-Grill"
 
 ---
 
@@ -121,16 +121,16 @@ These are confirmed facts. Use freely in any brand-compliant format.
 **When someone wants to add a new claim:**
 
 1. Write the exact claim wording below under "🟠 PENDING CLAIMS"
-2. Tag Usama
-3. Usama reviews → forwards to Sir Waqas
-4. Sir Waqas approves → claim moves to GREEN LIST with date stamp
-5. Sir Waqas rejects → claim moves to RED LIST with reason
+2. Tag Lazzat-Brand
+3. Lazzat-Brand reviews → forwards to Lazzat-Founder
+4. Lazzat-Founder approves → claim moves to GREEN LIST with date stamp
+5. Lazzat-Founder rejects → claim moves to RED LIST with reason
 
 **No one is authorized to publish a claim outside GREEN.**
 
 ---
 
-## 🟠 PENDING CLAIMS (waiting for Sir Waqas)
+## 🟠 PENDING CLAIMS (waiting for Lazzat-Founder)
 
 | Claim | Requested by | Date | Context | Status |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
-# Ad Targeting — Full Matrix
+﻿# Ad Targeting — Full Matrix
 
-> **Rule:** 3 km radius per location at launch. Broader radii only after Sir Waqas sign-off.
+> **Rule:** 3 km radius per location at launch. Broader radii only after Lazzat-Founder sign-off.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### Exclusions
 - Already past customers (via pixel, 90 days)
-- General Hindu religious interest (per Sir Waqas — we handle festive moments editorially, not via religious interest-targeting)
+- General Hindu religious interest (per Lazzat-Founder — we handle festive moments editorially, not via religious interest-targeting)
 - Age < 18, > 65
 - Outside 3 km radius
 
@@ -186,7 +186,7 @@ Even though the creative stays global, targeting may use language signal:
 ## Do Not Target
 
 - Age < 18 or > 65 (brand conservative)
-- General "Hindu religion" interest (per Sir Waqas)
+- General "Hindu religion" interest (per Lazzat-Founder)
 - "Pakistan" / "India" / "Pakistani cuisine" / "Indian cuisine" as interest terms (regional framing)
 - Gambling / nightlife / alcohol-adjacent audiences
 - Political affinity audiences

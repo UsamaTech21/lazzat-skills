@@ -1,4 +1,4 @@
-# Platform-Specific Rules
+﻿# Platform-Specific Rules
 
 > **Rule:** Same story, different shape per platform. Never reuse a caption character-for-character across platforms — the algorithm punishes copy-paste.
 
@@ -32,7 +32,7 @@
 - **Window:** weekday 13:00 (lunch) or 19:30 (dinner)
 - **Length:** 10–20 min launch window; 15 min default otherwise
 - **Script:** 3-beat — hook (1 min) → craft moment (10 min) → CTA (1 min)
-- **Co-host:** Soha + Mudassar OR Soha + Remon OR Soha + customer feature
+- **Co-host:** Lazzat-Social + Lazzat-Kitchen OR Lazzat-Social + Lazzat-Grill OR Lazzat-Social + customer feature
 
 ### What IG punishes
 - Link in caption (put in bio)
@@ -145,7 +145,7 @@ Never on ANY platform:
 - ❌ JazakAllah / Inshallah / religious phrases in marketing copy
 - ❌ Off-v14 menu items
 - ❌ Unapproved colors or fonts
-- ❌ Publish numbers without Sir Waqas
+- ❌ Publish numbers without Lazzat-Founder
 - ❌ Delete negative reviews / comments
 - ❌ Engage in competitor naming
 
@@ -155,9 +155,9 @@ Never on ANY platform:
 
 | Platform | Handle | Owner | Backup |
 |---|---|---|---|
-| Instagram | @lazzatgrill | Soha | Usama |
-| TikTok | @lazzatgrill | Soha | Zohaib |
-| Facebook | Lazzat Grill & Shakes | Soha | Usama |
-| YouTube | Lazzat Grill & Shakes | Zohaib | Usama |
-| GBP (both locations) | Lazzat Grill & Shakes | Ali Hamza | Usama |
-| WhatsApp Business | Official number | Soha | Mudassar |
+| Instagram | @lazzatgrill | Lazzat-Social | Lazzat-Brand |
+| TikTok | @lazzatgrill | Lazzat-Social | Lazzat-Video |
+| Facebook | Lazzat Grill & Shakes | Lazzat-Social | Lazzat-Brand |
+| YouTube | Lazzat Grill & Shakes | Lazzat-Video | Lazzat-Brand |
+| GBP (both locations) | Lazzat Grill & Shakes | Lazzat-SEO | Lazzat-Brand |
+| WhatsApp Business | Official number | Lazzat-Social | Lazzat-Kitchen |

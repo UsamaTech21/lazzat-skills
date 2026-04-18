@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "digital-marketer-evals",
   "skill": "digital-marketer",
@@ -16,7 +16,7 @@
           "3 km",
           "Meta",
           "Google",
-          "Sir Waqas",
+          "Lazzat-Founder",
           "Compliance Block"
         ],
         "excludes": [

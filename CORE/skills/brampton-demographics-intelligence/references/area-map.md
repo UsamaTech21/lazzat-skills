@@ -1,6 +1,6 @@
-# Brampton Area Map — Neighbourhoods & Location Targeting
+﻿# Brampton Area Map — Neighbourhoods & Location Targeting
 
-> **Owner:** Usama
+> **Owner:** Lazzat-Brand
 > **Rule:** Geo-target 3km primary radius from each Lazzat location. 5km secondary for delivery.
 
 ---
@@ -153,7 +153,7 @@ Full keyword set → `CORE/skills/seo-expert/references/keyword-targets.md`.
 - **Queen Street Galleria** — foot-traffic zone
 - **Bramalea City Centre** — food-court adjacent awareness
 
-All on-ground activity requires City of Brampton event permit compliance. Usama coordinates with Sir Waqas for each.
+All on-ground activity requires City of Brampton event permit compliance. Lazzat-Brand coordinates with Lazzat-Founder for each.
 
 ---
 

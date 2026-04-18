@@ -1,4 +1,4 @@
-# AGENTS.md — Guidelines for AI Agents Working in This Repo
+﻿# AGENTS.md — Guidelines for AI Agents Working in This Repo
 
 > This file is read by any AI agent (Claude, GPT, Cursor, Codex, Gemini, etc.) that operates on or inside the `lazzat-skills/` repository. It is NOT part of Lazzat's marketing output. It is the agent's operating manual for the repo itself.
 
@@ -124,10 +124,10 @@ metadata:
 | Add a new eval case | ✅ | In `evals/evals.json` |
 | Fix a typo in CORE files | ✅ | Must preserve meaning exactly |
 | Add a whole new skill | 🟡 | Only if the user explicitly requests it and follows CONTRIBUTING.md |
-| Change brand guidelines (palette, voice) | ❌ | Requires Usama + Sir Waqas manual approval |
-| Change approved claims | ❌ | Requires Sir Waqas manual approval |
-| Change the menu | ❌ | Requires Sir Waqas manual approval |
-| Change approval chain | ❌ | Requires Sir Waqas manual approval |
+| Change brand guidelines (palette, voice) | ❌ | Requires Lazzat-Brand + Lazzat-Founder manual approval |
+| Change approved claims | ❌ | Requires Lazzat-Founder manual approval |
+| Change the menu | ❌ | Requires Lazzat-Founder manual approval |
+| Change approval chain | ❌ | Requires Lazzat-Founder manual approval |
 | Push to `main` directly | ❌ | Use PR + validate workflow |
 
 ---
@@ -163,7 +163,7 @@ This means: no Claude-specific dynamic content injection inside `SKILL.md`. Keep
 ## 9. When the User Asks You to "Update the Skills"
 
 1. Clarify: a CORE file, a specific skill, or all of them?
-2. If CORE: confirm with Usama in writing first (commit message notes).
+2. If CORE: confirm with Lazzat-Brand in writing first (commit message notes).
 3. If specific skill: open its `SKILL.md` + all its `references/` + its `evals.json`. Edit consistently.
 4. After edits: bump the skill's `metadata.version` (patch for wording, minor for new content, major for behavior change).
 5. Update `VERSIONS.md` row.
@@ -179,7 +179,7 @@ This means: no Claude-specific dynamic content injection inside `SKILL.md`. Keep
 - Delete CORE files.
 - Bypass the compliance checklist in produced marketing content.
 - Push to `main` without running `validate-skills`.
-- Resize, restructure, or rename `CORE/` without explicit Sir Waqas approval.
+- Resize, restructure, or rename `CORE/` without explicit Lazzat-Founder approval.
 
 ---
 

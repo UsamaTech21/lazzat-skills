@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "influencer-finder-evals",
   "skill": "influencer-finder",
@@ -16,7 +16,7 @@
           "free meal",
           "no payment",
           "Compliance Block",
-          "Soha"
+          "Lazzat-Social"
         ],
         "excludes": [
           "opening day",
@@ -51,9 +51,9 @@
     },
     {
       "id": "cold-dm-tier1",
-      "prompt": "Write a cold DM from Soha to a Brampton food IG creator @brampton.foodie.diary we've never spoken to.",
+      "prompt": "Write a cold DM from Lazzat-Social to a Brampton food IG creator @brampton.foodie.diary we've never spoken to.",
       "expects": {
-        "includes": ["Soha", "Lazzat", "McVean", "hosted", "honest", "plus-one"],
+        "includes": ["Lazzat-Social", "Lazzat", "McVean", "hosted", "honest", "plus-one"],
         "excludes": ["authentic", "passionate", "delicious", "journey", "Pakistani", "BBQ"]
       }
     },
@@ -69,7 +69,7 @@
           "lava stone",
           "halal-sourced",
           "#hosted",
-          "Soha",
+          "Lazzat-Social",
           "tagline"
         ],
         "excludes": [

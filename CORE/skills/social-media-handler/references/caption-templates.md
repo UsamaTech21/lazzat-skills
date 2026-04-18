@@ -1,4 +1,4 @@
-# Caption Templates
+﻿# Caption Templates
 
 > **Rule:** Every caption ends with a question, carries one pillar, names one item or strength, and passes compliance.
 
@@ -72,7 +72,7 @@ What's the last grilled bite you actually remembered the flavour of?
 
 **Example:**
 ```
-Remon at the stone, 6:47 AM.
+Lazzat-Grill at the stone, 6:47 AM.
 
 First lighting of the lava stone — the rest of the day balances on this moment.
 Every Cube today starts on that heat.
@@ -240,7 +240,7 @@ Thanks [name] — so glad the [specific item] hit.
 
 We'll see you soon — try [different item] next time, the [sauce] makes it.
 
-— Soha
+— Lazzat-Social
 ```
 
 ---
@@ -257,12 +257,12 @@ Can't wait to feed you again.
 
 ---
 
-## Template 12 — Review reply (3★, pre-approved by Usama)
+## Template 12 — Review reply (3★, pre-approved by Lazzat-Brand)
 
 ```
 Thank you for coming in, [name]. We hear you on [specific issue].
 
-I'm Soha from the team — would love to make it right. DM me and we'll sort it.
+I'm Lazzat-Social from the team — would love to make it right. DM me and we'll sort it.
 
 — Lazzat Grill & Shakes
 ```

@@ -1,4 +1,4 @@
-# Lazzat Tone Guide
+﻿# Lazzat Tone Guide
 
 > **Rule:** Every sentence either sounds like Lazzat or it doesn't. There's no middle register.
 
@@ -21,7 +21,7 @@ Lazzat sentences start with things, not "I" or "We" or "Let's."
 |---|---|
 | "We are thrilled to announce…" | "A new grill opens in Brampton." |
 | "Let me tell you about our grill." | "Volcanic stone. No charcoal. Real flame." |
-| "Our chef has created…" | "Chef Mudassar built a bowl." |
+| "Our chef has created…" | "Chef Lazzat-Kitchen built a bowl." |
 
 ### 2. Short. Then shorter. Then build.
 Vary length. A three-word sentence does more than a long one.
@@ -33,7 +33,7 @@ Vary length. A three-word sentence does more than a long one.
 | "Chicken is grilled on lava stone…" | "Lava stone grills the chicken." |
 
 ### 4. Proper nouns = power
-Use real names: Brampton. Castlemore. McVean Dr. Clarence St. Chef Mudassar. Professor Parveen. Maple Lodge Farms.
+Use real names: Brampton. Castlemore. McVean Dr. Clarence St. Chef Lazzat-Kitchen. Lazzat-Culinary. Maple Lodge Farms.
 Generic nouns = weakness.
 
 ### 5. No hedging
@@ -87,7 +87,7 @@ Don't try to say every brand promise in every paragraph. Pick one: lava stone OR
 | Email — newsletter | Light, intimate | 150–300 words | "Quick note from Brampton." |
 | Press pitch | Angle-first, specific | 150–250 words | "Brampton's first lava-stone commercial grill opens Saturday." |
 | Review reply (5★) | Warm, specific, brief | ≤ 25 words | "Thank you, [name]. The Lamb Cube is a team favourite too." |
-| Review reply (3★, pre-approved) | Sincere, direct line | ≤ 45 words | "Thanks for coming in, [name]. I'm Soha — DM me and we'll sort it." |
+| Review reply (3★, pre-approved) | Sincere, direct line | ≤ 45 words | "Thanks for coming in, [name]. I'm Lazzat-Social — DM me and we'll sort it." |
 | Customer DM | Conversational, no emojis overload | ≤ 60 words | "Thanks Amina — so glad the Paneer Cube hit. Try Lazzat Green next time." |
 
 ---
@@ -120,7 +120,7 @@ Use a phrase early, bring it back in the closer. "Every table welcome" works as 
 
 ❌ *"Our chef believes food should be healthy and fresh, and our authentic recipes are made with love using farm-to-table ingredients for the best Brampton experience."*
 
-✅ *"Chef Mudassar weighs every cube. 200 grams. Every time. The stone does the searing; we keep the oil low and the method honest. Maple Lodge Farms chicken, Ontario Food Terminal produce. That's the whole recipe."*
+✅ *"Chef Lazzat-Kitchen weighs every cube. 200 grams. Every time. The stone does the searing; we keep the oil low and the method honest. Maple Lodge Farms chicken, Ontario Food Terminal produce. That's the whole recipe."*
 
 ### Example 3
 
@@ -135,7 +135,7 @@ Use a phrase early, bring it back in the closer. "Every table welcome" works as 
 - [ ] Opens with a noun or an action, not "We" or "Our"
 - [ ] No hedging words
 - [ ] No banned words
-- [ ] Names at least one real proper noun (Brampton, McVean, Mudassar, etc.)
+- [ ] Names at least one real proper noun (Brampton, McVean, Lazzat-Kitchen, etc.)
 - [ ] Ends with a clear CTA or question
 - [ ] Primary tagline appears ONCE in long-form
 - [ ] Paragraphs vary in length

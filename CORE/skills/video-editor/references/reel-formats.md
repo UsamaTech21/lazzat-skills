@@ -1,6 +1,6 @@
-# The 10 Repeatable Reel Formats
+﻿# The 10 Repeatable Reel Formats
 
-> **Rule:** Don't invent new formats every week. Use the 10 below. Only propose a new format with Soha + Usama sign-off.
+> **Rule:** Don't invent new formats every week. Use the 10 below. Only propose a new format with Lazzat-Social + Lazzat-Brand sign-off.
 
 ---
 
@@ -140,7 +140,7 @@ SCENE 1 (2–10s): Deliveries arrive — Ontario Food Terminal produce + Maple L
              TEXT: "Fresh in daily."
 SCENE 2 (10–20s): Prep — cubes weighed, sauces portioned, stations stocked.
              TEXT: "Before doors open."
-SCENE 3 (20–26s): Chef Mudassar inspects the grill.
+SCENE 3 (20–26s): Chef Lazzat-Kitchen inspects the grill.
              TEXT: "[Name]: Head Grill."
 CTA (26–30s): Open sign flips.
              TEXT: "Now open."
@@ -167,7 +167,7 @@ CTA (11–15s): Logo + CTA.
 
 ---
 
-## Format 9 — Brand Story Cut (from Jawad's master)
+## Format 9 — Brand Story Cut (from Lazzat-BrandFilm's master)
 
 **Length:** 30 / 60 / 90 seconds · **Pillar:** 6 · **Use:** Launch + anniversary
 
@@ -175,8 +175,8 @@ CTA (11–15s): Logo + CTA.
 Cuts derived from `Lazzat_Brand_Film_Package_Final.pdf` master. Pull frames that hit these beats:
 1. Opening brand truth ("A grill for every table.")
 2. Brampton context shot
-3. Founder frame (Sir Waqas)
-4. Team frame (Mudassar / Remon / Usama / Soha)
+3. Founder frame (Lazzat-Founder)
+4. Team frame (Lazzat-Kitchen / Lazzat-Grill / Lazzat-Brand / Lazzat-Social)
 5. Lava stone sear frame
 6. Dietary inclusivity frame (vegetarian + vegan + meat together)
 7. Closing tagline: "Uniting Through Flavours."
@@ -189,7 +189,7 @@ EXPORTS:
 - 9s teaser — TikTok + IG Reels hook
 ```
 
-**Every cut routes through Sir Waqas + Usama before publish.**
+**Every cut routes through Lazzat-Founder + Lazzat-Brand before publish.**
 
 ---
 
@@ -243,6 +243,6 @@ Reference examples: [links to 3 comparable videos from other brands]
 Why we need this: [1-2 sentences]
 Brand-compliance risk: [low / med / high + explanation]
 Test plan: [3 reels as pilot]
-Proposer: [Zohaib / Soha / other]
-Approver: Usama (required) + Sir Waqas (if high brand-risk)
+Proposer: [Lazzat-Video / Lazzat-Social / other]
+Approver: Lazzat-Brand (required) + Lazzat-Founder (if high brand-risk)
 ```

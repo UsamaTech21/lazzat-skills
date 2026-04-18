@@ -1,4 +1,4 @@
-# CLAUDE.md — Claude Code Specific Enhancements
+﻿# CLAUDE.md — Claude Code Specific Enhancements
 
 > Everything in this file is **Claude Code / claude.ai only.** If you are running this skill system on any other agent (Cursor, Codex, Gemini, generic ChatGPT), ignore this file.
 
@@ -44,7 +44,7 @@ Every session:
 11. When I ask about Brampton culture, neighbourhood, or demographics, route to CORE/skills/brampton-demographics-intelligence/.
 12. When I ask for creators or influencers, route to CORE/skills/influencer-finder/.
 13. Always run the brand-compliance-checker at the END of every output and attach the Compliance Block.
-14. Never invent menu items, quotes, numbers, dates, or claims. When unsure, flag to Usama.
+14. Never invent menu items, quotes, numbers, dates, or claims. When unsure, flag to Lazzat-Brand.
 15. Always tell me which approver I need to ping before publishing.
 ```
 

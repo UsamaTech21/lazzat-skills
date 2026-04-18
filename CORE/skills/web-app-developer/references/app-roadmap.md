@@ -1,6 +1,6 @@
-# Lazzat Mobile App — Phased Roadmap
+﻿# Lazzat Mobile App — Phased Roadmap
 
-> **Vision (Sir Waqas):** A dedicated Lazzat app that bypasses third-party delivery commissions, builds loyalty, and gives Brampton customers the smoothest ordering in the city.
+> **Vision (Lazzat-Founder):** A dedicated Lazzat app that bypasses third-party delivery commissions, builds loyalty, and gives Brampton customers the smoothest ordering in the city.
 
 ---
 
@@ -20,11 +20,11 @@ Deliverables: stable website, stable delivery integrations, Toast POS tuned, cle
 ## Phase 1 — Scope + Vendor Selection (Months 4–6)
 
 ### Deliverables
-- Requirements doc (Sir Waqas + Usama + Ali Hamza co-authored)
+- Requirements doc (Lazzat-Founder + Lazzat-Brand + Lazzat-SEO co-authored)
 - Vendor shortlist (3 agencies or hybrid)
 - Technical architecture
 - Budget approved
-- Go/no-go decision by Sir Waqas
+- Go/no-go decision by Lazzat-Founder
 
 ### Requirements (v1 MVP)
 - Auth: phone OTP (low friction)
@@ -62,7 +62,7 @@ Deliverables: stable website, stable delivery integrations, Toast POS tuned, cle
 ### Estimated budget
 - MVP build: $35–$55K CAD (agency) OR $25–$40K (hybrid in-house)
 - Ongoing maintenance: $1–$2K/month
-- Vendor: Shortlist includes 1 Brampton-based agency, 1 Toronto, 1 nearshore — Ali Hamza + Sir Waqas decide
+- Vendor: Shortlist includes 1 Brampton-based agency, 1 Toronto, 1 nearshore — Lazzat-SEO + Lazzat-Founder decide
 
 ### Go/no-go criteria
 - Website doing 1,000+ orders/month organic
@@ -109,7 +109,7 @@ Deliverables: stable website, stable delivery integrations, Toast POS tuned, cle
 ### Post-launch ops
 - Weekly app dashboard: installs, DAU/MAU, avg order value, loyalty conversion
 - Monthly feature iteration (based on top user-requests)
-- Customer support: in-app support chat OR routed to Soha
+- Customer support: in-app support chat OR routed to Lazzat-Social
 - Crash rate target: < 0.5%
 
 ### Phase 3 additions (after 3 months of stable operation)
@@ -126,7 +126,7 @@ Deliverables: stable website, stable delivery integrations, Toast POS tuned, cle
 ### Expansion
 - Add 3rd location flow (if approved)
 - Multi-location order routing
-- Franchise / multi-brand support (if Sir Waqas pursues)
+- Franchise / multi-brand support (if Lazzat-Founder pursues)
 - Deeper loyalty tiers
 - Referral program with tracked attribution
 
@@ -182,7 +182,7 @@ Deliverables: stable website, stable delivery integrations, Toast POS tuned, cle
 
 ## Decision Checkpoints
 
-Sir Waqas must sign off at each gate:
+Lazzat-Founder must sign off at each gate:
 
 1. **Gate A (end of Phase 1):** Vendor selected, architecture approved, budget signed
 2. **Gate B (end of Sprint 4):** Beta-ready MVP working, no critical bugs

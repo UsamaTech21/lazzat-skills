@@ -1,8 +1,8 @@
-# Lazzat Grill & Shakes — AI Marketing Agency Skill System
+﻿# Lazzat Grill & Shakes — AI Marketing Agency Skill System
 
 > **Internal use — Lazzat team only.**
 > Version **1.0.0** · April 2026 · Brampton, Ontario
-> Owner: Usama (Brand & Marketing Lead) · Sign-off: Sir Waqas (Founder)
+> Owner: Lazzat-Brand (Brand & Marketing Lead) · Sign-off: Lazzat-Founder (Founder)
 
 A production-grade library of Claude / Claude Code skills that turns any AI session into Lazzat's in-house marketing agency — brand-compliant, menu-accurate, approver-aware, and automatically compliance-checked.
 
@@ -21,7 +21,7 @@ Every output the system produces is:
 
 1. Grounded in Lazzat's real menu (`CORE/menu-v14.md`) and approved claims (`CORE/approved-claims.md`).
 2. Ended with an auto-generated Compliance Block.
-3. Routed to the correct approver (Usama / Soha / Sir Waqas).
+3. Routed to the correct approver (Lazzat-Brand / Lazzat-Social / Lazzat-Founder).
 
 ---
 
@@ -30,17 +30,17 @@ Every output the system produces is:
 | # | Skill | Who Uses It | Path |
 |---|---|---|---|
 | 1 | Brand Compliance Checker | Everyone (auto-runs) | `CORE/skills/brand-compliance-checker/` |
-| 2 | Senior Strategist | Usama | `CORE/skills/senior-strategist/` |
-| 3 | Social Media Handler | Soha, Content Writer | `CORE/skills/social-media-handler/` |
-| 4 | Content Writer | Content Writer, Usama | `CORE/skills/content-writer/` |
-| 5 | SEO Expert | Ali Hamza | `CORE/skills/seo-expert/` |
-| 6 | Digital Marketer | Ali Ahmed, Usama | `CORE/skills/digital-marketer/` |
-| 7 | Graphic Designer | Soha, Designer | `CORE/skills/graphic-designer/` |
-| 8 | Video Editor | Zohaib, Video team | `CORE/skills/video-editor/` |
+| 2 | Senior Strategist | Lazzat-Brand | `CORE/skills/senior-strategist/` |
+| 3 | Social Media Handler | Lazzat-Social, Content Writer | `CORE/skills/social-media-handler/` |
+| 4 | Content Writer | Content Writer, Lazzat-Brand | `CORE/skills/content-writer/` |
+| 5 | SEO Expert | Lazzat-SEO | `CORE/skills/seo-expert/` |
+| 6 | Digital Marketer | Lazzat-Ads, Lazzat-Brand | `CORE/skills/digital-marketer/` |
+| 7 | Graphic Designer | Lazzat-Social, Designer | `CORE/skills/graphic-designer/` |
+| 8 | Video Editor | Lazzat-Video, Video team | `CORE/skills/video-editor/` |
 | 9 | Web & App Developer | Web Dev | `CORE/skills/web-app-developer/` |
-| 10 | Guerrilla & Movement Marketer | Usama | `CORE/skills/guerrilla-movement-marketer/` |
-| 11 | Brampton Demographics Intelligence | Usama, Ali | `CORE/skills/brampton-demographics-intelligence/` |
-| 12 | Influencer Finder | Usama, Soha | `CORE/skills/influencer-finder/` |
+| 10 | Guerrilla & Movement Marketer | Lazzat-Brand | `CORE/skills/guerrilla-movement-marketer/` |
+| 11 | Brampton Demographics Intelligence | Lazzat-Brand, Lazzat-Ads | `CORE/skills/brampton-demographics-intelligence/` |
+| 12 | Influencer Finder | Lazzat-Brand, Lazzat-Social | `CORE/skills/influencer-finder/` |
 
 ---
 
@@ -97,7 +97,7 @@ Every output the system produces is:
 2. Upload this entire `lazzat-skills/` folder.
 3. Paste into **Project Instructions**:
 
-   > *You are Lazzat's internal AI marketing agency. Always read `CORE/SKILL.md` first. Follow `CORE/brand-guidelines.md`, `CORE/approved-claims.md`, `CORE/menu-v14.md`, `CORE/team-roles.md`, `CORE/team-bios.md`, and `CORE/brand-story.md`. Run `CORE/content-compliance-checklist.md` on every single piece of content you produce and attach the Compliance Block at the end of every output. When a teammate asks for strategy, social, content, SEO, paid, design, video, web, guerrilla, demographics, or influencer work — route through the matching skill under `CORE/skills/`. Never guess claims. When unsure, flag to Usama.*
+   > *You are Lazzat's internal AI marketing agency. Always read `CORE/SKILL.md` first. Follow `CORE/brand-guidelines.md`, `CORE/approved-claims.md`, `CORE/menu-v14.md`, `CORE/team-roles.md`, `CORE/team-bios.md`, and `CORE/brand-story.md`. Run `CORE/content-compliance-checklist.md` on every single piece of content you produce and attach the Compliance Block at the end of every output. When a teammate asks for strategy, social, content, SEO, paid, design, video, web, guerrilla, demographics, or influencer work — route through the matching skill under `CORE/skills/`. Never guess claims. When unsure, flag to Lazzat-Brand.*
 
 4. Every team member uses the same Project. Brand rules stay consistent for everyone.
 
@@ -131,15 +131,15 @@ git submodule add https://github.com/<your-org>/lazzat-skills .skills/lazzat
 
 | Decision | Approver |
 |---|---|
-| Routine post (compliance PASS) | Usama + Soha |
-| New campaign type | **Sir Waqas** |
-| Ad budget > $100 | **Sir Waqas** |
-| New claim not in `approved-claims.md` | **Sir Waqas** |
-| Blog publish | Usama |
-| Website major change | **Sir Waqas** |
-| Menu change | **Sir Waqas** |
-| Influencer deal (paid) | **Sir Waqas** |
-| Wall panel / in-store print | Usama + Sir Waqas |
+| Routine post (compliance PASS) | Lazzat-Brand + Lazzat-Social |
+| New campaign type | **Lazzat-Founder** |
+| Ad budget > $100 | **Lazzat-Founder** |
+| New claim not in `approved-claims.md` | **Lazzat-Founder** |
+| Blog publish | Lazzat-Brand |
+| Website major change | **Lazzat-Founder** |
+| Menu change | **Lazzat-Founder** |
+| Influencer deal (paid) | **Lazzat-Founder** |
+| Wall panel / in-store print | Lazzat-Brand + Lazzat-Founder |
 
 Full matrix → `CORE/team-roles.md`.
 
@@ -232,7 +232,7 @@ See `VERSIONS.md` for the full table. Every skill carries a semver version in it
 
 Before you touch anything, read `CONTRIBUTING.md`. In summary:
 
-1. Open an issue / message Usama first — no unsolicited skill additions.
+1. Open an issue / message Lazzat-Brand first — no unsolicited skill additions.
 2. Every new skill follows the Agent Skills Specification (see `AGENTS.md`).
 3. Every change must pass `validate-skills.sh` (or `.ps1` on Windows).
 4. Every PR uses `.github/PULL_REQUEST_TEMPLATE/new-skill.md`.
@@ -248,5 +248,5 @@ MIT — see `LICENSE`. Lazzat brand IP (name, logo, recipes, wall content, brand
 
 ## File Owner
 
-**Usama** — Brand & Marketing Lead, Lazzat Grill & Shakes.
-All CORE/ changes require Usama sign-off + Sir Waqas notification.
+**Lazzat-Brand** — Brand & Marketing Lead, Lazzat Grill & Shakes.
+All CORE/ changes require Lazzat-Brand sign-off + Lazzat-Founder notification.

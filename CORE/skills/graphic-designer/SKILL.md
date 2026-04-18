@@ -1,4 +1,4 @@
----
+﻿---
 name: graphic-designer
 description: "Lazzat's visual design lead. Use for: Canva design briefs, post layout direction, social media templates (feed, story, reel cover, carousel), in-store signage, menu boards, print collateral, packaging visual specs, business cards, uniforms / apron direction, storefront vinyl spec, wall-panel artwork briefs, ad creative specs, catering brochure, email templates. Triggers on: 'design a post', 'Canva brief', 'create a graphic', 'what should it look like', 'visual for this', 'post template', 'design direction', 'make a banner', 'packaging design', 'menu board', 'signage', 'printing', 'carousel', 'reel cover', 'brand kit'. Related skills: core-brand, social-media-handler, digital-marketer, content-writer, video-editor, brand-compliance-checker."
 license: MIT
@@ -53,7 +53,7 @@ POST TYPE: [Feed square / Feed portrait 4:5 / Story / Reel cover / Carousel / Ba
 SIZE (px): [1080×1080 / 1080×1350 / 1080×1920 / 1200×628 / A4 / A3 / custom]
 FORMAT: [PNG, JPG, PDF, MP4, Canva-share-link]
 DEADLINE: [YYYY-MM-DD, HH:MM]
-APPROVER: [Usama / Sir Waqas]
+APPROVER: [Lazzat-Brand / Lazzat-Founder]
 
 BACKGROUND: [#1A1A1A charcoal OR #F2EBDD cream — pick one]
 HEADLINE: "[Exact text, ≤ 6 words, Arial Black]"
@@ -78,7 +78,7 @@ COMPLIANCE CHECK:
   [ ] Logo clear space respected
   [ ] Brand-compliance-checker run
 
-APPROVER SIGN-OFF: [Usama / Sir Waqas — date]
+APPROVER SIGN-OFF: [Lazzat-Brand / Lazzat-Founder — date]
 ```
 
 ---
@@ -92,7 +92,7 @@ APPROVER SIGN-OFF: [Usama / Sir Waqas — date]
 - Menu board — in-store digital (16:9) + print A2
 - Sign vinyl — storefront signage
 - Apron + polo tag designs
-- Business cards for Sir Waqas, Soha, Usama, Mudassar, Remon
+- Business cards for Lazzat-Founder, Lazzat-Social, Lazzat-Brand, Lazzat-Kitchen, Lazzat-Grill
 - Wall panels (art-directed from Wall Posts v4 extraction)
 - Takeaway bag + cup wraparound (cream base, charcoal logo, tagline)
 - Catering brochure (A4 trifold)
@@ -105,7 +105,7 @@ APPROVER SIGN-OFF: [Usama / Sir Waqas — date]
 - Press kit PDF
 - Instagram bio highlight icons (6: Menu, Catering, Locations, Reviews, Team, Story)
 - Kids menu printable activity placemat
-- Loyalty / referral card (if Sir Waqas approves)
+- Loyalty / referral card (if Lazzat-Founder approves)
 
 ### Always-on
 - Weekly feed templates (per pillar)
@@ -115,7 +115,7 @@ APPROVER SIGN-OFF: [Usama / Sir Waqas — date]
 
 ---
 
-## Photography Direction (brief to Zohaib / Jawad)
+## Photography Direction (brief to Lazzat-Video / Lazzat-BrandFilm)
 
 ### Hero dish shot
 - Angle: 3/4 (front-elevated) OR 45° overhead

@@ -1,4 +1,4 @@
-# On-Page SEO Rules
+﻿# On-Page SEO Rules
 
 > **Rule:** Every Lazzat page must pass these rules before publish. No exceptions.
 
@@ -28,7 +28,7 @@ Examples:
 - Includes one concrete CTA (`Order online`, `See the menu`, `Book catering`, `Visit McVean Dr`)
 - First-person plural allowed ("We grill on volcanic lava stone…")
 - No banned words (authentic / passionate / delicious)
-- Never promise features we don't have (delivery radius, loyalty, etc. — check with Usama)
+- Never promise features we don't have (delivery radius, loyalty, etc. — check with Lazzat-Brand)
 
 Example:
 `Lazzat Grill & Shakes: halal-sourced lava stone grill in Brampton. 200g honest protein, 13 sauces, open kitchen. Visit McVean Dr or Clarence St.` (157 chars)
@@ -113,7 +113,7 @@ All schema lives in `<head>` or just before `</body>`, JSON-LD format.
 | Menu page | Menu + MenuSection + MenuItem (every item from menu-v14) |
 | Blog | BlogPosting + FAQPage (where the blog answers questions) + Person (author) |
 | Catering | Service + FAQPage |
-| About | AboutPage + Person (Sir Waqas as Founder) + Organization |
+| About | AboutPage + Person (Lazzat-Founder as Founder) + Organization |
 
 ### Example LocalBusiness Schema (McVean Dr)
 
@@ -141,7 +141,7 @@ All schema lives in `<head>` or just before `</body>`, JSON-LD format.
 
 **Never** include in schema:
 - "halalCertified: true" — Lazzat is halal-sourced, not certified
-- Prices for items Sir Waqas hasn't approved for public disclosure
+- Prices for items Lazzat-Founder hasn't approved for public disclosure
 - Aggregate ratings unless pulled from live review platforms
 
 ---

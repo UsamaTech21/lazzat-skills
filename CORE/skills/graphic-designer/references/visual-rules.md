@@ -1,4 +1,4 @@
-# Lazzat Visual Rules
+﻿# Lazzat Visual Rules
 
 > **Rule:** If a design breaks these, it never leaves Canva.
 
@@ -110,7 +110,7 @@ Minimum = **1× the logo height** on all sides. Non-negotiable.
 - Rotated > 15°
 - Recolored outside palette
 - Placed on busy imagery without a solid backing plate
-- Combined with a partner logo without Usama + Sir Waqas approval
+- Combined with a partner logo without Lazzat-Brand + Lazzat-Founder approval
 
 ---
 
@@ -122,7 +122,7 @@ Minimum = **1× the logo height** on all sides. Non-negotiable.
 - Size: 48px minimum on social; 24px minimum in signage
 
 Approved icon families: Feather Icons / Iconoir / Lucide
-Custom icons: route via Soha for brand-fit review.
+Custom icons: route via Lazzat-Social for brand-fit review.
 
 ---
 
@@ -165,7 +165,7 @@ Custom icons: route via Soha for brand-fit review.
 - No stock photography
 - No person-less generic backgrounds (always tie imagery to Brampton / Lazzat / team / real food)
 - No 3rd-party branding (Canva stock, Freepik watermarks, memojis, emojis as large graphic elements)
-- No price callouts in social creative without Usama + Sir Waqas sign-off
+- No price callouts in social creative without Lazzat-Brand + Lazzat-Founder sign-off
 - No "Best in Brampton" / "#1" / "Award-winning" claims anywhere visual
 
 ---
@@ -174,14 +174,14 @@ Custom icons: route via Soha for brand-fit review.
 
 | Asset | First approver | Final approver |
 |---|---|---|
-| Social post (routine) | Soha | Usama |
-| Ad creative | Usama | Zohaib launches after Usama sign-off |
-| Campaign key-visual | Usama | Sir Waqas |
-| Storefront / signage | Usama | Sir Waqas |
-| Packaging | Usama | Sir Waqas |
-| Business cards | Usama | Sir Waqas |
-| Wall panel artwork | Usama | Sir Waqas |
-| Anniversary / major campaign | Usama | Sir Waqas |
+| Social post (routine) | Lazzat-Social | Lazzat-Brand |
+| Ad creative | Lazzat-Brand | Lazzat-Video launches after Lazzat-Brand sign-off |
+| Campaign key-visual | Lazzat-Brand | Lazzat-Founder |
+| Storefront / signage | Lazzat-Brand | Lazzat-Founder |
+| Packaging | Lazzat-Brand | Lazzat-Founder |
+| Business cards | Lazzat-Brand | Lazzat-Founder |
+| Wall panel artwork | Lazzat-Brand | Lazzat-Founder |
+| Anniversary / major campaign | Lazzat-Brand | Lazzat-Founder |
 
 ---
 

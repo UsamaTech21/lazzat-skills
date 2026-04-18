@@ -1,6 +1,6 @@
-# 6-Month Strategic Roadmap (Apr 2026 → Oct 2026)
+﻿# 6-Month Strategic Roadmap (Apr 2026 → Oct 2026)
 
-> **Owner:** Usama | **Approver:** Sir Waqas
+> **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder
 > **Last updated:** 2026-04-17
 > **Status:** Living document — reviewed first Tuesday of every month.
 
@@ -12,19 +12,19 @@
 
 | Day | Focus | Owner | Output |
 |---|---|---|---|
-| Apr 14 | Brand content lock | Usama | Brand-guidelines, approved-claims, menu v14 signed |
-| Apr 15 | Team meeting #03 | All | Ali Ahmed onboarded, roles confirmed |
-| Apr 16 | Wall panels finalized | Soha + Designer | Print files sent to vendor |
-| Apr 17 | GMB profile complete | Ali Hamza | Both locations live + verified |
+| Apr 14 | Brand content lock | Lazzat-Brand | Brand-guidelines, approved-claims, menu v14 signed |
+| Apr 15 | Team meeting #03 | All | Lazzat-Ads onboarded, roles confirmed |
+| Apr 16 | Wall panels finalized | Lazzat-Social + Designer | Print files sent to vendor |
+| Apr 17 | GMB profile complete | Lazzat-SEO | Both locations live + verified |
 | Apr 18 | Website soft-live | Web Dev | Menu v14 page + catering form + locations |
-| Apr 19 | IG + TikTok accounts seeded | Soha | 6 teaser posts queued |
-| Apr 20 | Delivery platform registration (pending Sir Waqas PDF) | Ali Ahmed | Uber / DoorDash / Skip in pipeline |
-| Apr 21 | Toast POS + email capture live | Web Dev + Kamran | Customer list starts |
-| Apr 22 | Soft-opening team dinner (internal only, no press) | Usama | Team photos for future BTS |
-| Apr 23 | Dry-run service — friends & family | Mudassar + Remon | Service & timing data |
-| Apr 24 | Final brand compliance sweep | Usama | All live copy re-checked |
+| Apr 19 | IG + TikTok accounts seeded | Lazzat-Social | 6 teaser posts queued |
+| Apr 20 | Delivery platform registration (pending Lazzat-Founder PDF) | Lazzat-Ads | Uber / DoorDash / Skip in pipeline |
+| Apr 21 | Toast POS + email capture live | Web Dev + Lazzat-Tech | Customer list starts |
+| Apr 22 | Soft-opening team dinner (internal only, no press) | Lazzat-Brand | Team photos for future BTS |
+| Apr 23 | Dry-run service — friends & family | Lazzat-Kitchen + Lazzat-Grill | Service & timing data |
+| Apr 24 | Final brand compliance sweep | Lazzat-Brand | All live copy re-checked |
 | Apr 25 | Final rehearsal + eve of launch | All | Everything ready |
-| **Apr 26** | **OPENING — McVean Dr** | **Sir Waqas** | **Go live** |
+| **Apr 26** | **OPENING — McVean Dr** | **Lazzat-Founder** | **Go live** |
 
 ---
 
@@ -109,7 +109,7 @@
 - Dietary-inclusivity hero month: vegan / vegetarian options front-and-center
 - Thanksgiving community content (global framing, not US-centric)
 - Navratri-aware content (no meat specials that week; plant-forward spotlight)
-- First attempt at guerrilla stunt (low-cost street-flame demo — Usama + Remon)
+- First attempt at guerrilla stunt (low-cost street-flame demo — Lazzat-Brand + Lazzat-Grill)
 
 ---
 
@@ -147,7 +147,7 @@
 ### Quarterly-on
 - Pillar mix audit (should match 20/25/15/10/15/15 ± 5%)
 - Competitor re-scan
-- Roadmap revision + Sir Waqas sign-off
+- Roadmap revision + Lazzat-Founder sign-off
 
 ---
 
@@ -160,12 +160,12 @@
 | Phase 2 (Aug–Oct) | ~$800 | $500–1,500 | $1,300–2,300 |
 | Phase 3 (Nov–Apr) | ~$1,000 | $1,500–3,000 | $2,500–4,000 |
 
-All paid budgets require Sir Waqas written approval per month.
+All paid budgets require Lazzat-Founder written approval per month.
 
 ---
 
 ## Review Cadence
 
 - First Tuesday of every month → team reviews this file
-- Any change to this roadmap → Usama updates → Sir Waqas initials
+- Any change to this roadmap → Lazzat-Brand updates → Lazzat-Founder initials
 - Version bump on this file triggers VERSIONS.md row update

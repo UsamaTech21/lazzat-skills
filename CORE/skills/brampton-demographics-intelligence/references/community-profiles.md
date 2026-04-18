@@ -1,7 +1,7 @@
-# Brampton Community Profiles
+﻿# Brampton Community Profiles
 
 > **Source:** `Brampton_Canada_Demographics_2026.txt` + Lazzat Marketing Strategy doc
-> **Owner:** Usama | **Last updated:** 2026-04-17
+> **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17
 > **Rule:** Read as a *data layer*, not an identity. Lazzat speaks to all communities through one global brand voice.
 
 Every profile is structured the same way:
@@ -230,6 +230,6 @@ Every profile is structured the same way:
 
 1. **Lazzat never picks a team.** Every profile is a customer segment, not a brand identity.
 2. **Every community deserves a featured post at least once per month.**
-3. **Sensitivity beats speed.** If a festival is religious or sensitive, delay 24–48h and check with Usama.
+3. **Sensitivity beats speed.** If a festival is religious or sensitive, delay 24–48h and check with Lazzat-Brand.
 4. **Consent for photography always.** Community features use real customers (with written DM consent) or staged with the team (diverse by default).
 5. **Avoid regional imagery shortcuts.** Marigolds, turbans, hijabs, diyas, banana leaves — none of these are Lazzat's visual language. Warm cream, charcoal, lava stone, global plates are.

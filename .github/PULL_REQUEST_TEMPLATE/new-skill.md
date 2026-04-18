@@ -1,4 +1,4 @@
-# New / Updated Skill — PR Template
+﻿# New / Updated Skill — PR Template
 
 ## Skill name
 `<skill-name>` (must match directory under `CORE/skills/`)
@@ -14,7 +14,7 @@
   - [ ] PATCH (wording / typo / reference-only change, no behavior change)
   - [ ] MINOR (new template / new reference / extended behavior)
   - [ ] MAJOR (behavior change, new approval route, new compliance rule)
-- [ ] CORE change (REQUIRES Sir Waqas written approval attached)
+- [ ] CORE change (REQUIRES Lazzat-Founder written approval attached)
 
 ## Brand / Compliance
 - [ ] Brand voice, palette, fonts — within `CORE/brand-guidelines.md`
@@ -50,8 +50,8 @@
 - [ ] `VERSIONS.md` row updated
 
 ## Approvers pinged
-- Usama: [ ]
-- Sir Waqas (CORE only): [ ]
+- Lazzat-Brand: [ ]
+- Lazzat-Founder (CORE only): [ ]
 
 ## Notes
 <!-- Anything else reviewers should know. -->

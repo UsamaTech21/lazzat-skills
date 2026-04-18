@@ -1,6 +1,6 @@
-# Blog + Long-Form Topic Bank
+﻿# Blog + Long-Form Topic Bank
 
-> **Rule:** Every blog must map to one of the 6 content pillars and one primary keyword. Pick from this list first; only create new topics with Usama's approval.
+> **Rule:** Every blog must map to one of the 6 content pillars and one primary keyword. Pick from this list first; only create new topics with Lazzat-Brand's approval.
 
 ---
 
@@ -36,12 +36,12 @@
 
 | # | Working title | Primary keyword | Word count | Audience |
 |---|---|---|---|---|
-| 15 | Meet Chef Mudassar — The Grill Behind the Grill | brampton chef lava stone grill | 900 | Team spotlight |
-| 16 | Remon's Kitchen — Toronto to Brampton | persian chef brampton | 800 | Human-interest |
-| 17 | Why Sir Waqas Said No to Charcoal | brampton restaurant founder story | 1,200 | Brand-origin |
-| 18 | Professor Parveen's Validation Rounds | food scientist brampton restaurant | 900 | Credibility-focused |
-| 19 | Soha on Social — The Voice of Lazzat Online | brampton restaurant instagram story | 800 | Brand-voice audience |
-| 20 | Ali Ahmed — Built From Scratch | brampton restaurant construction story | 900 | Founder-story |
+| 15 | Meet Chef Lazzat-Kitchen — The Grill Behind the Grill | brampton chef lava stone grill | 900 | Team spotlight |
+| 16 | Lazzat-Grill's Kitchen — Toronto to Brampton | persian chef brampton | 800 | Human-interest |
+| 17 | Why Lazzat-Founder Said No to Charcoal | brampton restaurant founder story | 1,200 | Brand-origin |
+| 18 | Lazzat-Culinary's Validation Rounds | food scientist brampton restaurant | 900 | Credibility-focused |
+| 19 | Lazzat-Social on Social — The Voice of Lazzat Online | brampton restaurant instagram story | 800 | Brand-voice audience |
+| 20 | Lazzat-Ads — Built From Scratch | brampton restaurant construction story | 900 | Founder-story |
 
 ---
 
@@ -89,7 +89,7 @@
 | L1 | Grand Opening Recap — April 26 at McVean Dr | Week 1 after launch |
 | L2 | First 500 Bowls Built — A Thank You | Week 2 |
 | L3 | What We Learned in Week One | Week 3 |
-| L4 | Introducing the Secret Menu (IF approved by Sir Waqas) | Week 6 |
+| L4 | Introducing the Secret Menu (IF approved by Lazzat-Founder) | Week 6 |
 | L5 | First-Month Numbers — Honestly | Week 5 |
 
 ---
@@ -122,6 +122,6 @@
 ## Process for New Topics
 
 1. Draft 1-line topic + pillar + primary keyword
-2. Send to Usama for approval
+2. Send to Lazzat-Brand for approval
 3. Add to this list with number + date
 4. Write to checklist

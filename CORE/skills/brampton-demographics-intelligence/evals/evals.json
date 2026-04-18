@@ -1,11 +1,11 @@
-{
+﻿{
   "skill": "brampton-demographics-intelligence",
   "version": "1.0.0",
   "cases": [
     {
       "id": "bdi-01-community-ask",
       "prompt": "Who should we target for Vaisakhi this year?",
-      "expected_behavior": "Reference community-profiles + cultural-calendar. Recommend global framing with Vaisakhi as the moment. Pair Paneer Cube + Saffron Rice as primary item. Provide sensitivity notes (no religious imagery, Sikh-distinct framing). Include pillar (Community Brampton) + approver (Usama). End with compliance block.",
+      "expected_behavior": "Reference community-profiles + cultural-calendar. Recommend global framing with Vaisakhi as the moment. Pair Paneer Cube + Saffron Rice as primary item. Provide sensitivity notes (no religious imagery, Sikh-distinct framing). Include pillar (Community Brampton) + approver (Lazzat-Brand). End with compliance block.",
       "assertions": [
         "cites community-profiles.md or cultural-calendar.md",
         "uses global framing, not 'for Sikh community'",

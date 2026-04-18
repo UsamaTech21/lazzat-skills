@@ -1,4 +1,4 @@
-{
+﻿{
   "skill": "social-media-handler",
   "version": "1.0.0",
   "cases": [
@@ -30,9 +30,9 @@
     {
       "id": "sm-03-review-reply-1star",
       "prompt": "Write a reply to a 1-star review: 'Food was cold and the server was rude.'",
-      "expected_behavior": "Does NOT reply publicly. Output: HOLD + ESCALATE TO USAMA. Explains the playbook. Drafts a proposed reply for Usama's approval, keeping it empathetic, specific, offering a direct line (Soha's DM), and no 'unfortunately'.",
+      "expected_behavior": "Does NOT reply publicly. Output: HOLD + ESCALATE TO USAMA. Explains the playbook. Drafts a proposed reply for Lazzat-Brand's approval, keeping it empathetic, specific, offering a direct line (Lazzat-Social's DM), and no 'unfortunately'.",
       "assertions": [
-        "flags hold + escalate to Usama",
+        "flags hold + escalate to Lazzat-Brand",
         "does not publish the reply directly",
         "drafts a reply with empathy and a direct line",
         "does not contain 'unfortunately'"
@@ -41,11 +41,11 @@
     {
       "id": "sm-04-dm-catering-inquiry",
       "prompt": "A DM comes in: 'Hi, I'd like catering for my office, 20 people, next Friday.'",
-      "expected_behavior": "Auto-escalate rule: office catering for 20 — likely > $500 ticket. Reply politely acknowledging, confirm date, ask for dietary notes + delivery address, and CC Usama. Draft the reply.",
+      "expected_behavior": "Auto-escalate rule: office catering for 20 — likely > $500 ticket. Reply politely acknowledging, confirm date, ask for dietary notes + delivery address, and CC Lazzat-Brand. Draft the reply.",
       "assertions": [
         "reply acknowledges the request by the numbers (20 people, Friday)",
         "asks for dietary + delivery details",
-        "escalation to Usama mentioned"
+        "escalation to Lazzat-Brand mentioned"
       ]
     }
   ]

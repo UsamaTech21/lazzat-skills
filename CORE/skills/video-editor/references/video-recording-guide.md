@@ -1,4 +1,4 @@
-# Video Recording Guide — Zohaib's Shoot Playbook
+﻿# Video Recording Guide — Lazzat-Video's Shoot Playbook
 
 > **Rule:** Every shoot follows this. Improvisation on composition is allowed; improvisation on gear spec is not.
 
@@ -6,7 +6,7 @@
 
 ## Pre-Shoot (24 hours before)
 
-- [ ] Confirm shot list with Soha (what's needed this week)
+- [ ] Confirm shot list with Lazzat-Social (what's needed this week)
 - [ ] Confirm team members on camera (verify uniform + consent)
 - [ ] Charge all batteries; bring spares
 - [ ] Format memory cards (backup first if existing footage)
@@ -84,9 +84,9 @@ Minimum 20 usable clips per shoot across these categories. 3 takes minimum per s
 
 ### Team (medium priority)
 11. Team member at station — 3/4 angle
-12. Chef Mudassar inspecting grill — portrait
+12. Chef Lazzat-Kitchen inspecting grill — portrait
 13. Wider team shot — 2-3 team members collaborating
-14. Mudassar / Remon plating on the pass
+14. Lazzat-Kitchen / Lazzat-Grill plating on the pass
 15. Team member prepping sauces
 
 ### Kitchen + BTS (medium priority)
@@ -171,7 +171,7 @@ Always scout the location's light before committing — kitchen window light cha
 2. Backup to external SSD — full copy, not sync
 3. Upload to Google Drive folder `Lazzat_Raw/[YYYY-MM-DD]_Shoot`
 4. Rename files: `LZT_raw_[YYYY-MM-DD]_[clip#].MP4`
-5. Hand off to Usama + Soha via shared drive link by end of day
+5. Hand off to Lazzat-Brand + Lazzat-Social via shared drive link by end of day
 6. Do NOT delete originals until:
    - Edit approved and published
    - Backup confirmed in 2 locations
@@ -183,7 +183,7 @@ Always scout the location's light before committing — kitchen window light cha
 
 For any on-camera talent beyond Lazzat employees:
 
-- Simple release form (template held by Usama)
+- Simple release form (template held by Lazzat-Brand)
 - Written signature or clear verbal consent on camera ("Do I have your permission to film for Lazzat's social media? Yes/No")
 - Note their first name + date
 - Children (< 18): parent/guardian signature required — no exceptions
@@ -196,7 +196,7 @@ Store release forms digitally in Google Drive `Lazzat_Admin/Releases/[YYYY-MM]`.
 
 Within 48 hours of shoot:
 
-- [ ] Review all 20+ clips with Soha
+- [ ] Review all 20+ clips with Lazzat-Social
 - [ ] Flag top 5 for editing
 - [ ] Flag unusable clips (out-of-focus, audio problem) for deletion — AFTER 30 days
 - [ ] Tag clips by pillar and format

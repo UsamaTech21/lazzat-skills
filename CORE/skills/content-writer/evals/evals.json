@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "content-writer-evals",
   "skill": "content-writer",
@@ -11,7 +11,7 @@
         "includes": [
           "lava stone",
           "Brampton",
-          "Chef Mudassar",
+          "Chef Lazzat-Kitchen",
           "radiant",
           "open kitchen",
           "Compliance Block"
@@ -47,7 +47,7 @@
       "id": "catering-email",
       "prompt": "Draft a catering reply for 'Sarah' asking about 25-person office lunch on May 14.",
       "expects": {
-        "includes": ["25", "Mega Platter", "Office Combo", "200g", "Soha"],
+        "includes": ["25", "Mega Platter", "Office Combo", "200g", "Lazzat-Social"],
         "excludes": ["unfortunately", "passionate", "authentic", "JazakAllah"],
         "word_count_max": 200
       }
@@ -65,7 +65,7 @@
       "id": "press-pitch-launch",
       "prompt": "Write a press pitch to a Toronto Star food reporter about Lazzat's April 26 opening.",
       "expects": {
-        "includes": ["April 26", "McVean", "lava stone", "Brampton", "Professor Parveen"],
+        "includes": ["April 26", "McVean", "lava stone", "Brampton", "Lazzat-Culinary"],
         "word_count_min": 150,
         "word_count_max": 260,
         "excludes": ["passionate", "journey", "authentic", "delightful"]

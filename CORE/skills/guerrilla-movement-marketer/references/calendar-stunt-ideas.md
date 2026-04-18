@@ -1,6 +1,6 @@
-# Calendar-Linked Stunt Ideas — April 2026 → April 2027
+﻿# Calendar-Linked Stunt Ideas — April 2026 → April 2027
 
-> **Rule:** Every stunt below is tied to a cultural / civic / brand moment. Timing is pre-mapped. Final sign-off = Sir Waqas per stunt.
+> **Rule:** Every stunt below is tied to a cultural / civic / brand moment. Timing is pre-mapped. Final sign-off = Lazzat-Founder per stunt.
 
 ---
 
@@ -8,11 +8,11 @@
 
 ### Apr 22 — Earth Day — "We Buried the Charcoal"
 - See `guerrilla-tactics.md` #8 for full brief.
-- Sir Waqas required sign-off.
+- Lazzat-Founder required sign-off.
 - Content: 2-min doc + 5 reels + 3 press placements.
 
 ### Apr 26 — LAUNCH DAY
-- **NO INFLUENCERS.** (Sir Waqas-confirmed.)
+- **NO INFLUENCERS.** (Lazzat-Founder-confirmed.)
 - Stunt: free tasting to first 200 guests at McVean Dr.
 - Media: invite local Brampton press (Brampton Guardian, Bramptonist) only.
 - Content: 1 brand film short + 10 reels + GMB post at each location.
@@ -159,7 +159,7 @@
 - Every catering order during Ramadan = 1 donated Iftar to a Brampton community fridge.
 - Per `movement-marketing.md` Campaign 3 pulse.
 - Content: 30 daily reels (one story per Iftar donated).
-- Sir Waqas-approved campaign.
+- Lazzat-Founder-approved campaign.
 
 ---
 
@@ -182,7 +182,7 @@
 ### Apr 13 — Vaisakhi 2027
 - **Stunt:** Lazzat Langar — per `guerrilla-tactics.md` #9.
 - 50 free vegetarian grilled-veg platters at McVean Dr.
-- Sir Waqas-approved.
+- Lazzat-Founder-approved.
 - Respectful, not religious marketing.
 
 ### Apr 22 — Earth Day 2027
@@ -192,7 +192,7 @@
 ### Apr 26 — 1-Year Anniversary
 - **Stunt:** Brampton Block Party — per `guerrilla-tactics.md` #10.
 - Full permit cycle started Feb 2027.
-- Sir Waqas-approved + major press pitch.
+- Lazzat-Founder-approved + major press pitch.
 - Anniversary brand film premieres that night.
 
 ---
@@ -201,11 +201,11 @@
 
 | Stunt size | Approver |
 |---|---|
-| < $200 + routine | Usama |
-| $200–$1,000 | Usama → Sir Waqas |
-| > $1,000 OR first-time stunt | Sir Waqas |
-| Permit required | Sir Waqas + Ali Ahmed (logistics) |
-| Cultural sensitivity required | Sir Waqas + `brampton-demographics-intelligence` review |
+| < $200 + routine | Lazzat-Brand |
+| $200–$1,000 | Lazzat-Brand → Lazzat-Founder |
+| > $1,000 OR first-time stunt | Lazzat-Founder |
+| Permit required | Lazzat-Founder + Lazzat-Ads (logistics) |
+| Cultural sensitivity required | Lazzat-Founder + `brampton-demographics-intelligence` review |
 
 ---
 
@@ -217,7 +217,7 @@ An idea is rejected if any of these apply:
 - Religious iconography in commercial content
 - Cultural appropriation risk
 - Requires naming a competitor
-- Requires spending > budget cap without Sir Waqas sign-off
+- Requires spending > budget cap without Lazzat-Founder sign-off
 - Cannot pass `brand-compliance-checker`
 - Requires unapproved claim
 - Poses reputational, food-safety, or legal risk that cannot be mitigated

@@ -1,4 +1,4 @@
-# Video Hook Templates
+﻿# Video Hook Templates
 
 > **Rule:** The first 2 seconds decide the life of a video. If the hook fails, nothing after matters.
 
@@ -50,12 +50,12 @@
 23. "This is what a lava stone looks like at 400°C."
 24. "The reason we don't use oil. Ever."
 25. "What we threw out on Day 1 of Lazzat."
-26. "The one thing Sir Waqas said no to — and why."
-27. "The rule Professor Parveen set for our recipes."
+26. "The one thing Lazzat-Founder said no to — and why."
+27. "The rule Lazzat-Culinary set for our recipes."
 
 ### Team hooks
-28. "Meet Chef Mudassar. He built the grill."
-29. "Remon cooked in Toronto for 20 years. Now he's here."
+28. "Meet Chef Lazzat-Kitchen. He built the grill."
+29. "Lazzat-Grill cooked in Toronto for 20 years. Now he's here."
 30. "My uncle wouldn't let me open without this one test."
 31. "We have a Farsi-English glossary taped to the wall."
 

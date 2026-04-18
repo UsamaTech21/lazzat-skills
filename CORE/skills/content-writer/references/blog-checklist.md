@@ -1,12 +1,12 @@
-# Blog Publishing Checklist
+﻿# Blog Publishing Checklist
 
-> **Rule:** Every blog runs through this end-to-end before it lands in Usama's inbox for approval.
+> **Rule:** Every blog runs through this end-to-end before it lands in Lazzat-Brand's inbox for approval.
 
 ---
 
 ## Stage 1 — Topic + Keyword Lock
 
-- [ ] Topic picked from `topic-bank.md` OR approved by Usama if new
+- [ ] Topic picked from `topic-bank.md` OR approved by Lazzat-Brand if new
 - [ ] Primary keyword picked from `CORE/skills/seo-expert/references/keyword-targets.md`
 - [ ] Secondary keywords (2–3) listed
 - [ ] Search intent identified: informational / navigational / commercial / local
@@ -105,13 +105,13 @@
 - [ ] Menu items listed
 - [ ] Approved claims listed
 - [ ] Tagline usage declared
-- [ ] Approver named (Usama for routine; Sir Waqas for anything touching strategy)
+- [ ] Approver named (Lazzat-Brand for routine; Lazzat-Founder for anything touching strategy)
 
 ---
 
 ## Stage 9 — Hand-off Package
 
-Deliver to Usama as one document with:
+Deliver to Lazzat-Brand as one document with:
 
 1. Blog (with frontmatter)
 2. Featured image brief (for graphic-designer)
@@ -124,7 +124,7 @@ Deliver to Usama as one document with:
 ## Stage 10 — Post-Publish
 
 - [ ] URL submitted to Google Search Console
-- [ ] URL shared with Ali Hamza (SEO tracking)
+- [ ] URL shared with Lazzat-SEO (SEO tracking)
 - [ ] 3 social teasers queued in Later / Meta Business Suite
 - [ ] Newsletter teaser added to next newsletter draft
 - [ ] Blog added to internal VERSION tracker

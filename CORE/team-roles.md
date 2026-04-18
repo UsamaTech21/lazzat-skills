@@ -1,9 +1,35 @@
 # Lazzat Team Roles & Approval Chain
 
 > **STATUS:** Locked — April 2026
-> **Owner (ops):** Usama (Brand & Marketing Lead)
-> **Rule:** Every deliverable goes through the right approver. Nobody bypasses Sir Waqas on major decisions.
+> **Owner (ops):** Usama (Brand & Marketing Lead) — a.k.a. **Lazzat-Brand**
+> **Rule:** Every deliverable goes through the right approver. Nobody bypasses Sir Waqas / **Lazzat-Founder** on major decisions.
 > **Confidentiality:** Family relationships (Mudassar = Sir Waqas's brother; Soha = Sir Waqas's niece) are **INTERNAL ONLY**. Never appear in public copy, captions, press, or on-camera.
+
+---
+
+## 0. IDENTITY MAPPING (source of truth)
+
+Every other file in this skill system refers to people **only** by their Lazzat-identity. This file, `team-bios.md`, and `brand-story.md` are the only three places where real names may appear. Use this table to reconcile the two.
+
+| Lazzat Identity | Real Person | Role (Public) |
+|---|---|---|
+| **Lazzat-Founder** | Sir Waqas | Founder / CEO |
+| **Lazzat-Kitchen** | Mudassar | Co-Founder & Head Chef (Sir Waqas's brother — INTERNAL) |
+| **Lazzat-Grill** | Remon | Co-Chef / Lava Stone Grill Lead |
+| **Lazzat-Brand** | Usama | Brand & Marketing Lead (runs the AI skill system) |
+| **Lazzat-Social** | Soha | Family Partner / Social & Community Lead (Sir Waqas's niece — INTERNAL) |
+| **Lazzat-Ads** | Ali Ahmed | Senior Digital Marketer |
+| **Lazzat-SEO** | Ali Hamza | SEO Specialist |
+| **Lazzat-Video** | Zohaib | Video / Reels |
+| **Lazzat-Culinary** | Professor Parveen | Culinary Advisor |
+| **Lazzat-Tech** | Sir Kamran | Technology / DNS / POS Data |
+| **Lazzat-BrandFilm** | Jawad | Filmmaker (brand film master) |
+| **Lazzat-Floor** | Jean, Ataul, Mansoor, Mandeep, Shakoor, Mehul | Floor / Service |
+| **Lazzat-Content** | (freelance / on-retainer) | Content Writer |
+| **Lazzat-Design** | (freelance / on-retainer) | Graphic Designer |
+| **Lazzat-Web** | (contract) | Web Developer |
+
+**Rule for Claude and every team member:** If you are writing or generating anything outside the three team-reality files, refer to people as `Lazzat-<Identity>`. Never by personal name. The `brand-compliance-checker` skill auto-enforces this.
 
 ---
 

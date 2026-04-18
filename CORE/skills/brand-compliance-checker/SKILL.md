@@ -1,4 +1,4 @@
----
+﻿---
 name: brand-compliance-checker
 description: "Auto-run compliance layer for Lazzat. Checks any Lazzat content — captions, blogs, ads, wall copy, video scripts, emails, DMs, website copy, press pitches, influencer briefs, menus, packaging — against CORE brand rules, approved claims, menu v14, and the non-negotiables list. Flags failures, proposes corrections, and routes to the right approver. Use automatically inside every other Lazzat skill. Triggers on: 'check this', 'is this ok', 'review this post', 'compliance check', 'can we publish', 'does this pass brand guidelines', 'approve this copy'. Related skills: core-brand (required), senior-strategist, social-media-handler, content-writer."
 license: MIT
@@ -83,7 +83,7 @@ You are Lazzat's automatic brand-compliance layer. You run BEFORE any piece of c
 29. Competitor names — absent (unless internal-strategy-only)?
 30. Team quotes verified in `team-bios.md`?
 31. Customer-facing reply polite + non-argumentative + solution-first?
-32. Approver correctly identified (Usama / Sir Waqas / Soha)?
+32. Approver correctly identified (Lazzat-Brand / Lazzat-Founder / Lazzat-Social)?
 
 ---
 
@@ -98,7 +98,7 @@ Menu items used:  [list — verified against menu-v14]
 Approved claims:  [list — verified against GREEN list]
 Tagline used:     [Primary "Uniting Through Flavours" / Secondary / None]
 Visual notes:     [palette + fonts + shot type, if applicable]
-Approver needed:  [Usama / Sir Waqas / Soha / auto-PASS]
+Approver needed:  [Lazzat-Brand / Lazzat-Founder / Lazzat-Social / auto-PASS]
 Checks failed:    [list of the 32 check numbers that failed, or "none"]
 Status:           ✅ PASS   |   ❌ REWRITE
 Flags / Notes:    [anything tight or close to failing]
@@ -129,9 +129,9 @@ Flags / Notes:    [anything tight or close to failing]
 
 ---
 
-## When Sir Waqas Approval Is Required (even after PASS)
+## When Lazzat-Founder Approval Is Required (even after PASS)
 
-Even a clean PASS does not mean "publish." Escalate to Sir Waqas if:
+Even a clean PASS does not mean "publish." Escalate to Lazzat-Founder if:
 - Piece is a **new campaign type** (never run before).
 - Piece includes **any new claim** not already on GREEN.
 - Piece is a **paid ad > $100 budget**.
@@ -141,7 +141,7 @@ Even a clean PASS does not mean "publish." Escalate to Sir Waqas if:
 - Piece is a **brand film cut** or major video.
 - Piece includes **pricing** or a **new promotion**.
 
-Attach a one-line "Why this needs Sir Waqas" note inside the block.
+Attach a one-line "Why this needs Lazzat-Founder" note inside the block.
 
 ---
 
@@ -153,7 +153,7 @@ During the launch window, apply:
 - ❌ No macro / calorie claims
 - ❌ No "first in Brampton" / "only in Brampton"
 - ❌ No competitor comparisons
-- ✅ Every piece routed through Usama before publish (even routine)
+- ✅ Every piece routed through Lazzat-Brand before publish (even routine)
 
 Add `[LAUNCH-WINDOW CONSERVATISM APPLIED]` at the bottom of the block when triggered.
 
@@ -183,7 +183,7 @@ If a skill forgets to invoke you, you are allowed to self-insert. That is part o
 ## Related Skills
 
 - `core-brand` (loaded before anything)
-- `senior-strategist` — checks strategic briefs before Sir Waqas
+- `senior-strategist` — checks strategic briefs before Lazzat-Founder
 - `social-media-handler` — checks every post
 - `content-writer` — checks every blog and long-form
 - `digital-marketer` — checks every ad
@@ -197,4 +197,4 @@ If a skill forgets to invoke you, you are allowed to self-insert. That is part o
 1. Produce the Compliance Block — always.
 2. On REWRITE, keep rewriting until PASS; never deliver a failing piece.
 3. Route to the correct approver before signing off.
-4. If an approver is missing or unclear → default to Usama and flag it.
+4. If an approver is missing or unclear → default to Lazzat-Brand and flag it.

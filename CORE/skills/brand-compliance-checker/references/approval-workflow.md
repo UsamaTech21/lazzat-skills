@@ -1,7 +1,7 @@
-# Approval Workflow — Full Routing Logic
+﻿# Approval Workflow — Full Routing Logic
 
 > **STATUS:** Locked
-> **Owner:** Usama
+> **Owner:** Lazzat-Brand
 > **Rule:** Every piece leaves the system with an approver named. No piece publishes without explicit approval.
 
 ---
@@ -9,24 +9,24 @@
 ## 1. The Decision Tree (run top-down)
 
 ```
-Is this a CORE file change?           → Sir Waqas
-Is this a new claim not on GREEN?     → Sir Waqas
-Is this a paid ad > $100?             → Sir Waqas
-Is this a new campaign type?          → Sir Waqas
-Is this a website major change?       → Sir Waqas
-Is this a menu change?                → Sir Waqas
-Is this a wall panel / print asset?   → Usama + Sir Waqas
-Is this an influencer paid collab?    → Sir Waqas
-Is this a press / PR pitch?           → Sir Waqas
-Is this a blog / long-form?           → Usama
-Is this a routine IG / TikTok post?   → Usama + Soha (after compliance PASS)
-Is this a DM reply?                   → Soha
-Is this a customer complaint reply?   → Soha draft → Usama approve (if public)
-Is this a menu item price mention?    → Sir Waqas
-Is this a delivery-platform listing?  → Usama
-Is this a catering quote > $500?      → Usama
-Is this a catering quote < $500?      → Soha
-Is this a GMB post?                   → Ali Hamza → Usama
+Is this a CORE file change?           → Lazzat-Founder
+Is this a new claim not on GREEN?     → Lazzat-Founder
+Is this a paid ad > $100?             → Lazzat-Founder
+Is this a new campaign type?          → Lazzat-Founder
+Is this a website major change?       → Lazzat-Founder
+Is this a menu change?                → Lazzat-Founder
+Is this a wall panel / print asset?   → Lazzat-Brand + Lazzat-Founder
+Is this an influencer paid collab?    → Lazzat-Founder
+Is this a press / PR pitch?           → Lazzat-Founder
+Is this a blog / long-form?           → Lazzat-Brand
+Is this a routine IG / TikTok post?   → Lazzat-Brand + Lazzat-Social (after compliance PASS)
+Is this a DM reply?                   → Lazzat-Social
+Is this a customer complaint reply?   → Lazzat-Social draft → Lazzat-Brand approve (if public)
+Is this a menu item price mention?    → Lazzat-Founder
+Is this a delivery-platform listing?  → Lazzat-Brand
+Is this a catering quote > $500?      → Lazzat-Brand
+Is this a catering quote < $500?      → Lazzat-Social
+Is this a GMB post?                   → Lazzat-SEO → Lazzat-Brand
 Is this an internal WhatsApp msg?     → Auto-PASS (no approver needed)
 Is this a team-only doc?              → Auto-PASS (no approver)
 ```
@@ -35,11 +35,11 @@ Is this a team-only doc?              → Auto-PASS (no approver)
 
 ## 2. Escalation Rules
 
-- If the piece triggers ANY yellow-list claim → escalate to Sir Waqas before publish.
-- If the piece triggers ANY first-3-months conservatism flag → route to Usama even if routine.
-- If the piece mentions a competitor name → hold + escalate to Usama immediately.
-- If the piece includes a press quote or interview response → Sir Waqas, always.
-- If the piece is a response to a public complaint → Soha draft + Usama approve + Sir Waqas notify (if food safety / allergen / religion involved).
+- If the piece triggers ANY yellow-list claim → escalate to Lazzat-Founder before publish.
+- If the piece triggers ANY first-3-months conservatism flag → route to Lazzat-Brand even if routine.
+- If the piece mentions a competitor name → hold + escalate to Lazzat-Brand immediately.
+- If the piece includes a press quote or interview response → Lazzat-Founder, always.
+- If the piece is a response to a public complaint → Lazzat-Social draft + Lazzat-Brand approve + Lazzat-Founder notify (if food safety / allergen / religion involved).
 
 ---
 
@@ -47,15 +47,15 @@ Is this a team-only doc?              → Auto-PASS (no approver)
 
 | Piece type | Expected approval turnaround |
 |---|---|
-| Routine post (compliance PASS) | 30 min (Usama) |
-| Blog | 24 hours (Usama) |
-| New campaign brief | 48 hours (Sir Waqas) |
-| Paid ad set | 24 hours (Sir Waqas) |
-| Wall panel | 48 hours (Usama + Sir Waqas) |
-| Customer complaint reply | 2 hours (Soha + Usama) |
-| Press pitch | 72 hours (Sir Waqas) |
+| Routine post (compliance PASS) | 30 min (Lazzat-Brand) |
+| Blog | 24 hours (Lazzat-Brand) |
+| New campaign brief | 48 hours (Lazzat-Founder) |
+| Paid ad set | 24 hours (Lazzat-Founder) |
+| Wall panel | 48 hours (Lazzat-Brand + Lazzat-Founder) |
+| Customer complaint reply | 2 hours (Lazzat-Social + Lazzat-Brand) |
+| Press pitch | 72 hours (Lazzat-Founder) |
 
-Don't block production on Sir Waqas approval for items that only need Usama. Only escalate when the decision tree demands it.
+Don't block production on Lazzat-Founder approval for items that only need Lazzat-Brand. Only escalate when the decision tree demands it.
 
 ---
 
@@ -68,8 +68,8 @@ When a piece is technically compliant but *feels* edge-case, use:
 Piece: [title]
 Reason held: [what made you pause]
 Compliance: PASS (by rules)
-Judgement call needed: [specific question for Usama]
-Recommended approver: [Usama / Sir Waqas]
+Judgement call needed: [specific question for Lazzat-Brand]
+Recommended approver: [Lazzat-Brand / Lazzat-Founder]
 ───────────────────────────────────────────
 ```
 
@@ -79,18 +79,18 @@ A held piece is paused, not killed. It protects brand equity from "technically O
 
 ## 5. Approver Contact Convention
 
-- Sir Waqas → WhatsApp "Lazzat Core" group tag + email backup
-- Usama → WhatsApp direct + Slack
-- Soha → WhatsApp direct + Asana task
+- Lazzat-Founder → WhatsApp "Lazzat Core" group tag + email backup
+- Lazzat-Brand → WhatsApp direct + Slack
+- Lazzat-Social → WhatsApp direct + Asana task
 
-Never email Sir Waqas for routine items. Never WhatsApp him for PR pitches (those need written record). Use the right channel for the weight of the decision.
+Never email Lazzat-Founder for routine items. Never WhatsApp him for PR pitches (those need written record). Use the right channel for the weight of the decision.
 
 ---
 
 ## 6. When Approver Is Offline
 
-- If Sir Waqas is travelling → route through Usama for all non-launch-critical items; hold launch-critical items.
-- If Usama is offline → Soha can approve routine posts only; everything else holds.
-- If Soha is offline → routine posts pause; only menu reference posts and scheduled evergreen go live.
+- If Lazzat-Founder is travelling → route through Lazzat-Brand for all non-launch-critical items; hold launch-critical items.
+- If Lazzat-Brand is offline → Lazzat-Social can approve routine posts only; everything else holds.
+- If Lazzat-Social is offline → routine posts pause; only menu reference posts and scheduled evergreen go live.
 
 Never auto-approve anything by default. Paused > premature.

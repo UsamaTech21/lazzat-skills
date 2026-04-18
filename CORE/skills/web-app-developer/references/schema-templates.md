@@ -1,4 +1,4 @@
-# Schema Templates — Ready-to-Paste JSON-LD
+﻿# Schema Templates — Ready-to-Paste JSON-LD
 
 > **Rule:** Every page deploys with schema validated via Rich Results Test. No false claims in schema.
 
@@ -20,7 +20,7 @@
   ],
   "founder": {
     "@type": "Person",
-    "name": "Waqas [Surname pending Sir Waqas confirmation]",
+    "name": "Lazzat-Founder [Surname pending Lazzat-Founder confirmation]",
     "jobTitle": "Founder & CEO"
   }
 }
@@ -58,7 +58,7 @@
   "name": "Lazzat Grill & Shakes — McVean Dr",
   "image": "https://lazzat.ca/assets/locations/mcvean-hero.jpg",
   "url": "https://lazzat.ca/locations/mcvean",
-  "telephone": "[TBD — Sir Waqas to confirm]",
+  "telephone": "[TBD — Lazzat-Founder to confirm]",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "11685 McVean Dr",
@@ -282,7 +282,7 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
   "offers": {
     "@type": "Offer",
     "priceCurrency": "CAD",
-    "price": "[Range — confirm with Sir Waqas + Sir Shahid before publishing]",
+    "price": "[Range — confirm with Lazzat-Founder + Sir Shahid before publishing]",
     "availability": "https://schema.org/InStock"
   }
 }
@@ -380,6 +380,6 @@ Fix any errors / warnings before deploying to production.
 - Include `halalCertified: true` — we are halal-sourced, not certified
 - Include stat claims (e.g., "95% satisfaction") in schema unless backed by real survey data
 - Include events that are speculative
-- Include prices Sir Waqas hasn't approved for public disclosure
+- Include prices Lazzat-Founder hasn't approved for public disclosure
 - Use competitor brand names in schema
 - Leave [TBD] placeholders in production schema (must resolve before deploy)

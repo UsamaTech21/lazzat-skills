@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/marketplace.json",
   "name": "lazzat-skills",
   "displayName": "Lazzat Grill & Shakes — AI Marketing Agency",
@@ -31,7 +31,7 @@
     {
       "name": "lazzat-senior-strategist",
       "displayName": "Senior Strategist",
-      "description": "High-level campaigns, 6-month roadmap, positioning, monthly focus, and competitor analysis for Sir Waqas review.",
+      "description": "High-level campaigns, 6-month roadmap, positioning, monthly focus, and competitor analysis for Lazzat-Founder review.",
       "skills": ["./CORE/skills/senior-strategist"]
     },
     {

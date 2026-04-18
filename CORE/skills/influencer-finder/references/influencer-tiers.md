@@ -1,4 +1,4 @@
-# Influencer Tier System
+﻿# Influencer Tier System
 
 > **Rule:** Every creator we contact fits one of these three tiers. Nothing else. No improvisation.
 
@@ -37,7 +37,7 @@
 | @brampton.momlife (example persona) | IG | Family audience |
 | @gta.gymbowls (example persona) | IG + TikTok | Fitness audience |
 
-(Actual handles confirmed by Soha weekly; this is the persona template — update every 30 days.)
+(Actual handles confirmed by Lazzat-Social weekly; this is the persona template — update every 30 days.)
 
 ### Pipeline target
 - Identify 20 candidates monthly
@@ -60,7 +60,7 @@
 
 ### Offer structure
 - Comped visit (tasting set + plus-one)
-- PLUS paid post fee if Phase 2 paid campaign is approved by Sir Waqas
+- PLUS paid post fee if Phase 2 paid campaign is approved by Lazzat-Founder
 - Typical paid range (Toronto benchmarks):
   - 50–100K: $250–$600 per Reel
   - 100–250K: $600–$1,500 per Reel
@@ -102,7 +102,7 @@
 | Fitness coach | "200g honest protein bowl" — high-protein build |
 | Registered dietitian | "dietary-inclusive menu" — vegetarian + vegan + allergen-aware |
 | Mom / parenting blogger | "kids menu + family table" — Brampton family spot |
-| Sustainability advocate | "lava stone = no charcoal emissions" (if we can substantiate with Sir Waqas) |
+| Sustainability advocate | "lava stone = no charcoal emissions" (if we can substantiate with Lazzat-Founder) |
 | Community builder | "every table welcome" — brand-story angle |
 
 ### Offer
@@ -136,10 +136,10 @@ When multiple creators fit the same week, prioritize by this stack:
 |---|---|
 | Identify | `influencer-finder` (this skill) |
 | Brief | `content-writer` drafts visit brief copy |
-| Visit | Soha hosts in-person; `video-editor` captures BTS |
+| Visit | Lazzat-Social hosts in-person; `video-editor` captures BTS |
 | Repost | `social-media-handler` re-grams + tags |
-| Pay (Tier 2+) | Usama → Sir Waqas → bank |
-| Measure | Soha logs → weekly report to Usama |
+| Pay (Tier 2+) | Lazzat-Brand → Lazzat-Founder → bank |
+| Measure | Lazzat-Social logs → weekly report to Lazzat-Brand |
 
 ---
 
@@ -159,7 +159,7 @@ Do NOT partner with creators who:
 ## Long-Range (Year 2+)
 
 Celebrity-tier (1M+) and TV-crossover (news channels, syndicated food shows) considered only with:
-- Sir Waqas approval
+- Lazzat-Founder approval
 - Brand-safety diligence ≥ 90-day content review
 - Signed contract (not DM agreement)
 - Finance budget line-item

@@ -1,14 +1,14 @@
-# Brampton Cultural Calendar — Apr 2026 → Apr 2027
+﻿# Brampton Cultural Calendar — Apr 2026 → Apr 2027
 
 > **Source:** Brampton_Canada_Demographics_2026.txt + Lazzat Marketing Strategy doc
-> **Owner:** Usama | **Last updated:** 2026-04-17
+> **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17
 > **Rule:** Lead moment per month gets full Lazzat campaign. Support moments get 1–2 posts. Sensitive windows get deliberate quieting.
 
 ---
 
 ## Legend
 
-- 🎯 **LEAD** — full Lazzat campaign (brief sent to Sir Waqas)
+- 🎯 **LEAD** — full Lazzat campaign (brief sent to Lazzat-Founder)
 - 🔗 **SUPPORT** — 1–2 posts, organic only
 - ⚠️ **SENSITIVE** — quiet or dietary-adjust; no celebratory tone
 - ❌ **SKIP** — not a Lazzat moment (note and move on)
@@ -151,7 +151,7 @@
 | Date | Event | Status | Lazzat Angle |
 |---|---|---|---|
 | Mar 1 | **Ramadan begins** (variable) | 🎯 **LEAD** | 30-day Iftar storyline — biggest single-window in Brampton |
-| Mar 8 | International Women's Day | 🔗 SUPPORT | Team feature post (Soha + women team members with consent) |
+| Mar 8 | International Women's Day | 🔗 SUPPORT | Team feature post (Lazzat-Social + women team members with consent) |
 | Mar 15 | Holi | 🔗 SUPPORT | "Every colour at the table" — vegetarian hero |
 | Mar 20 | Nowruz (Persian New Year) | 🎯 LEAD | "New Year, New Table" — Middle-Eastern sauce hero, global framing |
 | Mar 31 | Eid al-Fitr prep | 🎯 LEAD | Catering push for Eid celebration |
@@ -193,4 +193,4 @@ During any fasting window (Navratri, Ramadan, Lent for some Christians):
 ## Monthly Review Ritual
 
 - First Tuesday → the team reviews next month's calendar, picks the lead moment, drafts the campaign brief
-- Sir Waqas signs off on each LEAD moment brief before any production begins
+- Lazzat-Founder signs off on each LEAD moment brief before any production begins

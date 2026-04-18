@@ -1,6 +1,6 @@
-# Creator Vetting Checklist — 10 Points + Score Sheet
+﻿# Creator Vetting Checklist — 10 Points + Score Sheet
 
-> **Rule:** No creator gets a DM from Soha without this checklist passing. Every check is scored; anyone below 70 is skipped.
+> **Rule:** No creator gets a DM from Lazzat-Social without this checklist passing. Every check is scored; anyone below 70 is skipped.
 
 ---
 
@@ -89,7 +89,7 @@ Sample 3 recent captions:
 
 ---
 
-## Score Sheet Template (Soha fills this in Notion / Sheet)
+## Score Sheet Template (Lazzat-Social fills this in Notion / Sheet)
 
 ```
 CREATOR: @[handle]
@@ -119,7 +119,7 @@ TOTAL                    [/100]
 RECOMMENDED TIER: [1 / 2 / 3 / skip]
 ANGLE FOR OUTREACH: [1 sentence — why this creator, which pillar]
 NEXT STEP: [DM draft / schedule / skip / revisit date]
-APPROVER: Soha → Usama sign-off before DM
+APPROVER: Lazzat-Social → Lazzat-Brand sign-off before DM
 ```
 
 ---
@@ -143,7 +143,7 @@ If any red flag appears, skip. We never salvage a creator with a mid-scale reput
 - Tier 2 working list: re-vet every 60 days
 - Tier 3 working list: re-vet every 90 days
 
-Creators who drop below 70 on re-vet get paused. Sir Waqas is informed if a partnered creator has a major brand-safety incident.
+Creators who drop below 70 on re-vet get paused. Lazzat-Founder is informed if a partnered creator has a major brand-safety incident.
 
 ---
 

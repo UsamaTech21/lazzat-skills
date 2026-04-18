@@ -1,7 +1,7 @@
-# Content Compliance Checklist — The Auto-Checker
+﻿# Content Compliance Checklist — The Auto-Checker
 
 > **STATUS:** Locked — April 2026
-> **Owner:** Usama | **Loaded by:** every Lazzat skill, automatically
+> **Owner:** Lazzat-Brand | **Loaded by:** every Lazzat skill, automatically
 > **Rule:** This checklist runs at the END of every Lazzat content output. No exceptions. No silent skips.
 
 ---
@@ -61,24 +61,25 @@ When any Lazzat skill produces content (post, caption, blog, ad, wall panel, web
 - ❌ Plastic-smooth over-retouched food photos
 
 ### Operations / Sensitive
-- ❌ Publish numbers, revenue, customer counts without Sir Waqas approval
-- ❌ Post dates of openings, pauses, or closings without Usama confirmation
+- ❌ Publish numbers, revenue, customer counts without Lazzat-Founder approval
+- ❌ Post dates of openings, pauses, or closings without Lazzat-Brand confirmation
 - ❌ Name competitors unless in an internal strategy doc
 - ❌ Reveal upcoming menu items before launch
 - ❌ Use unapproved team quotes (always verify `team-bios.md`)
 
-### Family / Relationship Disclosures (INTERNAL-ONLY)
-- ❌ Never call Mudassar "Sir Waqas's brother" / "Waqas's brother" / "bhai" in any public copy
-- ❌ Never call Soha "Sir Waqas's niece" / "bhanji" in any public copy
-- ❌ Never frame Lazzat as "family-run" / "the Waqas brothers" / "a family affair"
-- ❌ Never use kinship words (bhai, bhanji, brother, niece, uncle, chacha, mamu, cousin, khala, phupho) within 50 words of two team-member names
-- ✅ Always reference team members by **role** in public copy ("Co-Founder & Head Chef Mudassar" / "Social & Community Lead Soha")
+### Names & Family / Relationship Disclosures (INTERNAL-ONLY)
+- ❌ Never use personal names from `team-bios.md` in any public-facing copy — always refer to people as Lazzat-identities (Lazzat-Founder, Lazzat-Kitchen, Lazzat-Grill, Lazzat-Brand, Lazzat-Social, Lazzat-Ads, Lazzat-SEO, Lazzat-Video, Lazzat-Culinary, Lazzat-Floor, Lazzat-Tech, Lazzat-BrandFilm)
+- ❌ Never pair any Lazzat-identity or personal name with a kinship word (bhai, bhanji, brother, niece, uncle, chacha, mamu, cousin, aunt, khala, phupho, father-in-law, nephew, bhatija) — in the same sentence or within 50 words
+- ❌ Never frame Lazzat as "family-run" / "family business" / "the Lazzat brothers" / "a family affair" / "uncle-niece partnership"
+- ❌ Never paraphrase in a way that invites the reader to infer kinship ("brotherhood behind the grill", "tight-knit family of two generations")
+- ✅ Always reference people by their Lazzat-identity in public copy ("Co-Founder & Head Chef Lazzat-Kitchen", "Social & Community Lead Lazzat-Social")
+- ✅ The only three files allowed to use personal names are: `CORE/brand-story.md`, `CORE/team-bios.md`, `CORE/team-roles.md` — everywhere else, Lazzat-identity only
 - See `skills/brand-compliance-checker/references/do-not-do-list.md` §7b for the full trigger list
 
 ### Customer / Engagement
 - ❌ Argue with customers in public replies
 - ❌ Delete or hide negative reviews
-- ❌ Offer refunds without Usama approval
+- ❌ Offer refunds without Lazzat-Brand approval
 - ❌ Send templated apologies to real complaints
 
 ---
@@ -109,7 +110,7 @@ When any Lazzat skill produces content (post, caption, blog, ad, wall panel, web
 - ✅ Photos: overhead flat-lay on cream, or charcoal/stone hero, or action grill shot
 
 ### Approval Route
-- ✅ Every piece ends with correct approver flagged (Usama / Sir Waqas / Soha etc.)
+- ✅ Every piece ends with correct approver flagged (Lazzat-Brand / Lazzat-Founder / Lazzat-Social etc.)
 - ✅ Piece type matches the approval matrix in `team-roles.md` §2
 
 ---
@@ -125,7 +126,7 @@ Menu items used:  [from menu-v14.md — list them]
 Approved claims:  [which GREEN-list claims appear]
 Tagline used:     [Primary / Secondary / None]
 Visual notes:     [if applicable — colors / fonts / shot type]
-Approver needed:  [Usama / Sir Waqas / Soha / auto-PASS]
+Approver needed:  [Lazzat-Brand / Lazzat-Founder / Lazzat-Social / auto-PASS]
 Status:           ✅ PASS  or  ❌ REWRITE
 Flags (if any):   [list any rule that was tight or close]
 ─────────────────────────────────────────────
@@ -142,9 +143,9 @@ During the launch window, apply EXTRA conservatism:
 - No macro claims
 - No "first in Brampton" or similar firsts
 - No competitor comparisons
-- Every piece sent to Usama before publish, even routine
+- Every piece sent to Lazzat-Brand before publish, even routine
 
-This expires on **July 26, 2026**, reviewed by Sir Waqas.
+This expires on **July 26, 2026**, reviewed by Lazzat-Founder.
 
 ---
 

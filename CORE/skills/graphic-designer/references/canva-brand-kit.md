@@ -1,4 +1,4 @@
-# Canva Brand Kit — Setup & Usage
+﻿# Canva Brand Kit — Setup & Usage
 
 > **Rule:** The brand kit is the source of truth. Don't override colours or fonts at the design level.
 
@@ -7,8 +7,8 @@
 ## Account Setup
 
 - **Canva Pro account** (paid) — under Lazzat workspace
-- **Team members with edit access:** Usama, Soha (Design Lead), Zohaib (video exports)
-- **Team members with view/comment:** Sir Waqas, Ali Ahmed, Mudassar
+- **Team members with edit access:** Lazzat-Brand, Lazzat-Social (Design Lead), Lazzat-Video (video exports)
+- **Team members with view/comment:** Lazzat-Founder, Lazzat-Ads, Lazzat-Kitchen
 - **Shared brand kit** enabled
 
 ---
@@ -26,7 +26,7 @@ Load these exact hex codes into the Canva brand kit:
 | Lazzat White | `#FFFFFF` | Type on charcoal |
 | Lazzat Off-Black | `#0D0D0D` | Type on cream (alternate) |
 
-Don't add other colours to the kit without Usama approval.
+Don't add other colours to the kit without Lazzat-Brand approval.
 
 ---
 
@@ -132,7 +132,7 @@ Examples:
 
 ### Always
 - Use brand-kit colours + fonts (don't override at design level)
-- Start from an existing template (don't blank-canvas without Usama approval)
+- Start from an existing template (don't blank-canvas without Lazzat-Brand approval)
 - Keep layers named and organized
 - Add alt text to every image layer for accessibility
 - Save with versioned filename
@@ -140,7 +140,7 @@ Examples:
 ### Never
 - Use Canva's stock photos for Lazzat brand work
 - Use Canva's "AI image" for food shots (only graphic/background elements approved)
-- Insert prices in creatives without Usama + Sir Waqas sign-off
+- Insert prices in creatives without Lazzat-Brand + Lazzat-Founder sign-off
 - Insert religious icons in food marketing
 - Edit logo files — always link from the Logos folder
 - Delete old versions — keep v1, v2, v3 for audit

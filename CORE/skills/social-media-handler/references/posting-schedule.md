@@ -1,6 +1,6 @@
-# Posting Schedule — Default Weekly Cadence
+﻿# Posting Schedule — Default Weekly Cadence
 
-> **Owner:** Soha | **Approved by:** Usama
+> **Owner:** Lazzat-Social | **Approved by:** Lazzat-Brand
 > **Rule:** Times are Eastern Time (Brampton local). Adjust for daylight savings transitions.
 
 ---
@@ -9,13 +9,13 @@
 
 | Day | Time | Platform(s) | Format | Pillar | Approver |
 |---|---|---|---|---|---|
-| Mon | 12:00 | IG feed + FB | Carousel | Global Kitchen | Usama |
-| Tue | 18:00 | IG Stories | BTS Story set (4–6 frames) | Team & Craft | Soha |
-| Wed | 19:00 | IG Reel + TikTok | Reel (vertical) | Lava Stone Story | Usama |
-| Thu | 12:00 | IG feed + FB | Carousel | Menu Spotlight | Usama |
-| Fri | 18:00 | IG Reel + TikTok | Reel (vertical) | Community Brampton | Usama |
-| Sat | 11:00 | IG Stories | Weekend-vibe Story set | Wellness & Lifestyle | Soha |
-| Sun | 19:00 | IG Reel + TikTok + YT Shorts | Reel (landscape + vertical cross-post) | Brand Story | Usama |
+| Mon | 12:00 | IG feed + FB | Carousel | Global Kitchen | Lazzat-Brand |
+| Tue | 18:00 | IG Stories | BTS Story set (4–6 frames) | Team & Craft | Lazzat-Social |
+| Wed | 19:00 | IG Reel + TikTok | Reel (vertical) | Lava Stone Story | Lazzat-Brand |
+| Thu | 12:00 | IG feed + FB | Carousel | Menu Spotlight | Lazzat-Brand |
+| Fri | 18:00 | IG Reel + TikTok | Reel (vertical) | Community Brampton | Lazzat-Brand |
+| Sat | 11:00 | IG Stories | Weekend-vibe Story set | Wellness & Lifestyle | Lazzat-Social |
+| Sun | 19:00 | IG Reel + TikTok + YT Shorts | Reel (landscape + vertical cross-post) | Brand Story | Lazzat-Brand |
 
 **Total:** 4 feed / reel posts + 2 story sets + 1 brand-story reel = 7 primary moments per week.
 
@@ -93,7 +93,7 @@ See `CORE/skills/brampton-demographics-intelligence/references/cultural-calendar
 
 ---
 
-## What "Soha's Day" Looks Like
+## What "Lazzat-Social's Day" Looks Like
 
 - 09:00 — post morning story (prep BTS)
 - 10:00 — DM sweep (reply to overnight DMs)
@@ -104,7 +104,7 @@ See `CORE/skills/brampton-demographics-intelligence/references/cultural-calendar
 - 17:30 — schedule 18:00 post
 - 19:00 — live engagement during Reels posting window
 - 21:00 — day-close story + schedule tomorrow's feed
-- 21:30 — send Usama daily numbers report
+- 21:30 — send Lazzat-Brand daily numbers report
 
 ---
 

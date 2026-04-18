@@ -1,4 +1,4 @@
-# News-Jacking Guide
+﻿# News-Jacking Guide
 
 > **Rule:** News-jacking is opportunistic, time-bound, and risky. Follow this guide or skip the trend.
 
@@ -22,7 +22,7 @@ A trend enters our responsible window:
 - National + Canadian pop culture (Drake drops something in Toronto, new Canadian food brand achievement)
 - Seasonal / weather memes (snowstorm, heatwave — if safe angle exists)
 
-### YELLOW — discuss with Usama before shipping
+### YELLOW — discuss with Lazzat-Brand before shipping
 - Celebrity news (general; no scandals)
 - Sports outcomes (wins ok; losses risky)
 - Viral formats with murky origins (check provenance before adopting)
@@ -45,7 +45,7 @@ A trend enters our responsible window:
 
 ### Step 1 — Flag (within 30 min of spotting)
 
-Soha flags in #news-jack-lazzat WhatsApp group with:
+Lazzat-Social flags in #news-jack-lazzat WhatsApp group with:
 - Screenshot of the trending content
 - 1-line summary of the trend
 - 1-line proposed Lazzat angle
@@ -53,12 +53,12 @@ Soha flags in #news-jack-lazzat WhatsApp group with:
 
 ### Step 2 — Approve (within 60 min of flag)
 
-Usama replies:
+Lazzat-Brand replies:
 - ✅ Approve + notes
 - ⏸ Hold + ask for more detail
 - ❌ Pass
 
-Red trends auto-skip. Yellow: Usama may escalate to Sir Waqas (15-min SLA).
+Red trends auto-skip. Yellow: Lazzat-Brand may escalate to Lazzat-Founder (15-min SLA).
 
 ### Step 3 — Build (within 2 hours of approval)
 
@@ -73,7 +73,7 @@ Route to correct skill:
 - Post on Instagram + TikTok + Facebook (where fit)
 - **NEVER** boost news-jack posts with paid spend (contextual risk is too high)
 - Monitor replies for 4 hours
-- Sir Waqas kill-switch: if a news-jack sours, Usama may pull in under 10 min
+- Lazzat-Founder kill-switch: if a news-jack sours, Lazzat-Brand may pull in under 10 min
 
 ---
 
@@ -139,13 +139,13 @@ Even if a competitor news-jacks, we don't chase:
 Before posting any news-jack:
 
 - [ ] Trend classified (Green confirmed; Yellow escalated; Red = skip)
-- [ ] Usama approved (within 60 min SLA)
+- [ ] Lazzat-Brand approved (within 60 min SLA)
 - [ ] Lazzat angle is genuine, not stretched
 - [ ] No banned words, no regional framing, no unapproved claim
 - [ ] No copyright violations (no song lyrics, no movie stills, no sports logos)
 - [ ] Ships organic only, never paid
 - [ ] Caption has compliance block
-- [ ] Sir Waqas notified (if yellow or major moment)
+- [ ] Lazzat-Founder notified (if yellow or major moment)
 - [ ] Kill-switch plan agreed (who pulls, when)
 
 ---

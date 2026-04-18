@@ -1,7 +1,7 @@
-# DO-NOT-DO List — Expanded with Examples
+﻿# DO-NOT-DO List — Expanded with Examples
 
 > **STATUS:** Locked
-> **Owner:** Usama
+> **Owner:** Lazzat-Brand
 > **Rule:** Zero tolerance. One violation = REWRITE.
 
 This is the expanded catalogue. Short list lives in `CORE/content-compliance-checklist.md`.
@@ -76,9 +76,9 @@ This is the expanded catalogue. Short list lives in `CORE/content-compliance-che
 |---|---|---|
 | "Healthy" standalone | Unsubstantiated | "Crafted with care" |
 | "Low calorie" | No kitchen testing | *(omit)* |
-| "Keto-friendly" | No certification | *(omit — or flag for Sir Waqas)* |
+| "Keto-friendly" | No certification | *(omit — or flag for Lazzat-Founder)* |
 | "Weight loss" | Medical claim | *(omit entirely)* |
-| "Diet food" | Off-brand | "Macro-friendly bowls" (only in Wellness pillar with Usama sign-off) |
+| "Diet food" | Off-brand | "Macro-friendly bowls" (only in Wellness pillar with Lazzat-Brand sign-off) |
 | "Clean eating" | Off-brand, contested term | "Fresh prep" |
 | "Gluten-free" | Not verified | *(omit)* |
 | "Peanut-free" | Not verified | *(omit; ask kitchen before claiming)* |
@@ -103,31 +103,33 @@ This is the expanded catalogue. Short list lives in `CORE/content-compliance-che
 
 | Banned | Reason |
 |---|---|
-| Publishing revenue, order counts, customer counts without Sir Waqas approval |
-| Announcing dates of openings, pauses, closings without Usama confirmation |
+| Publishing revenue, order counts, customer counts without Lazzat-Founder approval |
+| Announcing dates of openings, pauses, closings without Lazzat-Brand confirmation |
 | Naming competitors (Osmow's, Paramount, etc.) in public |
 | Revealing menu items before launch |
 | Posting behind-the-scenes photos of investors or back-office docs |
-| Quoting Sir Waqas or any team member without written permission |
+| Quoting Lazzat-Founder or any team member without written permission |
 
 ---
 
 ## 7b. Family / Relationship Disclosures (ZERO TOLERANCE)
 
-Family relationships between team members are **internal-only** (see `CORE/team-roles.md` Section 8 and `CORE/team-bios.md` Section 0). Any output that hints at them must be flagged `REWRITE`.
+Family relationships between Lazzat team members exist and are mapped in `CORE/team-roles.md` Section 8 + `CORE/team-bios.md` Section 0. Those two files are the ONLY place this is documented. Every other skill in this repo refers to people exclusively through **Lazzat-identities** (Lazzat-Founder, Lazzat-Kitchen, Lazzat-Social, Lazzat-Brand, etc.) — never by personal name, and never with a kinship modifier.
 
-| Banned phrase / implication | Reason | Use Instead |
+Any output that discloses, hints at, or derives a family relationship must be flagged `REWRITE`.
+
+| Banned pattern | Reason | Use Instead |
 |---|---|---|
-| "Sir Waqas's brother Mudassar" / "Waqas's brother" | Internal-only family fact | "Co-Founder and Head Chef Mudassar" |
-| "Mudassar, brother of the founder" | Same | "Co-Founder Mudassar" |
-| "Family-run brand" (when implying same family) | Reveals internal relations | "Founder-led brand" |
-| "The Waqas brothers" / "the brothers who built Lazzat" | Reveals internal relations | "The founders who built Lazzat" |
-| "Sir Waqas's niece Soha" / "Waqas's niece" | Internal-only family fact | "Social & Community Lead Soha" |
-| "A family affair" / "keeping it in the family" (referring to team) | Reveals internal relations | "A founder-led, tight-knit team" |
-| Any caption naming two team members *plus* a kinship word (bhai, bhanji, brother, niece, uncle, cousin, chacha, mamu, khala, phupho) in the same sentence | Reveals internal relations | Rewrite to reference their roles only |
-| Implying Soha "reports to her uncle" or Mudassar "runs his brother's kitchen" | Reveals internal relations + hierarchy implication | Omit; stick to role descriptions |
+| Any sentence pairing a Lazzat-identity with a kinship word (brother, niece, uncle, nephew, cousin, aunt, father-in-law, bhai, bhanji, bhatija, chacha, mamu, khala, phupho) | Reveals internal relations | Describe by role only (e.g., "Co-Founder & Head Chef" for Lazzat-Kitchen) |
+| "Family-run brand" / "family business" / "a family affair" / "keeping it in the family" (when referring to the Lazzat team) | Reveals internal relations | "Founder-led brand" / "a founder-led, tight-knit team" |
+| "The brothers who built Lazzat" / "the Lazzat brothers" / "the Founder's brother" | Reveals internal relations | "The founders who built Lazzat" / "Lazzat's founders" |
+| "Lazzat-Social reports to her uncle" / "Lazzat-Kitchen runs his brother's kitchen" | Reveals both relation and hierarchy-by-family | Describe by role and approval chain only |
+| Publishing any personal name from `team-bios.md` alongside another personal name + kinship word | Reveals internal relations | Use Lazzat-identities; remove kinship word |
+| Any paraphrase that invites the reader to infer kinship ("tight-knit family of two generations", "brotherhood behind the grill", "uncle–niece partnership") | Same | Describe the work, not the relationship |
 
-**Auto-check trigger words** (flag immediately for human review): `brother`, `bhai`, `niece`, `bhanji`, `nephew`, `bhatija`, `cousin`, `uncle`, `chacha`, `mamu`, `aunt`, `khala`, `phupho`, `family-run`, `family business` — anywhere within 50 words of two or more team member names.
+**Auto-check trigger words** (immediate flag for human review): `brother`, `bhai`, `niece`, `bhanji`, `nephew`, `bhatija`, `cousin`, `uncle`, `chacha`, `mamu`, `aunt`, `khala`, `phupho`, `father-in-law`, `family-run`, `family business`, `family affair`, `brothers`, `bloodline`, `relatives` — whenever any of these appears within 50 words of two or more Lazzat-identity references OR two or more personal names from `team-bios.md`.
+
+**Personal names rule:** Public copy drafted in any skill (except `team-bios.md` / `team-roles.md` / `brand-story.md` internal files) must refer to people only as Lazzat-identities. If Claude generates a personal name from `team-bios.md` outside those files, flag `REWRITE` and substitute the matching Lazzat-identity.
 
 ---
 
@@ -156,7 +158,7 @@ Family relationships between team members are **internal-only** (see `CORE/team-
 | Arguing with a customer in public replies | Escalates, damages brand |
 | Deleting / hiding negative reviews | Erodes trust |
 | Generic template apologies to real complaints | Feels fake |
-| Offering refunds without Usama approval | Policy violation |
+| Offering refunds without Lazzat-Brand approval | Policy violation |
 | Replying late-night emotionally | Low signal, high risk |
 | Joking / sarcasm in reply to allergies, religion, service complaints | Serious topics demand serious replies |
 

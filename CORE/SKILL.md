@@ -1,4 +1,4 @@
----
+﻿---
 name: core-brand
 description: "Master brand context for Lazzat Grill & Shakes. Load this before any other Lazzat skill. Contains brand identity, approved claims, menu v14, team roles, team bios, brand story, and the compliance checker. Use whenever working on ANYTHING for Lazzat — social posts, blogs, ads, wall panels, emails, DMs, website copy, video scripts, influencer briefs, press pitches, menus, packaging, or internal strategy. Triggers on: 'lazzat', 'grill & shakes', 'brand guidelines', 'compliance check', 'brand rules', 'can we say', 'menu v14'."
 license: MIT
@@ -82,14 +82,14 @@ Weekly mix: 20% / 25% / 15% / 10% / 15% / 15%.
 
 | Type | Approver |
 |---|---|
-| Routine post (compliance PASS) | Usama + Soha |
-| New campaign type | **Sir Waqas** |
-| Paid ad budget > $100 | **Sir Waqas** |
-| New claim not in approved-claims | **Sir Waqas** |
-| Website major change | **Sir Waqas** |
-| Blog publish | Usama |
-| Menu change | **Sir Waqas** |
-| Wall panel / in-store print | Usama + Sir Waqas |
+| Routine post (compliance PASS) | Lazzat-Brand + Lazzat-Social |
+| New campaign type | **Lazzat-Founder** |
+| Paid ad budget > $100 | **Lazzat-Founder** |
+| New claim not in approved-claims | **Lazzat-Founder** |
+| Website major change | **Lazzat-Founder** |
+| Blog publish | Lazzat-Brand |
+| Menu change | **Lazzat-Founder** |
+| Wall panel / in-store print | Lazzat-Brand + Lazzat-Founder |
 
 Full matrix in `team-roles.md`.
 
@@ -101,7 +101,7 @@ Every Lazzat output Claude produces MUST end with the Compliance Block from `con
 
 If during drafting Claude detects a ❌ trigger → **rewrite automatically** → rerun compliance → only then deliver.
 
-If Claude is unsure whether a claim / item / phrase is allowed → **omit it** and flag it for Usama's review rather than guess.
+If Claude is unsure whether a claim / item / phrase is allowed → **omit it** and flag it for Lazzat-Brand's review rather than guess.
 
 ---
 

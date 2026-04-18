@@ -1,6 +1,6 @@
-# Ad Campaign Calendar — 12 Months
+﻿# Ad Campaign Calendar — 12 Months
 
-> **Rule:** Ads always launch/refresh on a TUESDAY. Seasonal ads go live 5–7 days before the event. Sir Waqas approves all spend over $500/week.
+> **Rule:** Ads always launch/refresh on a TUESDAY. Seasonal ads go live 5–7 days before the event. Lazzat-Founder approves all spend over $500/week.
 
 ---
 
@@ -20,7 +20,7 @@
 |---|---|---|---|
 | Apr 26 (Sat) | GRAND OPENING (always-on) | $200/day | Live in morning, stay on 7 days |
 | Apr 28 (Tue) | "Grand Opening" reset + bowl builder | $1,000/week | Add TikTok + Shorts |
-| May 2 (Sat) | Weekend boosted content | $100/day | Soha-curated top post |
+| May 2 (Sat) | Weekend boosted content | $100/day | Lazzat-Social-curated top post |
 
 ---
 
@@ -116,10 +116,10 @@ These run continuously and refresh creative every 14 days:
 ## Non-Negotiables
 
 - All launches: **TUESDAY**
-- All spend > $500/week: **Sir Waqas written approval**
+- All spend > $500/week: **Lazzat-Founder written approval**
 - All creative: **brand-compliance-checker pass**
-- All reporting: **Monday 9am dashboard to Usama**
-- All monthly deep-dive: **first Monday of the month to Sir Waqas**
+- All reporting: **Monday 9am dashboard to Lazzat-Brand**
+- All monthly deep-dive: **first Monday of the month to Lazzat-Founder**
 - Seasonal launches: **5–7 days before event**
 - Pause any campaign with CPA > 2× target for 3 consecutive days — reassess
 

@@ -1,7 +1,7 @@
-# ALWAYS-DO List — The Positive Rules
+﻿# ALWAYS-DO List — The Positive Rules
 
 > **STATUS:** Locked
-> **Owner:** Usama
+> **Owner:** Lazzat-Brand
 > **Rule:** Every piece must be scanned for what's MISSING, not only what's wrong.
 
 A piece passes DO-NOT-DO but still fails ALWAYS-DO if it forgets what Lazzat is.
@@ -99,12 +99,12 @@ Missing location = missing local SEO + local community signal.
 
 Every delivered piece ends with the correct approver named:
 
-- Routine post after PASS → Usama + Soha
-- New campaign → Sir Waqas
-- Paid ad > $100 → Sir Waqas
-- Blog → Usama
-- Wall panel → Usama + Sir Waqas
-- Menu change → Sir Waqas
+- Routine post after PASS → Lazzat-Brand + Lazzat-Social
+- New campaign → Lazzat-Founder
+- Paid ad > $100 → Lazzat-Founder
+- Blog → Lazzat-Brand
+- Wall panel → Lazzat-Brand + Lazzat-Founder
+- Menu change → Lazzat-Founder
 
 Missing approver = incomplete output.
 

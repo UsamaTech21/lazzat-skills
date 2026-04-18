@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "web-app-developer-evals",
   "skill": "web-app-developer",
@@ -51,7 +51,7 @@
       "prompt": "Spec the change to add a 'How did you hear about us?' dropdown to the catering form.",
       "expects": {
         "includes": [
-          "Sir Waqas",
+          "Lazzat-Founder",
           "GA4 event",
           "test",
           "deployment checklist",
@@ -70,7 +70,7 @@
           "prep time",
           "5 km",
           "halal-sourced",
-          "Sir Waqas",
+          "Lazzat-Founder",
           "HST",
           "Compliance Block"
         ],

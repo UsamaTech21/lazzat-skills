@@ -1,6 +1,6 @@
-# Post Templates — Canva Layout Library
+﻿# Post Templates — Canva Layout Library
 
-> Every template here is design-locked. To change a layout pattern, route through Usama.
+> Every template here is design-locked. To change a layout pattern, route through Lazzat-Brand.
 
 ---
 
@@ -161,7 +161,7 @@ CONTENT RULES:
 - Items must match `menu-v14.md` EXACTLY (name, price, description)
 - Blocked items (per menu-v14) must NOT appear
 - Version stamp bottom-right: "v14 — April 2026"
-- Reprint required whenever menu changes (route via Usama + Sir Waqas)
+- Reprint required whenever menu changes (route via Lazzat-Brand + Lazzat-Founder)
 ```
 
 ---
@@ -188,7 +188,7 @@ BACK:
 
 CONTENT RULES:
 - Name + role verified against `team-bios.md` + `team-roles.md`
-- Cards for Sir Waqas, Mudassar, Remon, Usama, Soha, Ali Ahmed, Ali Hamza, Zohaib pre-built
+- Cards for Lazzat-Founder, Lazzat-Kitchen, Lazzat-Grill, Lazzat-Brand, Lazzat-Social, Lazzat-Ads, Lazzat-SEO, Lazzat-Video pre-built
 - Every new hire gets cards within 7 days of join
 ```
 
@@ -226,11 +226,11 @@ DESIGN APPROACH:
 - Large-format headline (Arial Black, 500pt+)
 - One brand promise or tagline per panel
 - Warm cream OR charcoal background
-- Editorial photography (team, dish, or "stone sear" hero) — extracted from Wall Posts v4 with Usama + Sir Waqas selection
+- Editorial photography (team, dish, or "stone sear" hero) — extracted from Wall Posts v4 with Lazzat-Brand + Lazzat-Founder selection
 - Minimum viewing distance: 2m — text must be readable from 4m
 
 CONTENT RULES:
-- Every panel routes through Usama + Sir Waqas
+- Every panel routes through Lazzat-Brand + Lazzat-Founder
 - Max 40 words per panel
 - Never reproduce Wall Posts v4 verbatim — treat as reference, adapt
 ```
@@ -280,7 +280,7 @@ INSIDE PANEL 1 — What We Are
 INSIDE PANEL 2 — What We Serve
 - Charcoal background
 - Menu selection: Mega Platter / Family Platter / Office Combo / Kids Option
-- Price ranges (verified with Sir Waqas before print)
+- Price ranges (verified with Lazzat-Founder before print)
 - Dietary badges: Vegetarian / Vegan / Gluten-aware / Kids-friendly
 
 INSIDE PANEL 3 — How to Book
@@ -292,14 +292,14 @@ INSIDE PANEL 3 — How to Book
 COMPLIANCE:
 - Every dish matches menu-v14
 - No "halal certified" language
-- Sir Waqas signs off before print run
+- Lazzat-Founder signs off before print run
 ```
 
 ---
 
 ## Template Update Protocol
 
-- New template proposals → Soha → Usama review
+- New template proposals → Lazzat-Social → Lazzat-Brand review
 - Approved templates → added to this file + Canva brand kit
 - Retired templates → flagged but kept for reference
 - Quarterly review: which templates drove engagement, which to retire

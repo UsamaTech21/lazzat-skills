@@ -1,7 +1,7 @@
-# SEO Keyword Targets — Full Universe
+﻿# SEO Keyword Targets — Full Universe
 
 > **Priority:** P0 = must rank top 3 in 6 months · P1 = must rank top 10 in 6 months · P2 = long-tail opportunity · P3 = defensive / brand
-> **Cadence:** Re-review monthly with Ali Hamza + Usama. Move keywords between priorities based on Search Console data.
+> **Cadence:** Re-review monthly with Lazzat-SEO + Lazzat-Brand. Move keywords between priorities based on Search Console data.
 
 ---
 

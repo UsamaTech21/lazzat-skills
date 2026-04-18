@@ -1,13 +1,13 @@
-# Delivery Platform Setup — Uber Eats, DoorDash, SkipTheDishes
+﻿# Delivery Platform Setup — Uber Eats, DoorDash, SkipTheDishes
 
-> **Status:** Registration pending for both locations. Awaiting: final menu PDF (approved by Sir Waqas), business phone, tax IDs from Sir Shahid.
+> **Status:** Registration pending for both locations. Awaiting: final menu PDF (approved by Lazzat-Founder), business phone, tax IDs from Sir Shahid.
 
 ---
 
 ## Prerequisites (before registering on any platform)
 
-- [ ] Menu v14 finalized + Sir Waqas approved
-- [ ] Prices finalized (Sir Waqas + Sir Shahid)
+- [ ] Menu v14 finalized + Lazzat-Founder approved
+- [ ] Prices finalized (Lazzat-Founder + Sir Shahid)
 - [ ] Menu PDF from `graphic-designer` (with dark-bg photos)
 - [ ] Business phone for each location
 - [ ] HST number (Sir Shahid)
@@ -16,7 +16,7 @@
 - [ ] Food handler's certificate copies
 - [ ] Public liability insurance certificate
 - [ ] Hours of operation (per location)
-- [ ] Delivery radius preferences (default 5 km; Sir Waqas may adjust)
+- [ ] Delivery radius preferences (default 5 km; Lazzat-Founder may adjust)
 - [ ] Cuisine categories approved (primary: Halal; secondary: Grill, Middle Eastern-adjacent, BBQ-alternative)
 
 ---
@@ -38,7 +38,7 @@
 
 ### Commission (as of 2026)
 - Uber Eats: 25–30% per order
-- Factor this into price decisions (may need 10–15% uplift on Uber menu vs. dine-in; Sir Waqas approves)
+- Factor this into price decisions (may need 10–15% uplift on Uber menu vs. dine-in; Lazzat-Founder approves)
 
 ### Settings
 - Delivery radius: 5 km (McVean); 5 km (Clarence)
@@ -96,7 +96,7 @@
 | Same menu across all 3 platforms | Avoid customer confusion |
 | Same photos (dark-bg hero) | Brand consistency |
 | Same descriptions | Copy pulled from single source-of-truth |
-| Same prices (with platform-commission uplift if Sir Waqas approves) | Trust |
+| Same prices (with platform-commission uplift if Lazzat-Founder approves) | Trust |
 | Same hours | Avoid "available on Uber but not Skip" |
 | Same blocked items (never show) | Brand compliance |
 
@@ -109,12 +109,12 @@ Each platform goes live separately; don't bundle launch.
 | Week | Action |
 |---|---|
 | Week −3 | Registration submitted to all 3 |
-| Week −2 | Menu + photos uploaded; preview review with Usama |
+| Week −2 | Menu + photos uploaded; preview review with Lazzat-Brand |
 | Week −1 | Test order from each platform; verify prep time, packaging, accuracy |
 | Week 0 (launch) | Uber Eats live first (biggest reach) |
 | Week +1 | DoorDash live |
 | Week +2 | Skip The Dishes live |
-| Week +3 | Full post-launch review with Sir Kamran + Usama |
+| Week +3 | Full post-launch review with Lazzat-Tech + Lazzat-Brand |
 
 Don't announce on social until all 3 are live (avoids "why not on Skip?" questions).
 
@@ -128,9 +128,9 @@ Don't announce on social until all 3 are live (avoids "why not on Skip?" questio
 - Pause platform temporarily if kitchen is overwhelmed (not exceeding 30 min)
 
 ### Weekly
-- Revenue reconciliation (per platform) with Sir Kamran
+- Revenue reconciliation (per platform) with Lazzat-Tech
 - Top sellers report (platform dashboard)
-- 1-star review review — escalate to Usama
+- 1-star review review — escalate to Lazzat-Brand
 
 ### Monthly
 - Commission reconciliation
@@ -152,7 +152,7 @@ Don't announce on social until all 3 are live (avoids "why not on Skip?" questio
 | DoorDash | Sponsored listing ($), DashPass partnership, bundle promos |
 | Skip The Dishes | Sponsored listing ($), bundle promos, featured restaurant |
 
-All paid platform promos require Sir Waqas budget sign-off.
+All paid platform promos require Lazzat-Founder budget sign-off.
 
 ---
 
@@ -186,7 +186,7 @@ Delivery orders need packaging distinct from dine-in:
 1. Platform first-responder (their CS)
 2. If escalated to us: pull POS receipt + kitchen photo (if available)
 3. If genuine error: refund + apology DM via platform
-4. If pattern emerges: kitchen SOP review with Ali Ahmed + Mudassar
+4. If pattern emerges: kitchen SOP review with Lazzat-Ads + Lazzat-Kitchen
 
 ### Rider issue (cold food, late delivery)
 - Rider issues are platform-side; we flag to their CS

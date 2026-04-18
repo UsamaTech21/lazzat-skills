@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "video-editor-evals",
   "skill": "video-editor",
@@ -32,10 +32,10 @@
     },
     {
       "id": "team-story-mudassar",
-      "prompt": "Write a 30-second team-story reel brief for Chef Mudassar.",
+      "prompt": "Write a 30-second team-story reel brief for Chef Lazzat-Kitchen.",
       "expects": {
         "includes": [
-          "Mudassar",
+          "Lazzat-Kitchen",
           "grill",
           "portrait",
           "subtitle",
@@ -64,14 +64,14 @@
           "9:16",
           "1:1",
           "16:9",
-          "Sir Waqas",
-          "Jawad"
+          "Lazzat-Founder",
+          "Lazzat-BrandFilm"
         ]
       }
     },
     {
       "id": "shoot-list-daily",
-      "prompt": "Give me today's shoot list for Zohaib — 20 usable clips, covering all pillars.",
+      "prompt": "Give me today's shoot list for Lazzat-Video — 20 usable clips, covering all pillars.",
       "expects": {
         "count_items_min": 20,
         "includes": [

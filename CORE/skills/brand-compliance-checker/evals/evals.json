@@ -1,4 +1,4 @@
-{
+﻿{
   "skill": "brand-compliance-checker",
   "version": "1.0.0",
   "cases": [
@@ -28,12 +28,12 @@
     {
       "id": "bc-03-clean-pass",
       "prompt": "Compliance check: 'Lava stone grilled Chicken Cube over saffron rice with Lazzat Green sauce. Halal-sourced. Every culture welcome. McVean Dr, Brampton.'",
-      "expected_behavior": "PASS all 32 checks. Pillar: Menu Spotlight (or Lava Stone Story). Approver: Usama + Soha. Block is delivered clean.",
+      "expected_behavior": "PASS all 32 checks. Pillar: Menu Spotlight (or Lava Stone Story). Approver: Lazzat-Brand + Lazzat-Social. Block is delivered clean.",
       "assertions": [
         "status is PASS",
         "no check marked failed",
         "pillar assigned",
-        "approver is Usama + Soha"
+        "approver is Lazzat-Brand + Lazzat-Social"
       ]
     },
     {

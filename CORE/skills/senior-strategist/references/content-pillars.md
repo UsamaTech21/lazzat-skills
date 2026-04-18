@@ -1,7 +1,7 @@
-# The 6 Content Pillars — In Depth
+﻿# The 6 Content Pillars — In Depth
 
 > **Source:** `CORE/brand-guidelines.md` + Lazzat Marketing Strategy doc
-> **Owner:** Usama
+> **Owner:** Lazzat-Brand
 > **Rule:** Every piece of Lazzat content maps to exactly ONE pillar. Cross-over is fine; primary assignment is not negotiable.
 
 Weekly target mix: **20 / 25 / 15 / 10 / 15 / 15**.
@@ -49,7 +49,7 @@ The items themselves. Bowl-builds. Sauces. Platters. The format customers actual
 - One sauce deep-dive per week
 - One platter story per week
 - The build-a-bowl format (carousel walkthrough)
-- Seasonal drops (ask Sir Waqas before teasing)
+- Seasonal drops (ask Lazzat-Founder before teasing)
 
 ### Formats
 - Carousels (bowl-build walkthrough)
@@ -105,11 +105,11 @@ Flavour provenance told the Lazzat way — respectful, curious, non-regional.
 The people behind Lazzat. The open kitchen. The rituals. The professor validation.
 
 ### Angles
-- Chef Mudassar at the prep station
-- Chef Remon at the lava stone
-- Professor Parveen validating a new sauce
-- Sir Waqas's founder minute (rare, always pre-approved)
-- Floor team portrait series (Jean, Ataul, Mansoor, Mandeep, Shakoor, Mehul)
+- Chef Lazzat-Kitchen at the prep station
+- Chef Lazzat-Grill at the lava stone
+- Lazzat-Culinary validating a new sauce
+- Lazzat-Founder's founder minute (rare, always pre-approved)
+- Floor team portrait series (full Lazzat-Floor team — 6 members)
 - "A day in the open kitchen" long-form
 - Prep ritual ASMR reels
 
@@ -199,7 +199,7 @@ Dietary inclusivity, fitness-friendly bowls, shake & smoothie moments, gym / stu
 - **Single post:** one primary pillar, one permitted secondary angle.
 - **Weekly plan:** all 6 pillars must appear across 7 posts.
 - **Monthly audit:** distribution must sit within ±5% of the 20/25/15/10/15/15 target.
-- **Quarterly retune:** Usama rebalances based on what pillar drove the most engagement + the most orders.
+- **Quarterly retune:** Lazzat-Brand rebalances based on what pillar drove the most engagement + the most orders.
 
 ---
 
@@ -207,9 +207,9 @@ Dietary inclusivity, fitness-friendly bowls, shake & smoothie moments, gym / stu
 
 | Pillar | Default approver | Escalation |
 |---|---|---|
-| Lava Stone Story | Usama | Sir Waqas (brand film cuts) |
-| Menu Spotlight | Usama | Sir Waqas (new item reveal) |
-| Global Kitchen | Usama | Sir Waqas (culture-of-the-week if sensitive festival) |
-| Team & Craft | Usama | Sir Waqas (founder feature) |
-| Community Brampton | Usama + Soha | Sir Waqas (charity / press moments) |
-| Wellness & Lifestyle | Usama | Sir Waqas (any macro / claim piece) |
+| Lava Stone Story | Lazzat-Brand | Lazzat-Founder (brand film cuts) |
+| Menu Spotlight | Lazzat-Brand | Lazzat-Founder (new item reveal) |
+| Global Kitchen | Lazzat-Brand | Lazzat-Founder (culture-of-the-week if sensitive festival) |
+| Team & Craft | Lazzat-Brand | Lazzat-Founder (founder feature) |
+| Community Brampton | Lazzat-Brand + Lazzat-Social | Lazzat-Founder (charity / press moments) |
+| Wellness & Lifestyle | Lazzat-Brand | Lazzat-Founder (any macro / claim piece) |

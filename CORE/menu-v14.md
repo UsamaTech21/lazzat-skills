@@ -1,9 +1,9 @@
-# Lazzat Menu — v14 (FINAL, AUTHORITATIVE)
+﻿# Lazzat Menu — v14 (FINAL, AUTHORITATIVE)
 
 > **STATUS:** Locked — this is the ONLY menu that may be referenced in any Lazzat content.
-> **Source:** `lazzat Final Menu v14.xlsx` (Sir Waqas approved).
+> **Source:** `lazzat Final Menu v14.xlsx` (Lazzat-Founder approved).
 > **Last updated:** April 2026
-> **Owner:** Usama
+> **Owner:** Lazzat-Brand
 > **Rule:** Never invent, rename, or reference items outside this file.
 
 ---
@@ -84,7 +84,7 @@ All platters: lava stone grilled, served with rice base, salad, sauces.
 | Paneer Wrap | Grilled paneer, mint sauce, Asian crunch salad |
 | Falafel Wrap | Chickpea falafel, tahini, Middle Eastern salad *(vegan)* |
 
-**Sandwiches: COMING SOON** (do not market until Sir Waqas approval).
+**Sandwiches: COMING SOON** (do not market until Lazzat-Founder approval).
 
 ---
 
@@ -199,7 +199,7 @@ These items must NEVER appear in any Lazzat content:
 ## When Writing Copy
 
 1. Only use exact item names from this file.
-2. If unsure whether an item is approved → **do not include** → flag to Usama.
+2. If unsure whether an item is approved → **do not include** → flag to Lazzat-Brand.
 3. Cube vs Kabab vs Wrap vs Platter — these are the four menu formats. No others.
 4. Always pair menu mention with ONE of: lava stone, family-friendly, halal-sourced, every-culture-welcome, or dietary-inclusive angle.
 5. Vegetarian items: Paneer Cube, Tofu Cube, Veggie Seekh, Falafel, all salads, all sides.

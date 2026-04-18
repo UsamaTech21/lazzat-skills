@@ -1,4 +1,4 @@
-# Movement Marketing — Campaigns That Outlive Ads
+﻿# Movement Marketing — Campaigns That Outlive Ads
 
 > **Rule:** A movement is a belief with a format. Lazzat's belief: every table welcome. The format: the four campaigns below.
 
@@ -115,7 +115,7 @@ $ (meal cost only — $10–$15 per donated platter; funded from catering margin
 ## Campaign 4 — The Open Kitchen Pledge (weekly)
 
 ### The idea
-Every Friday 3–3:30 PM, Chef Mudassar does a 30-minute public Q&A in the open kitchen. Any walk-in customer can ask him anything about the lava stone, the menu, the sauces, the craft.
+Every Friday 3–3:30 PM, Chef Lazzat-Kitchen does a 30-minute public Q&A in the open kitchen. Any walk-in customer can ask him anything about the lava stone, the menu, the sauces, the craft.
 
 ### The ask
 Come in. Ask the questions. See the answer cooked.
@@ -123,7 +123,7 @@ Come in. Ask the questions. See the answer cooked.
 ### Why it works
 - Reinforces the "open kitchen" brand promise
 - Turns walk-ins into content
-- Builds Mudassar's personal brand (Pillar 3 — team stories)
+- Builds Lazzat-Kitchen's personal brand (Pillar 3 — team stories)
 - No ad spend; zero-cost content engine
 
 ### Execution
@@ -133,12 +133,12 @@ Come in. Ask the questions. See the answer cooked.
 - Archive long-form on YouTube as mini-series
 
 ### Rules
-- Mudassar doesn't give away proprietary recipes (methods, not measurements)
-- No political / off-topic questions (he can defer to "you'll have to ask Sir Waqas that one")
+- Lazzat-Kitchen doesn't give away proprietary recipes (methods, not measurements)
+- No political / off-topic questions (he can defer to "you'll have to ask Lazzat-Founder that one")
 - Always filmed; always reviewed for compliance before posting
 
 ### Budget
-$ ($0 — fits into Mudassar's working hours)
+$ ($0 — fits into Lazzat-Kitchen's working hours)
 
 ### Metrics
 - Live viewers/session
@@ -162,11 +162,11 @@ These four campaigns reinforce each other:
 
 | Step | Owner |
 |---|---|
-| Conceive | Usama |
-| Approve | Sir Waqas |
-| Execute | Soha (socials) + Ali Ahmed (logistics) + Mudassar (kitchen) |
-| Measure | Soha + Ali Hamza (reporting) |
-| Report | Monthly to Sir Waqas; quarterly in public post |
+| Conceive | Lazzat-Brand |
+| Approve | Lazzat-Founder |
+| Execute | Lazzat-Social (socials) + Lazzat-Ads (logistics) + Lazzat-Kitchen (kitchen) |
+| Measure | Lazzat-Social + Lazzat-SEO (reporting) |
+| Report | Monthly to Lazzat-Founder; quarterly in public post |
 
 ---
 
@@ -174,9 +174,9 @@ These four campaigns reinforce each other:
 
 If a campaign stops working (engagement drops below baseline for 60 days, or sentiment sours):
 
-1. Soha + Usama review
+1. Lazzat-Social + Lazzat-Brand review
 2. Propose pivot OR sunset
-3. Sir Waqas signs off
+3. Lazzat-Founder signs off
 4. Announce publicly if sunset (honest: "We're replacing X with Y because…")
 
 Movements aren't forever. Keep the ones that still move.

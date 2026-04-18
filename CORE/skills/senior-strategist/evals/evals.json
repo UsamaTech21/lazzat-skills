@@ -1,4 +1,4 @@
-{
+﻿{
   "skill": "senior-strategist",
   "version": "1.0.0",
   "cases": [
@@ -18,14 +18,14 @@
     },
     {
       "id": "ss-02-campaign-brief",
-      "prompt": "Write a campaign brief for Canada Day 2026 for Sir Waqas.",
+      "prompt": "Write a campaign brief for Canada Day 2026 for Lazzat-Founder.",
       "expected_behavior": "Produce the full Campaign Brief format with concrete KPI, channels, assets, budget ask, risk flags, and a specific yes/no question.",
       "assertions": [
         "uses the Campaign Brief Format",
         "has an event anchor of Canada Day",
         "specifies channel mix",
         "names assets needed with counts",
-        "asks Sir Waqas one clear approver question"
+        "asks Lazzat-Founder one clear approver question"
       ]
     },
     {
