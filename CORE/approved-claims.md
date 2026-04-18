@@ -54,7 +54,7 @@ These are confirmed facts. Use freely in any brand-compliant format.
 ### Team
 - "Founded by Lazzat-Founder"
 - "Recipes validated by Lazzat-Culinary (culinary advisor)"
-- "Open-kitchen craft led by Chef Lazzat-Kitchen & Chef Lazzat-Grill"
+- "Open-kitchen craft led by Chef Lazzat-Culinary & Chef Lazzat-Standards"
 
 ---
 

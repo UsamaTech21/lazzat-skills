@@ -72,7 +72,7 @@ What's the last grilled bite you actually remembered the flavour of?
 
 **Example:**
 ```
-Lazzat-Grill at the stone, 6:47 AM.
+Lazzat-Standards at the stone, 6:47 AM.
 
 First lighting of the lava stone — the rest of the day balances on this moment.
 Every Cube today starts on that heat.

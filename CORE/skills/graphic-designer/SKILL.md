@@ -92,7 +92,7 @@ APPROVER SIGN-OFF: [Lazzat-Brand / Lazzat-Founder — date]
 - Menu board — in-store digital (16:9) + print A2
 - Sign vinyl — storefront signage
 - Apron + polo tag designs
-- Business cards for Lazzat-Founder, Lazzat-Social, Lazzat-Brand, Lazzat-Kitchen, Lazzat-Grill
+- Business cards for Lazzat-Founder, Lazzat-Social, Lazzat-Brand, Lazzat-Culinary, Lazzat-Standards
 - Wall panels (art-directed from Wall Posts v4 extraction)
 - Takeaway bag + cup wraparound (cream base, charcoal logo, tagline)
 - Catering brochure (A4 trifold)
@@ -115,7 +115,7 @@ APPROVER SIGN-OFF: [Lazzat-Brand / Lazzat-Founder — date]
 
 ---
 
-## Photography Direction (brief to Lazzat-Video / Lazzat-BrandFilm)
+## Photography Direction (brief to Lazzat-Video / Lazzat-Video)
 
 ### Hero dish shot
 - Angle: 3/4 (front-elevated) OR 45° overhead

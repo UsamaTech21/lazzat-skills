@@ -140,7 +140,7 @@ SCENE 1 (2–10s): Deliveries arrive — Ontario Food Terminal produce + Maple L
              TEXT: "Fresh in daily."
 SCENE 2 (10–20s): Prep — cubes weighed, sauces portioned, stations stocked.
              TEXT: "Before doors open."
-SCENE 3 (20–26s): Chef Lazzat-Kitchen inspects the grill.
+SCENE 3 (20–26s): Chef Lazzat-Culinary inspects the grill.
              TEXT: "[Name]: Head Grill."
 CTA (26–30s): Open sign flips.
              TEXT: "Now open."
@@ -167,7 +167,7 @@ CTA (11–15s): Logo + CTA.
 
 ---
 
-## Format 9 — Brand Story Cut (from Lazzat-BrandFilm's master)
+## Format 9 — Brand Story Cut (from Lazzat-Video's master)
 
 **Length:** 30 / 60 / 90 seconds · **Pillar:** 6 · **Use:** Launch + anniversary
 
@@ -176,7 +176,7 @@ Cuts derived from `Lazzat_Brand_Film_Package_Final.pdf` master. Pull frames that
 1. Opening brand truth ("A grill for every table.")
 2. Brampton context shot
 3. Founder frame (Lazzat-Founder)
-4. Team frame (Lazzat-Kitchen / Lazzat-Grill / Lazzat-Brand / Lazzat-Social)
+4. Team frame (Lazzat-Culinary / Lazzat-Standards / Lazzat-Brand / Lazzat-Social)
 5. Lava stone sear frame
 6. Dietary inclusivity frame (vegetarian + vegan + meat together)
 7. Closing tagline: "Uniting Through Flavours."

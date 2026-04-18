@@ -84,9 +84,9 @@ Minimum 20 usable clips per shoot across these categories. 3 takes minimum per s
 
 ### Team (medium priority)
 11. Team member at station — 3/4 angle
-12. Chef Lazzat-Kitchen inspecting grill — portrait
+12. Chef Lazzat-Culinary inspecting grill — portrait
 13. Wider team shot — 2-3 team members collaborating
-14. Lazzat-Kitchen / Lazzat-Grill plating on the pass
+14. Lazzat-Culinary / Lazzat-Standards plating on the pass
 15. Team member prepping sauces
 
 ### Kitchen + BTS (medium priority)

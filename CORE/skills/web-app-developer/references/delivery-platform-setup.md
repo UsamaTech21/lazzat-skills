@@ -114,7 +114,7 @@ Each platform goes live separately; don't bundle launch.
 | Week 0 (launch) | Uber Eats live first (biggest reach) |
 | Week +1 | DoorDash live |
 | Week +2 | Skip The Dishes live |
-| Week +3 | Full post-launch review with Lazzat-Tech + Lazzat-Brand |
+| Week +3 | Full post-launch review with Lazzat-Web + Lazzat-Brand |
 
 Don't announce on social until all 3 are live (avoids "why not on Skip?" questions).
 
@@ -128,7 +128,7 @@ Don't announce on social until all 3 are live (avoids "why not on Skip?" questio
 - Pause platform temporarily if kitchen is overwhelmed (not exceeding 30 min)
 
 ### Weekly
-- Revenue reconciliation (per platform) with Lazzat-Tech
+- Revenue reconciliation (per platform) with Lazzat-Web
 - Top sellers report (platform dashboard)
 - 1-star review review — escalate to Lazzat-Brand
 
@@ -186,7 +186,7 @@ Delivery orders need packaging distinct from dine-in:
 1. Platform first-responder (their CS)
 2. If escalated to us: pull POS receipt + kitchen photo (if available)
 3. If genuine error: refund + apology DM via platform
-4. If pattern emerges: kitchen SOP review with Lazzat-Ads + Lazzat-Kitchen
+4. If pattern emerges: kitchen SOP review with Lazzat-Ads + Lazzat-Culinary
 
 ### Rider issue (cold food, late delivery)
 - Rider issues are platform-side; we flag to their CS

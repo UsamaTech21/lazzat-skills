@@ -118,7 +118,7 @@ Love it [Name] — locking you in for [date, time].
 
 Address: [McVean Dr / Clarence St — full address]
 Parking: [note — free lot / street / valet]
-Who'll meet you: [Lazzat-Social / Lazzat-Kitchen / Lazzat-Brand]
+Who'll meet you: [Lazzat-Social / Lazzat-Culinary / Lazzat-Brand]
 
 I'll send the visit brief in a minute — a short doc with what to expect (no script, just logistics).
 

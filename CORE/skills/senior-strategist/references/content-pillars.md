@@ -105,11 +105,11 @@ Flavour provenance told the Lazzat way — respectful, curious, non-regional.
 The people behind Lazzat. The open kitchen. The rituals. The professor validation.
 
 ### Angles
-- Chef Lazzat-Kitchen at the prep station
-- Chef Lazzat-Grill at the lava stone
+- Chef Lazzat-Culinary at the prep station
+- Chef Lazzat-Standards at the lava stone
 - Lazzat-Culinary validating a new sauce
 - Lazzat-Founder's founder minute (rare, always pre-approved)
-- Floor team portrait series (full Lazzat-Floor team — 6 members)
+- Floor team portrait series (full Lazzat-Service team — 6 members)
 - "A day in the open kitchen" long-form
 - Prep ritual ASMR reels
 

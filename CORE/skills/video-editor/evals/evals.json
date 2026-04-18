@@ -32,10 +32,10 @@
     },
     {
       "id": "team-story-mudassar",
-      "prompt": "Write a 30-second team-story reel brief for Chef Lazzat-Kitchen.",
+      "prompt": "Write a 30-second team-story reel brief for Chef Lazzat-Culinary.",
       "expects": {
         "includes": [
-          "Lazzat-Kitchen",
+          "Lazzat-Culinary",
           "grill",
           "portrait",
           "subtitle",
@@ -65,7 +65,7 @@
           "1:1",
           "16:9",
           "Lazzat-Founder",
-          "Lazzat-BrandFilm"
+          "Lazzat-Video"
         ]
       }
     },

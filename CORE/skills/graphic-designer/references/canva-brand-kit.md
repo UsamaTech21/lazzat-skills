@@ -8,7 +8,7 @@
 
 - **Canva Pro account** (paid) — under Lazzat workspace
 - **Team members with edit access:** Lazzat-Brand, Lazzat-Social (Design Lead), Lazzat-Video (video exports)
-- **Team members with view/comment:** Lazzat-Founder, Lazzat-Ads, Lazzat-Kitchen
+- **Team members with view/comment:** Lazzat-Founder, Lazzat-Ads, Lazzat-Culinary
 - **Shared brand kit** enabled
 
 ---

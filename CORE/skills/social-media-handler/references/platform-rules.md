@@ -32,7 +32,7 @@
 - **Window:** weekday 13:00 (lunch) or 19:30 (dinner)
 - **Length:** 10–20 min launch window; 15 min default otherwise
 - **Script:** 3-beat — hook (1 min) → craft moment (10 min) → CTA (1 min)
-- **Co-host:** Lazzat-Social + Lazzat-Kitchen OR Lazzat-Social + Lazzat-Grill OR Lazzat-Social + customer feature
+- **Co-host:** Lazzat-Social + Lazzat-Culinary OR Lazzat-Social + Lazzat-Standards OR Lazzat-Social + customer feature
 
 ### What IG punishes
 - Link in caption (put in bio)
@@ -160,4 +160,4 @@ Never on ANY platform:
 | Facebook | Lazzat Grill & Shakes | Lazzat-Social | Lazzat-Brand |
 | YouTube | Lazzat Grill & Shakes | Lazzat-Video | Lazzat-Brand |
 | GBP (both locations) | Lazzat Grill & Shakes | Lazzat-SEO | Lazzat-Brand |
-| WhatsApp Business | Official number | Lazzat-Social | Lazzat-Kitchen |
+| WhatsApp Business | Official number | Lazzat-Social | Lazzat-Culinary |

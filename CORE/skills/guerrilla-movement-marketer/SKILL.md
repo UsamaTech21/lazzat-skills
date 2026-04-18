@@ -104,7 +104,7 @@ Our movement is not a slogan. It's a belief — expressed as three pillars:
 - **One Table Challenge** — UGC-driven: customers share a photo of who they ate with today at Lazzat. Tag 3 people you don't usually eat with. We feature the most diverse table weekly.
 - **Real Fire Certificate** — every customer who orders a platter gets a collectible "Certified Lava-Stone Grilled" mini-card. Shareable. Instagrammable. Low-cost. Tracks brand exposure organically.
 - **Feed Brampton** — for every Mega Platter catering order during Ramadan, Eid al-Fitr, Eid al-Adha, Diwali, and Thanksgiving, Lazzat donates an Iftar/meal to a Brampton food bank or community fridge. Publicly logged.
-- **The Open Kitchen Pledge** — every Friday afternoon, Chef Lazzat-Kitchen does a 20-min public Q&A in the kitchen. Film it. Archive it. Turns walk-ins into content.
+- **The Open Kitchen Pledge** — every Friday afternoon, Chef Lazzat-Culinary does a 20-min public Q&A in the kitchen. Film it. Archive it. Turns walk-ins into content.
 
 ---
 

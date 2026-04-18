@@ -75,16 +75,30 @@ Honest claim: not "oil-free" — low-oil. Not "zero carbon" — lower carbon tha
 
 ---
 
-## 7. THE TEAM (as brand story elements)
+## 7. THE TEAM (as brand story elements — canonical from Film Package Final)
 
-- **Sir Waqas** — the founder who saw the gap.
-- **Mudassar** — co-founder and head chef; turned the vision into a kitchen, a recipe book, and a portion promise.
-- **Remon** — the grill lead; keeper of the lava stone, hands behind every sear.
-- **Professor Parveen** — the academic conscience keeping every recipe respectful.
-- **The floor team** — Jean, Ataul, Mansoor, Mandeep, Shakoor, Mehul — six names that already represent three continents.
-- **Usama, Soha, Ali Ahmed, Ali Hamza, Zohaib** — the brand and growth side making sure Lazzat is as crafted online as it is on the grill.
+Eleven people from five countries and four faiths — plus the team that makes sure their story reaches the city.
 
-Long-form note: always name the whole team when the piece is about "people behind Lazzat." Never hero one person without the others.
+**Front-end (the eleven founders who are the film):**
+
+- **Sir Waqas (Waqas Mukhtar) — Founder & CEO.** The founder who saw the gap. Twenty-plus restaurants of operational experience before he built his own.
+- **Mudassar (Mudassar Mukhtar) — Co-Founder, Construction & Planning.** Brother-co-founder; built the space, placed every brick of the Himalayan salt wall by hand.
+- **Remon Farag — Food Safety & Standards.** Egyptian Christian; oversees food safety for a restaurant designed around religious inclusivity. "Everybody's standard is the standard."
+- **Soha Ahmed — Operations & Procedures.** UK-raised Pakistani; the systems mind. "A checklist for respect. Who touches what, what gets cooked where, what never goes near what."
+- **Professor Parveen — Culinary Advisor / Professor.** Indian Hindu; 35 years in kitchens, teaches at George Brown and Sheridan. The academic conscience keeping every recipe respectful.
+- **Jean — Store Manager.** Syrian Christian; hospitality in the bones. "The table makes strangers into family."
+- **Ataul Hadi — Shakes & Dessert Counter.** Pakistani; custom-cake craftsman. One cake for a Hindu-Muslim wedding — five tiers, two families, one cake.
+- **Mansoor Bajwa — All-Rounder.** Pakistani; twenty years of restaurant experience. The connective tissue. "The best job is the one nobody else wants to do that day."
+- **Mandeep Kaur — Customer Service Specialist.** Indian Sikh; the Punjabi-mother-tongue bridge to 21.7% of Brampton. "It feels like home. I grew up in Brampton. My whole city is like this."
+- **Shakoor Ahmed — Back of House / Kitchen.** Pakistani; cooks like his mother taught him. "Don't rush. That's her rule, not mine."
+- **Mehul — Grill.** Indian Hindu; the grill master, reads fire by sound. "I don't cook fast. I cook right."
+
+**Back-end (the brand side):**
+
+- **Usama — Brand & Marketing Lead.** Runs the AI skill system that makes Lazzat as crafted online as it is on the grill.
+- A role-based brand team under Lazzat-Brand — SEO, content, social, ads, video, design, web — referred to by role rather than name, since the people rotate over time and the roles do not.
+
+Long-form note: when the piece is about "the people behind Lazzat," name the eleven front-end founders and their roles. Back-end team members are referenced by role, not by name, in public copy. Never hero one front-end person without the others.
 
 **Confidentiality note (internal, never publish):** Family relationships between team members exist and are documented in `CORE/team-roles.md` Section 8 and `CORE/team-bios.md` Section 0 for approval-chain purposes. They must **never** appear in any brand-story derivative — captions, reels, press, website, wall panels. Public framing is always by role, never by relation.
 

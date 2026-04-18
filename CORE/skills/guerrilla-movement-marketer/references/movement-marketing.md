@@ -115,7 +115,7 @@ $ (meal cost only — $10–$15 per donated platter; funded from catering margin
 ## Campaign 4 — The Open Kitchen Pledge (weekly)
 
 ### The idea
-Every Friday 3–3:30 PM, Chef Lazzat-Kitchen does a 30-minute public Q&A in the open kitchen. Any walk-in customer can ask him anything about the lava stone, the menu, the sauces, the craft.
+Every Friday 3–3:30 PM, Chef Lazzat-Culinary does a 30-minute public Q&A in the open kitchen. Any walk-in customer can ask him anything about the lava stone, the menu, the sauces, the craft.
 
 ### The ask
 Come in. Ask the questions. See the answer cooked.
@@ -123,7 +123,7 @@ Come in. Ask the questions. See the answer cooked.
 ### Why it works
 - Reinforces the "open kitchen" brand promise
 - Turns walk-ins into content
-- Builds Lazzat-Kitchen's personal brand (Pillar 3 — team stories)
+- Builds Lazzat-Culinary's personal brand (Pillar 3 — team stories)
 - No ad spend; zero-cost content engine
 
 ### Execution
@@ -133,12 +133,12 @@ Come in. Ask the questions. See the answer cooked.
 - Archive long-form on YouTube as mini-series
 
 ### Rules
-- Lazzat-Kitchen doesn't give away proprietary recipes (methods, not measurements)
+- Lazzat-Culinary doesn't give away proprietary recipes (methods, not measurements)
 - No political / off-topic questions (he can defer to "you'll have to ask Lazzat-Founder that one")
 - Always filmed; always reviewed for compliance before posting
 
 ### Budget
-$ ($0 — fits into Lazzat-Kitchen's working hours)
+$ ($0 — fits into Lazzat-Culinary's working hours)
 
 ### Metrics
 - Live viewers/session
@@ -164,7 +164,7 @@ These four campaigns reinforce each other:
 |---|---|
 | Conceive | Lazzat-Brand |
 | Approve | Lazzat-Founder |
-| Execute | Lazzat-Social (socials) + Lazzat-Ads (logistics) + Lazzat-Kitchen (kitchen) |
+| Execute | Lazzat-Social (socials) + Lazzat-Ads (logistics) + Lazzat-Culinary (kitchen) |
 | Measure | Lazzat-Social + Lazzat-SEO (reporting) |
 | Report | Monthly to Lazzat-Founder; quarterly in public post |
 

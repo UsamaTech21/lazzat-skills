@@ -179,7 +179,7 @@ Humanize the brand. Pillar 3 content anchor.
 
 ### SEO
 - Title: `The Team Behind Lazzat — Brampton's Lava Stone Grill`
-- Meta: "Meet the team at Lazzat Grill & Shakes: Chef Lazzat-Kitchen, Lazzat-Founder, Lazzat-Social, Lazzat-Brand, and the full crew behind Brampton's lava stone grill."
+- Meta: "Meet the team at Lazzat Grill & Shakes: Chef Lazzat-Culinary, Lazzat-Founder, Lazzat-Social, Lazzat-Brand, and the full crew behind Brampton's lava stone grill."
 
 ---
 

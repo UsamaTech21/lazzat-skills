@@ -21,7 +21,7 @@ Lazzat sentences start with things, not "I" or "We" or "Let's."
 |---|---|
 | "We are thrilled to announce…" | "A new grill opens in Brampton." |
 | "Let me tell you about our grill." | "Volcanic stone. No charcoal. Real flame." |
-| "Our chef has created…" | "Chef Lazzat-Kitchen built a bowl." |
+| "Our chef has created…" | "Chef Lazzat-Culinary built a bowl." |
 
 ### 2. Short. Then shorter. Then build.
 Vary length. A three-word sentence does more than a long one.
@@ -33,7 +33,7 @@ Vary length. A three-word sentence does more than a long one.
 | "Chicken is grilled on lava stone…" | "Lava stone grills the chicken." |
 
 ### 4. Proper nouns = power
-Use real names: Brampton. Castlemore. McVean Dr. Clarence St. Chef Lazzat-Kitchen. Lazzat-Culinary. Maple Lodge Farms.
+Use real names: Brampton. Castlemore. McVean Dr. Clarence St. Chef Lazzat-Culinary. Lazzat-Culinary. Maple Lodge Farms.
 Generic nouns = weakness.
 
 ### 5. No hedging
@@ -120,7 +120,7 @@ Use a phrase early, bring it back in the closer. "Every table welcome" works as 
 
 ❌ *"Our chef believes food should be healthy and fresh, and our authentic recipes are made with love using farm-to-table ingredients for the best Brampton experience."*
 
-✅ *"Chef Lazzat-Kitchen weighs every cube. 200 grams. Every time. The stone does the searing; we keep the oil low and the method honest. Maple Lodge Farms chicken, Ontario Food Terminal produce. That's the whole recipe."*
+✅ *"Chef Lazzat-Culinary weighs every cube. 200 grams. Every time. The stone does the searing; we keep the oil low and the method honest. Maple Lodge Farms chicken, Ontario Food Terminal produce. That's the whole recipe."*
 
 ### Example 3
 
@@ -135,7 +135,7 @@ Use a phrase early, bring it back in the closer. "Every table welcome" works as 
 - [ ] Opens with a noun or an action, not "We" or "Our"
 - [ ] No hedging words
 - [ ] No banned words
-- [ ] Names at least one real proper noun (Brampton, McVean, Lazzat-Kitchen, etc.)
+- [ ] Names at least one real proper noun (Brampton, McVean, Lazzat-Culinary, etc.)
 - [ ] Ends with a clear CTA or question
 - [ ] Primary tagline appears ONCE in long-form
 - [ ] Paragraphs vary in length

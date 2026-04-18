@@ -1,4 +1,4 @@
-# Content Compliance Checklist — The Auto-Checker
+﻿# Content Compliance Checklist — The Auto-Checker
 
 > **STATUS:** Locked — April 2026
 > **Owner:** Lazzat-Brand | **Loaded by:** every Lazzat skill, automatically
@@ -68,11 +68,11 @@ When any Lazzat skill produces content (post, caption, blog, ad, wall panel, web
 - ❌ Use unapproved team quotes (always verify `team-bios.md`)
 
 ### Names & Family / Relationship Disclosures (INTERNAL-ONLY)
-- ❌ Never use personal names from `team-bios.md` in any public-facing copy — always refer to people as Lazzat-identities (Lazzat-Founder, Lazzat-Kitchen, Lazzat-Grill, Lazzat-Brand, Lazzat-Social, Lazzat-Ads, Lazzat-SEO, Lazzat-Video, Lazzat-Culinary, Lazzat-Floor, Lazzat-Tech, Lazzat-BrandFilm)
+- ❌ Never use personal names from `team-bios.md` in any public-facing copy — always refer to people as Lazzat-identities (Lazzat-Founder, Lazzat-Build, Lazzat-Standards, Lazzat-Operations, Lazzat-Culinary, Lazzat-Brand, Lazzat-Social, Lazzat-Ads, Lazzat-SEO, Lazzat-Video, Lazzat-Content, Lazzat-Design, Lazzat-Web). Front-line specialists (Jean, Mehul, Shakoor, Ataul, Mandeep, Mansoor) may be named by first name in Film-Package-aligned copy only.
 - ❌ Never pair any Lazzat-identity or personal name with a kinship word (bhai, bhanji, brother, niece, uncle, chacha, mamu, cousin, aunt, khala, phupho, father-in-law, nephew, bhatija) — in the same sentence or within 50 words
 - ❌ Never frame Lazzat as "family-run" / "family business" / "the Lazzat brothers" / "a family affair" / "uncle-niece partnership"
 - ❌ Never paraphrase in a way that invites the reader to infer kinship ("brotherhood behind the grill", "tight-knit family of two generations")
-- ✅ Always reference people by their Lazzat-identity in public copy ("Co-Founder & Head Chef Lazzat-Kitchen", "Social & Community Lead Lazzat-Social")
+- ✅ Always reference back-end people by their Lazzat-identity in public copy (e.g., "Co-Founder, Construction & Planning Lazzat-Build"; "Food Safety & Standards Lazzat-Standards"; "Operations & Procedures Lazzat-Operations"; "Culinary Advisor Lazzat-Culinary"; "Brand Lead Lazzat-Brand")
 - ✅ The only three files allowed to use personal names are: `CORE/brand-story.md`, `CORE/team-bios.md`, `CORE/team-roles.md` — everywhere else, Lazzat-identity only
 - See `skills/brand-compliance-checker/references/do-not-do-list.md` §7b for the full trigger list
 

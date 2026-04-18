@@ -1,6 +1,6 @@
 ---
 name: video-editor
-description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Lazzat-Video/Lazzat-BrandFilm, brand film cuts (from Lazzat-BrandFilm's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
+description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Lazzat-Video/Lazzat-Video, brand film cuts (from Lazzat-Video's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -119,7 +119,7 @@ See `references/reel-formats.md` for full detail. Summary:
 | 6 | Community Moment (Brampton angle) | 30–60s | Pillar 2 |
 | 7 | BTS — Kitchen Morning | 15–30s | Story + feed mirror |
 | 8 | Before → After (raw → plated) | 9–15s | High-engagement format |
-| 9 | Brand Story Cut (from Lazzat-BrandFilm master) | 30–90s | Launch + anniversary |
+| 9 | Brand Story Cut (from Lazzat-Video master) | 30–90s | Launch + anniversary |
 | 10 | Testimonial (customer quote) | 15–30s | Pillar 6 + social proof |
 
 ---
@@ -143,9 +143,9 @@ All raw footage sent to Lazzat-Brand same day. **Never delete anything before re
 
 ---
 
-## Brand Film (Lazzat-BrandFilm / Filmmaker's Brief)
+## Brand Film (Lazzat-Video / Filmmaker's Brief)
 
-The brand film master is built by Lazzat-BrandFilm per `Lazzat_Brand_Film_Package__The_Filmmaker's_Brief.pdf`. Your job:
+The brand film master is built by Lazzat-Video per `Lazzat_Brand_Film_Package__The_Filmmaker's_Brief.pdf`. Your job:
 
 - Secure ALL raw files on shoot day (Google Drive + backup drive)
 - Cut short versions: 60s, 30s, 15s, 9s (for different placements)
@@ -161,7 +161,7 @@ The brand film master is built by Lazzat-BrandFilm per `Lazzat_Brand_Film_Packag
 - **Position:** horizontally centered, vertically at 80% of frame (above IG bottom UI)
 - **Pacing:** 1–2 lines at a time; never walls of text
 - **Reading speed:** ≤ 17 characters per second
-- **Verification:** auto-generated captions must be manually corrected — proper nouns (Lazzat-Kitchen, Lazzat-Culinary, Brampton, McVean, Clarence) are common mis-transcriptions
+- **Verification:** auto-generated captions must be manually corrected — proper nouns (Lazzat-Culinary, Lazzat-Culinary, Brampton, McVean, Clarence) are common mis-transcriptions
 
 ---
 

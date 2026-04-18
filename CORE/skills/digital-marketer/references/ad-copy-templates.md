@@ -210,7 +210,7 @@ DURATION: 9–15 sec
 ```
 HOOK (0–2s): Close-up — protein hits lava stone, steam rises.
 TEXT (on-screen): "No charcoal."
-SCENE 2 (2–6s): Chef Lazzat-Kitchen weighs 200g cube on scale.
+SCENE 2 (2–6s): Chef Lazzat-Culinary weighs 200g cube on scale.
 TEXT: "200 grams. Every time."
 SCENE 3 (6–10s): Bowl assembly — sauce drizzle.
 TEXT: "13 sauces. One grill."
@@ -237,7 +237,7 @@ Before running ANY ad, confirm every line against:
 | "healthy" (without claim backup) | ❌ (superlative; use "honestly weighed 200g" instead) |
 | "200 grams honestly weighed" | ✅ |
 | "Maple Lodge Farms" | ✅ (with PR approval first) |
-| "Chef Lazzat-Kitchen" | ✅ |
+| "Chef Lazzat-Culinary" | ✅ |
 | "Lazzat-Culinary validated" | ✅ (only when blog/long-form; not paid-ad short copy) |
 | "Uniting Through Flavours" | ✅ (primary tagline) |
 | "One grill. Every story." | ✅ (secondary tagline) |

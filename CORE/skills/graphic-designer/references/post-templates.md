@@ -188,7 +188,7 @@ BACK:
 
 CONTENT RULES:
 - Name + role verified against `team-bios.md` + `team-roles.md`
-- Cards for Lazzat-Founder, Lazzat-Kitchen, Lazzat-Grill, Lazzat-Brand, Lazzat-Social, Lazzat-Ads, Lazzat-SEO, Lazzat-Video pre-built
+- Cards for Lazzat-Founder, Lazzat-Culinary, Lazzat-Standards, Lazzat-Brand, Lazzat-Social, Lazzat-Ads, Lazzat-SEO, Lazzat-Video pre-built
 - Every new hire gets cards within 7 days of join
 ```
 

@@ -36,8 +36,8 @@
 
 | # | Working title | Primary keyword | Word count | Audience |
 |---|---|---|---|---|
-| 15 | Meet Chef Lazzat-Kitchen — The Grill Behind the Grill | brampton chef lava stone grill | 900 | Team spotlight |
-| 16 | Lazzat-Grill's Kitchen — Toronto to Brampton | persian chef brampton | 800 | Human-interest |
+| 15 | Meet Chef Lazzat-Culinary — The Grill Behind the Grill | brampton chef lava stone grill | 900 | Team spotlight |
+| 16 | Lazzat-Standards's Kitchen — Toronto to Brampton | persian chef brampton | 800 | Human-interest |
 | 17 | Why Lazzat-Founder Said No to Charcoal | brampton restaurant founder story | 1,200 | Brand-origin |
 | 18 | Lazzat-Culinary's Validation Rounds | food scientist brampton restaurant | 900 | Credibility-focused |
 | 19 | Lazzat-Social on Social — The Voice of Lazzat Online | brampton restaurant instagram story | 800 | Brand-voice audience |

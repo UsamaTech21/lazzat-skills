@@ -19,9 +19,9 @@
 | Apr 18 | Website soft-live | Web Dev | Menu v14 page + catering form + locations |
 | Apr 19 | IG + TikTok accounts seeded | Lazzat-Social | 6 teaser posts queued |
 | Apr 20 | Delivery platform registration (pending Lazzat-Founder PDF) | Lazzat-Ads | Uber / DoorDash / Skip in pipeline |
-| Apr 21 | Toast POS + email capture live | Web Dev + Lazzat-Tech | Customer list starts |
+| Apr 21 | Toast POS + email capture live | Web Dev + Lazzat-Web | Customer list starts |
 | Apr 22 | Soft-opening team dinner (internal only, no press) | Lazzat-Brand | Team photos for future BTS |
-| Apr 23 | Dry-run service — friends & family | Lazzat-Kitchen + Lazzat-Grill | Service & timing data |
+| Apr 23 | Dry-run service — friends & family | Lazzat-Culinary + Lazzat-Standards | Service & timing data |
 | Apr 24 | Final brand compliance sweep | Lazzat-Brand | All live copy re-checked |
 | Apr 25 | Final rehearsal + eve of launch | All | Everything ready |
 | **Apr 26** | **OPENING — McVean Dr** | **Lazzat-Founder** | **Go live** |
@@ -109,7 +109,7 @@
 - Dietary-inclusivity hero month: vegan / vegetarian options front-and-center
 - Thanksgiving community content (global framing, not US-centric)
 - Navratri-aware content (no meat specials that week; plant-forward spotlight)
-- First attempt at guerrilla stunt (low-cost street-flame demo — Lazzat-Brand + Lazzat-Grill)
+- First attempt at guerrilla stunt (low-cost street-flame demo — Lazzat-Brand + Lazzat-Standards)
 
 ---
 

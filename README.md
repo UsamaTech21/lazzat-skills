@@ -256,7 +256,7 @@ All CORE/ changes require Lazzat-Brand sign-off + Lazzat-Founder notification.
 ## Brand Founded By
 
 **Waqas Mukhtar** — Founder & CEO, Lazzat Grill & Shakes.
-**Mudassar Mukhtar** — Co-Founder & Head Chef, Lazzat Grill & Shakes.
+**Mudassar Mukhtar** — Co-Founder, Construction & Planning, Lazzat Grill & Shakes.
 
 Lazzat Grill & Shakes is their brand — the recipes, the grill philosophy, the hospitality culture, and the Brampton footprint. All brand content inside `CORE/` (menu, approved claims, brand story, wall content) belongs to them and the Lazzat company.
 

@@ -54,8 +54,8 @@
 27. "The rule Lazzat-Culinary set for our recipes."
 
 ### Team hooks
-28. "Meet Chef Lazzat-Kitchen. He built the grill."
-29. "Lazzat-Grill cooked in Toronto for 20 years. Now he's here."
+28. "Meet Chef Lazzat-Culinary. He built the grill."
+29. "Lazzat-Standards cooked in Toronto for 20 years. Now he's here."
 30. "My uncle wouldn't let me open without this one test."
 31. "We have a Farsi-English glossary taped to the wall."
 

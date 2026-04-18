@@ -1,4 +1,4 @@
-# DO-NOT-DO List — Expanded with Examples
+﻿# DO-NOT-DO List — Expanded with Examples
 
 > **STATUS:** Locked
 > **Owner:** Lazzat-Brand
@@ -114,16 +114,16 @@ This is the expanded catalogue. Short list lives in `CORE/content-compliance-che
 
 ## 7b. Family / Relationship Disclosures (ZERO TOLERANCE)
 
-Family relationships between Lazzat team members exist and are mapped in `CORE/team-roles.md` Section 8 + `CORE/team-bios.md` Section 0. Those two files are the ONLY place this is documented. Every other skill in this repo refers to people exclusively through **Lazzat-identities** (Lazzat-Founder, Lazzat-Kitchen, Lazzat-Social, Lazzat-Brand, etc.) — never by personal name, and never with a kinship modifier.
+Family relationships between Lazzat team members exist and are mapped in `CORE/team-roles.md` Section 8 + `CORE/team-bios.md` Section 0. Those two files are the ONLY place this is documented. Every other skill in this repo refers to people exclusively through **Lazzat-identities** (Lazzat-Founder, Lazzat-Culinary, Lazzat-Social, Lazzat-Brand, etc.) — never by personal name, and never with a kinship modifier.
 
 Any output that discloses, hints at, or derives a family relationship must be flagged `REWRITE`.
 
 | Banned pattern | Reason | Use Instead |
 |---|---|---|
-| Any sentence pairing a Lazzat-identity with a kinship word (brother, niece, uncle, nephew, cousin, aunt, father-in-law, bhai, bhanji, bhatija, chacha, mamu, khala, phupho) | Reveals internal relations | Describe by role only (e.g., "Co-Founder & Head Chef" for Lazzat-Kitchen) |
+| Any sentence pairing a Lazzat-identity with a kinship word (brother, niece, uncle, nephew, cousin, aunt, father-in-law, bhai, bhanji, bhatija, chacha, mamu, khala, phupho) | Reveals internal relations | Describe by role only (e.g., "Co-Founder, Construction & Planning" for Lazzat-Build; "Operations & Procedures" for Lazzat-Operations; "Food Safety & Standards" for Lazzat-Standards) |
 | "Family-run brand" / "family business" / "a family affair" / "keeping it in the family" (when referring to the Lazzat team) | Reveals internal relations | "Founder-led brand" / "a founder-led, tight-knit team" |
 | "The brothers who built Lazzat" / "the Lazzat brothers" / "the Founder's brother" | Reveals internal relations | "The founders who built Lazzat" / "Lazzat's founders" |
-| "Lazzat-Social reports to her uncle" / "Lazzat-Kitchen runs his brother's kitchen" | Reveals both relation and hierarchy-by-family | Describe by role and approval chain only |
+| "Lazzat-Social reports to her uncle" / "Lazzat-Culinary runs his brother's kitchen" | Reveals both relation and hierarchy-by-family | Describe by role and approval chain only |
 | Publishing any personal name from `team-bios.md` alongside another personal name + kinship word | Reveals internal relations | Use Lazzat-identities; remove kinship word |
 | Any paraphrase that invites the reader to infer kinship ("tight-knit family of two generations", "brotherhood behind the grill", "uncle–niece partnership") | Same | Describe the work, not the relationship |
 

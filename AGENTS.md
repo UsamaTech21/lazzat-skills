@@ -194,7 +194,7 @@ Stop. Ask the user. The repo is small; the cost of a bad edit to a brand-critica
 - **Brand owner:** Lazzat Grill & Shakes (all content inside `CORE/`).
 - **Brand founders:**
   - **Waqas Mukhtar** — Founder & CEO, Lazzat Grill & Shakes.
-  - **Mudassar Mukhtar** — Co-Founder & Head Chef, Lazzat Grill & Shakes.
+  - **Mudassar Mukhtar** — Co-Founder, Construction & Planning, Lazzat Grill & Shakes.
 - **Skill system author:** Usama ([@UsamaTech21](https://github.com/UsamaTech21)) — Brand & Marketing Lead, Lazzat Grill & Shakes.
 - **Scaffolding license:** MIT (see `LICENSE`). Brand content license: proprietary to Lazzat Grill & Shakes (see `LICENSE` BRAND-CONTENT CLAUSE).
 - **Architectural PRs or skill-schema changes** must be reviewed by the author before merge. Routine content edits follow the approval chain in `CORE/team-roles.md` (Lazzat-Brand → Lazzat-Founder, where Lazzat-Founder is Waqas Mukhtar).

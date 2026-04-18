@@ -32,10 +32,10 @@ You build and maintain Lazzat's digital infrastructure: the website, the caterin
 |---|---|---|
 | Website frontend | Next.js (or the current CMS — verify with Lazzat-SEO) | Lazzat-SEO |
 | Website hosting | Vercel / current host | Lazzat-SEO |
-| Domain | lazzat.ca | Lazzat-Tech (DNS) |
+| Domain | lazzat.ca | Lazzat-Web (DNS) |
 | Email / transactional | Postmark / SendGrid / current | Lazzat-SEO |
 | Catering form | Custom multi-step (already live) | Lazzat-SEO |
-| POS | Toast (pos.toasttab.com) | Lazzat-Tech (data) + Lazzat-Brand (strategy) |
+| POS | Toast (pos.toasttab.com) | Lazzat-Web (data) + Lazzat-Brand (strategy) |
 | Delivery platforms | Uber Eats, DoorDash, SkipTheDishes (registration pending — awaiting menu PDF + phone from Lazzat-Founder) | Lazzat-SEO |
 | Analytics | GA4 + Google Tag Manager | Lazzat-SEO |
 | Search | Google Search Console | Lazzat-SEO |
@@ -166,7 +166,7 @@ Run Lighthouse after every significant change; target Performance ≥ 85 on mobi
 - Online ordering link prominent on Home + Menu
 - Customer email capture flow (marketing list) — opt-in checkbox, CASL-compliant
 - GA4 tracking of clickout to Toast order page
-- Monthly reconciliation with Lazzat-Tech for order vs. website referral
+- Monthly reconciliation with Lazzat-Web for order vs. website referral
 - Never auto-push customers to marketing list without consent
 
 ### 7. Delivery Platform Integration
@@ -266,7 +266,7 @@ Stack recommendation: React Native + Toast POS API integration + Firebase (auth,
 | Unapproved claim published | Immediate remove → notify Lazzat-Brand → root-cause with `brand-compliance-checker` |
 | PII breach (catering form leak) | Freeze form; notify Lazzat-Founder immediately; contact legal; disclose per PIPEDA within 72h if required |
 | Payment issue on catering | Pause form; notify Lazzat-Founder + Sir Shahid; call affected customers directly |
-| POS/Toast outage | Coordinate with Lazzat-Tech; switch orders to in-store only; post update to website + social |
+| POS/Toast outage | Coordinate with Lazzat-Web; switch orders to in-store only; post update to website + social |
 
 ---
 

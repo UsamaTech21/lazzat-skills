@@ -88,7 +88,7 @@
 
 ## Tactic 4 — The Lava Stone Open House (Phase 1)
 
-**Concept:** One Saturday per month, Lazzat opens the kitchen for a 1-hour public tour. Chef Lazzat-Kitchen walks guests through the lava stone, explains the method, answers questions. Capacity 20 guests per tour.
+**Concept:** One Saturday per month, Lazzat opens the kitchen for a 1-hour public tour. Chef Lazzat-Culinary walks guests through the lava stone, explains the method, answers questions. Capacity 20 guests per tour.
 
 **What to do:**
 - Free RSVP via lazzat.ca/openhouse
@@ -109,7 +109,7 @@
 **What to do:**
 - Street Flame Unit on Lazzat property curbside (check City bylaw for commercial curbside display — may need permit)
 - Hand out free sauce samples (not full meals)
-- Selfie moment with Chef Lazzat-Kitchen and the grill
+- Selfie moment with Chef Lazzat-Culinary and the grill
 - Film for reel montage
 
 **What NOT to do:**
@@ -147,7 +147,7 @@
 
 ## Tactic 7 — WhatsApp Viral Campaign (Phase 1)
 
-**Concept:** A WhatsApp Business broadcast list that shares, weekly, a 30-second recipe tease from Chef Lazzat-Kitchen — customers screenshot + share + come in.
+**Concept:** A WhatsApp Business broadcast list that shares, weekly, a 30-second recipe tease from Chef Lazzat-Culinary — customers screenshot + share + come in.
 
 **What to do:**
 - Customers opt-in via QR code at the table
