@@ -46,20 +46,43 @@ jobs:
         run: |
           set -e
           BANNED="Tandoori|Tikka Masala|Butter Chicken|Biryani|Karahi|Haleem|Nihari"
-          if grep -rEin "$BANNED" --include='*.md' CORE/ ; then
-            echo "::error::Banned region-coded menu items referenced. See CORE/menu-v14.md."
-            exit 1
-          fi
-
-      - name: Check banned cultural framing
-        run: |
-          set -e
-          BANNED="\\bPakistani\\b|\\bDesi\\b|\\bPunjabi\\b|\\bIndian\\b|\\bSouth Asian\\b"
           MATCHES=$(grep -rEIn "$BANNED" --include='*.md' CORE/ || true)
-          # Allow mentions inside content-compliance-checklist.md and approved-claims.md where they are listed AS banned
-          FILTERED=$(echo "$MATCHES" | grep -vE 'content-compliance-checklist|approved-claims|brand-guidelines|team-bios|brand-story' || true)
+          # Allow-list: files that legitimately list these terms as BANNED / as
+          # descriptions of competitor menus / as training examples for the
+          # compliance checker. If the word appears anywhere else in public-facing
+          # skill copy, it is a violation.
+          ALLOW='menu-v14|approved-claims|content-compliance-checklist|brand-guidelines|brand-compliance-checker|tone-guide|competitor-analysis|do-not-do-list|always-do-list'
+          FILTERED=$(echo "$MATCHES" | grep -vE "$ALLOW" || true)
           if [ -n "$FILTERED" ]; then
-            echo "::error::Banned regional framing found:"
+            echo "::error::Banned region-coded menu items referenced outside compliance docs. See CORE/menu-v14.md."
             echo "$FILTERED"
             exit 1
           fi
+
+      - name: Check banned cultural framing in output templates
+        run: |
+          set -e
+          # Region-coded framing is a SEMANTIC rule: the same word can be a banned
+          # brand-voice term (in ad copy) OR a legitimate demographic reference
+          # (in brampton-demographics-intelligence, ad-targeting, community-profiles, etc.).
+          # Runtime enforcement lives in brand-compliance-checker. CI scope is narrow:
+          # only scan files that directly generate PUBLIC-facing copy templates, and
+          # skip lines that already flag the term as banned / never / avoid / etc.
+          BANNED="\\bPakistani\\b|\\bDesi\\b|\\bPunjabi\\b|\\bIndian\\b|\\bSouth Asian\\b"
+          TEMPLATE_FILES=$(find CORE/skills -type f \( \
+              -name 'caption-templates.md' \
+              -o -name 'post-templates.md' \
+              -o -name 'hook-templates.md' \
+            \) 2>/dev/null || true)
+          if [ -z "$TEMPLATE_FILES" ]; then
+            echo "No output-template files found — skipping."
+            exit 0
+          fi
+          MATCHES=$(echo "$TEMPLATE_FILES" | xargs -r grep -EIn "$BANNED" 2>/dev/null || true)
+          REALLY=$(echo "$MATCHES" | grep -viE 'banned|never|do not|avoid|forbidden|regional framing|not allowed|reject|❌' || true)
+          if [ -n "$REALLY" ]; then
+            echo "::error::Banned regional framing found in public-facing copy templates:"
+            echo "$REALLY"
+            exit 1
+          fi
+          echo "PASS — no regional framing in output templates."
