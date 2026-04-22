@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "seo-expert-evals",
   "skill": "seo-expert",
@@ -14,7 +14,7 @@
           "McVean",
           "Castlemore",
           "lava stone",
-          "halal-sourced",
+          "Maple Lodge Farms chicken",
           "No pork",
           "Uniting Through Flavours",
           "Compliance Block"
@@ -61,3 +61,4 @@
     }
   ]
 }
+

@@ -1,6 +1,6 @@
----
+﻿---
 name: brampton-demographics-intelligence
-description: "Community, cultural calendar, neighbourhood, and menu-to-community intelligence for Lazzat Brampton. Use for: who is our audience, target community for a campaign, Brampton demographics, which neighbourhood to target, campaign for Eid / Vaisakhi / Diwali / Nowruz, McVean Dr audience, Clarence St audience, menu items for a specific community, cultural calendar dates, sensitive festival handling. Triggers on: 'demographics', 'who is our audience', 'target community', 'which community', 'Eid content', 'Vaisakhi', 'Diwali', 'Navratri', 'Ramadan', 'McVean audience', 'Clarence audience', 'cultural calendar', 'neighbourhood', 'Brampton data'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, guerrilla-movement-marketer."
+description: "Community, cultural calendar, neighbourhood, and menu-to-community intelligence for Lazzat Brampton. Use for: who is our audience, target community for a campaign, Brampton demographics, which neighbourhood to target, campaign for Eid / Vaisakhi / Diwali / Nowruz, McVean Dr audience, Clarence St audience, menu items for a specific community, cultural calendar dates, sensitive festival handling. Triggers on: 'demographics', 'who is our audience', 'target community', 'which community', 'Eid content', 'Vaisakhi', 'Diwali', 'Navratri', 'Ramadan', 'McVean audience', 'Clarence audience', 'cultural calendar', 'neighbourhood', 'Brampton data'. Related skills: core-brand, voice-and-claims (required), senior-strategist, social-media-handler, digital-marketer, guerrilla-movement-marketer."
 license: MIT
 metadata:
   version: 1.0.0
@@ -167,3 +167,4 @@ When you respond, always include:
 - `digital-marketer` (uses your area-map for geo-targeting)
 - `guerrilla-movement-marketer` (uses your festival calendar for activations)
 - `brand-compliance-checker` (runs after you deliver)
+

@@ -19,8 +19,8 @@
     "github": "UsamaTech21",
     "url": "https://github.com/UsamaTech21"
   },
-  "description": "A production-grade Claude skill suite that turns any session into Lazzat's in-house marketing agency: brand-compliant, menu-accurate, approver-aware, and auto-compliance-checked.",
-  "version": "1.0.0",
+  "description": "A production-grade Claude skill suite that turns any session into Lazzat's in-house marketing agency: brand-compliant, menu-accurate, approver-aware, voice-and-claims locked, and auto-compliance-checked.",
+  "version": "1.1.0",
   "license": "MIT",
   "homepage": "https://github.com/UsamaTech21/lazzat-skills",
   "repository": "https://github.com/UsamaTech21/lazzat-skills",
@@ -39,9 +39,15 @@
       "skills": ["./CORE"]
     },
     {
+      "name": "lazzat-voice-and-claims",
+      "displayName": "Voice & Claims (the master authority)",
+      "description": "Lazzat's single source of truth for every word printed, spoken, or written on behalf of the brand. Approved phrasings, banned terminology (AI words, competitor names, halal-on-signage, smoothie, hormone-free), Canadian ad-law compliance, allergen handling, Q&A scripts, and the Seven Tests every piece of copy must pass. Required load before any other output skill runs.",
+      "skills": ["./CORE/skills/voice-and-claims"]
+    },
+    {
       "name": "lazzat-brand-compliance-checker",
       "displayName": "Brand Compliance Checker",
-      "description": "Auto-runs on every Lazzat output. Flags banned words, unapproved claims, off-menu items, off-palette colors, and routes to the correct approver.",
+      "description": "Auto-runs on every Lazzat output. Applies voice-and-claims, menu-v14, and approved-claims. Flags banned words (AI shibboleths, competitor names, halal-on-signage), unapproved claims, off-menu items, off-palette colors, and routes to the correct approver.",
       "skills": ["./CORE/skills/brand-compliance-checker"]
     },
     {

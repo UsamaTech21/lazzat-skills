@@ -1,4 +1,4 @@
-# SEO Keyword Targets — Full Universe
+﻿# SEO Keyword Targets — Full Universe
 
 > **Priority:** P0 = must rank top 3 in 6 months · P1 = must rank top 10 in 6 months · P2 = long-tail opportunity · P3 = defensive / brand
 > **Cadence:** Re-review monthly with Lazzat-SEO + Lazzat-Brand. Move keywords between priorities based on Search Console data.
@@ -83,7 +83,7 @@
 - "desi restaurant brampton" (banned)
 - "indian restaurant brampton" (not our positioning)
 - "bbq brampton" / "tandoor brampton" (language banned from Lazzat assets)
-- "halal certified brampton" (we are halal-sourced, not certified — see approved-claims.md)
+- "halal certified brampton" (we are Maple Lodge Farms chicken, not certified — see approved-claims.md)
 
 ---
 
@@ -140,3 +140,4 @@ For each: pull top 100 organic keywords monthly; identify which ones Lazzat has 
 | Organic website sessions | GA4 | Weekly | ≥ 8,000/mo |
 | Blog-driven sessions | GA4 | Monthly | ≥ 2,500/mo |
 | Reviews (Google) | GMB | Weekly | ≥ 50 per profile @ 4.6★+ |
+

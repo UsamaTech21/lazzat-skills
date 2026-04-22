@@ -58,7 +58,7 @@
 |---|---|---|---|
 | Jul 1 | **Canada Day** | 🎯 **LEAD** | "One Grill. Every Table." Canada Day campaign (see 6-month-roadmap) + Gage Park street-team |
 | Jul 6 | Caribbean Emancipation Day approach | 🔗 SUPPORT | Community feature |
-| Jul mid | Summer patio push (no specific date) | 🔗 SUPPORT | Shake & smoothie hero |
+| Jul mid | Summer patio push (no specific date) | 🔗 SUPPORT | Shake & Fruit Blend hero |
 
 ---
 

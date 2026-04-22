@@ -1,4 +1,4 @@
-# Brampton Community Profiles
+﻿# Brampton Community Profiles
 
 > **Source:** `Brampton_Canada_Demographics_2026.txt` + Lazzat Marketing Strategy doc
 > **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17
@@ -27,8 +27,8 @@ Every profile is structured the same way:
   - Paneer Cube (vegetarian hero)
   - Veggie Seekh Kabab
   - Any bowl with Cilantro Lime Rice + Greek Salad
-  - Mango Madness Smoothie
-  - Pistachio Delight Milkshake
+  - Mango Madness Shake
+  - Pistachio Delight Shake
   - Big Family Platters (for gatherings)
 - **Neighbourhood concentration:** Castlemore, Bramalea, Springdale, Heart Lake, parts of Downtown
 - **Sensitivity notes:**
@@ -58,7 +58,7 @@ Every profile is structured the same way:
   - Tofu Cube (vegan hero)
   - Falafel Wrap
   - All 6 Salads (especially Mediterranean + Greek)
-  - Mango Magic / Green Glow smoothies
+  - Mango Magic / Green Glow shakes
   - Rice Pudding dessert
 - **Neighbourhood concentration:** Castlemore, Springdale, parts of Bramalea
 - **Sensitivity notes:**
@@ -73,7 +73,7 @@ Every profile is structured the same way:
 - **Size:** ~20,400
 - **Household:** Multi-generational; Friday + weekend family dining
 - **Food habits:**
-  - Halal non-negotiable (Lazzat is halal-sourced — perfect match)
+  - Halal non-negotiable (Lazzat is Maple Lodge Farms chicken — perfect match)
   - Strong grill + kabab cultural familiarity
   - Ramadan changes consumption rhythm entirely (late-evening Iftar spike)
 - **Festivals:**
@@ -91,7 +91,7 @@ Every profile is structured the same way:
 - **Sensitivity notes:**
   - **Never say** "Pakistani" or "Desi" in marketing
   - **Never** use JazakAllah / Inshallah / Mashallah in captions
-  - **Never** claim "halal-certified" — "halal-sourced" only
+  - **Never** claim "halal-certified" — "Maple Lodge Farms chicken" only
   - Ramadan = deep opportunity, but quiet daytime + energetic evening cadence
   - Ashura: pause celebratory tones for a few days
 
@@ -112,7 +112,7 @@ Every profile is structured the same way:
   - Paneer Cube
   - Tofu Cube
   - All salads
-  - Smoothies + Mocktails
+  - Shakes + Fruit Blends
 - **Neighbourhood concentration:** Parts of Bramalea, Springdale
 - **Sensitivity notes:** Be mindful of Pongal and Tamil New Year — not the same as North-Indian festivals.
 
@@ -134,7 +134,7 @@ Every profile is structured the same way:
   - Chicken Cube + Peri Peri / Harissa
   - Lamb Cube + Chipotle
   - Chicken Seekh Kabab Wrap
-  - Mango Madness Smoothie
+  - Mango Madness Shake
   - Sweet Chili + Honey Mustard sauce combos
 - **Neighbourhood concentration:** Bramalea, Heart Lake, parts of Downtown
 - **Sensitivity notes:**
@@ -222,7 +222,7 @@ Every profile is structured the same way:
   - Tofu Cube
   - Asian Crunch Salad
   - Prawn Cube
-  - Green Glow Smoothie
+  - Green Glow Shake
 
 ---
 
@@ -233,3 +233,4 @@ Every profile is structured the same way:
 3. **Sensitivity beats speed.** If a festival is religious or sensitive, delay 24–48h and check with Lazzat-Brand.
 4. **Consent for photography always.** Community features use real customers (with written DM consent) or staged with the team (diverse by default).
 5. **Avoid regional imagery shortcuts.** Marigolds, turbans, hijabs, diyas, banana leaves — none of these are Lazzat's visual language. Warm cream, charcoal, lava stone, global plates are.
+

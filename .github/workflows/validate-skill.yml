@@ -51,7 +51,7 @@ jobs:
           # descriptions of competitor menus / as training examples for the
           # compliance checker. If the word appears anywhere else in public-facing
           # skill copy, it is a violation.
-          ALLOW='menu-v14|approved-claims|content-compliance-checklist|brand-guidelines|brand-compliance-checker|tone-guide|competitor-analysis|do-not-do-list|always-do-list'
+          ALLOW='menu-v14|approved-claims|content-compliance-checklist|brand-guidelines|brand-story|brand-compliance-checker|voice-and-claims|qa-scripts|canadian-ad-law|allergen-handling|approved-phrasings|tone-guide|competitor-analysis|do-not-do-list|always-do-list|CORE/SKILL.md'
           FILTERED=$(echo "$MATCHES" | grep -vE "$ALLOW" || true)
           if [ -n "$FILTERED" ]; then
             echo "::error::Banned region-coded menu items referenced outside compliance docs. See CORE/menu-v14.md."

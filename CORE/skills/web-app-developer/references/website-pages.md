@@ -1,4 +1,4 @@
-# Website Page Inventory — lazzat.ca
+﻿# Website Page Inventory — lazzat.ca
 
 > **Rule:** Every page is brand-compliant, SEO-optimized, fast, accessible. No exceptions.
 
@@ -42,7 +42,7 @@ First impression. Orient visitors in 5 seconds to: what Lazzat is, where it is, 
 
 ### SEO
 - Title: `Halal Grill Brampton | Lazzat Grill & Shakes` (≤ 60 chars)
-- Meta: "Volcanic stone grill in Brampton. Halal-sourced, 200g honest portions, 13 sauces, open kitchen. McVean Dr + Clarence St. See the menu."
+- Meta: "Volcanic stone grill in Brampton. Maple Lodge Farms chicken, 200g honest portions, 17 sauces, open kitchen. McVean Dr + Clarence St. See the menu."
 - Schema: Organization + WebSite + LocalBusiness (both) + FAQPage
 
 ### Performance targets
@@ -73,7 +73,7 @@ Show the real menu. Connect to online ordering. Connect to delivery apps.
 
 ### SEO
 - Title: `Lazzat Menu — Platters, Bowls, Wraps, Shakes | Brampton`
-- Meta: "Lazzat's full menu: lava stone grilled platters, bowls, wraps, kids meals, shakes and sides. 200g honest portions, 13 sauces. See it all."
+- Meta: "Lazzat's full menu: lava stone grilled platters, bowls, wraps, kids meals, shakes and sides. 200g honest portions, 17 sauces. See it all."
 - Schema: Menu + MenuSection + MenuItem (auto-generated from JSON)
 
 ### Filters (future)
@@ -106,7 +106,7 @@ Show the real menu. Connect to online ordering. Connect to delivery apps.
 
 ### SEO per location
 - Title: `Lazzat McVean Dr — Lava Stone Grill in Castlemore, Brampton`
-- Meta: "Lava stone grill in Castlemore. Halal-sourced. Open kitchen. McVean Dr, Brampton. See hours, order online, get directions."
+- Meta: "Lava stone grill in Castlemore. Maple Lodge Farms chicken. Open kitchen. McVean Dr, Brampton. See hours, order online, get directions."
 - Schema: LocalBusiness + Restaurant + GeoCoordinates + OpeningHours + Menu + FAQPage
 
 ---
@@ -161,7 +161,7 @@ Long-form brand story. Anchor for AI SEO + press research.
 
 ### SEO
 - Title: `The Lazzat Story | Lava Stone Grill in Brampton`
-- Meta: "How Lazzat Grill & Shakes came to Brampton. A lava stone grill, honestly-weighed portions, thirteen sauces, and a grill for every table."
+- Meta: "How Lazzat Grill & Shakes came to Brampton. A lava stone grill, honestly-weighed portions, seventeen sauces, and a grill for every table."
 - Schema: AboutPage + Organization + Person (Lazzat-Founder as founder)
 
 ---
@@ -284,3 +284,4 @@ All legal pages drafted with legal counsel (Lazzat-Founder engages).
 | Monthly | Lighthouse audit; schema revalidation; sitemap resubmit; GMB sync; citation NAP audit |
 | Quarterly | Full page-copy review; image refresh; menu v-bump check; accessibility audit |
 | Annually | Legal pages review; design refresh (if needed); hosting + plan review |
+

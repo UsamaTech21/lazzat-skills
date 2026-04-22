@@ -1,4 +1,4 @@
-# Schema Templates — Ready-to-Paste JSON-LD
+﻿# Schema Templates — Ready-to-Paste JSON-LD
 
 > **Rule:** Every page deploys with schema validated via Rich Results Test. No false claims in schema.
 
@@ -171,11 +171,11 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
 
 **Rules:**
 - Dietary restriction schema values (all verified):
-  - `https://schema.org/HalalDiet` — ALL items (halal-sourced)
+  - `https://schema.org/HalalDiet` — ALL items (Maple Lodge Farms chicken)
   - `https://schema.org/VegetarianDiet` — for paneer / veg items
   - `https://schema.org/VeganDiet` — only where confirmed
   - `https://schema.org/GlutenFreeDiet` — only for items explicitly GF-aware
-- Never include `halalCertified` or similar (we are halal-sourced, not certified)
+- Never include `halalCertified` or similar (we are Maple Lodge Farms chicken, not certified)
 
 ---
 
@@ -191,7 +191,7 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
       "name": "Is Lazzat halal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. All meats at Lazzat are halal-sourced from trusted Ontario suppliers, including Maple Lodge Farms chicken. We do not serve pork, beef, or alcohol at either location."
+        "text": "Yes. All meats at Lazzat are Maple Lodge Farms chicken from trusted Ontario suppliers, including Maple Lodge Farms chicken. We do not serve pork, beef, or alcohol at either location."
       }
     },
     {
@@ -377,9 +377,10 @@ Fix any errors / warnings before deploying to production.
 
 ## Never Do
 
-- Include `halalCertified: true` — we are halal-sourced, not certified
+- Include `halalCertified: true` — we are Maple Lodge Farms chicken, not certified
 - Include stat claims (e.g., "95% satisfaction") in schema unless backed by real survey data
 - Include events that are speculative
 - Include prices Lazzat-Founder hasn't approved for public disclosure
 - Use competitor brand names in schema
 - Leave [TBD] placeholders in production schema (must resolve before deploy)
+

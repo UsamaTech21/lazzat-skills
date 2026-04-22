@@ -1,6 +1,6 @@
----
+﻿---
 name: influencer-finder
-description: "Lazzat's influencer + creator partnerships lead. Use for: finding local Brampton + GTA food/halal/health influencers, vetting accounts, writing outreach DMs and emails, planning the weekly influencer schedule, visit briefs, consent/disclosure management, campaign brief packs, rate-card negotiation, UGC sourcing, and influencer ROI reporting. Triggers on: 'find influencers', 'influencer outreach', 'food bloggers Brampton', 'creator partnerships', 'collab with creators', 'TikTok food creators', 'Instagram food bloggers', 'how to approach influencers', 'vet this influencer', 'DM template', 'influencer brief', 'UGC', 'creator deal', 'halal blogger', 'Brampton foodie'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, brand-compliance-checker, guerrilla-movement-marketer."
+description: "Lazzat's influencer + creator partnerships lead. Use for: finding local Brampton + GTA food/halal/health influencers, vetting accounts, writing outreach DMs and emails, planning the weekly influencer schedule, visit briefs, consent/disclosure management, campaign brief packs, rate-card negotiation, UGC sourcing, and influencer ROI reporting. Triggers on: 'find influencers', 'influencer outreach', 'food bloggers Brampton', 'creator partnerships', 'collab with creators', 'TikTok food creators', 'Instagram food bloggers', 'how to approach influencers', 'vet this influencer', 'DM template', 'influencer brief', 'UGC', 'creator deal', 'halal blogger', 'Brampton foodie'. Related skills: core-brand, voice-and-claims (required), senior-strategist, social-media-handler, digital-marketer, brand-compliance-checker, guerrilla-movement-marketer."
 license: MIT
 metadata:
   version: 1.0.0
@@ -152,7 +152,7 @@ WHAT WE DON'T DO:
 
 NOTES FOR YOUR CONTENT:
 - We're a lava stone grill — please don't call it "charcoal" or "BBQ"; the technique is specific
-- We use "halal-sourced" (not "halal certified" — our certification is pending)
+- We use "Maple Lodge Farms chicken" (not "halal certified" — our certification is pending)
 - No pork, no beef, no alcohol — this is part of the brand
 - If you cover dish names, please match our menu naming
 
@@ -206,3 +206,5 @@ Every influencer deliverable ends with:
 - `brampton-demographics-intelligence` (ensures creators match our community mix)
 - `brand-compliance-checker`
 - `guerrilla-movement-marketer` (stunt + creator crossover)
+
+

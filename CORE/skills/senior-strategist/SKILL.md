@@ -1,6 +1,6 @@
----
+﻿---
 name: senior-strategist
-description: "High-level Lazzat marketing strategy: campaign planning, 6-month roadmaps, monthly focus, positioning, competitive response, brand-film release strategy, opening-window playbook, catering push, GMB-review velocity, and major campaign briefs for Lazzat-Founder review. Triggers on: 'plan a campaign', 'marketing strategy', 'what should we focus on this month', '6 month plan', 'monthly focus', 'competitor analysis', 'campaign brief', 'positioning', 'growth strategy', 'next steps', '7-post plan', 'seasonal strategy', 'launch plan'. Related skills: core-brand, brand-compliance-checker, brampton-demographics-intelligence, social-media-handler, digital-marketer."
+description: "High-level Lazzat marketing strategy: campaign planning, 6-month roadmaps, monthly focus, positioning, competitive response, brand-film release strategy, opening-window playbook, catering push, GMB-review velocity, and major campaign briefs for Lazzat-Founder review. Triggers on: 'plan a campaign', 'marketing strategy', 'what should we focus on this month', '6 month plan', 'monthly focus', 'competitor analysis', 'campaign brief', 'positioning', 'growth strategy', 'next steps', '7-post plan', 'seasonal strategy', 'launch plan'. Related skills: core-brand, voice-and-claims (required), brand-compliance-checker, brampton-demographics-intelligence, social-media-handler, digital-marketer."
 license: MIT
 metadata:
   version: 1.0.0
@@ -43,7 +43,7 @@ Every new brief must map to at least one of these five. If it doesn't, question 
 | Osmow's | Brand recognition, delivery coverage | Commodity menu, no story, overpriced | Lava stone story + 200g honesty + dietary inclusivity |
 | Paramount | Franchise polish | No Brampton-specific community story | Brampton roots + global angle |
 | Local halal grills | Price + familiarity | Inconsistent quality, weak photography, no digital | Production value + brand consistency |
-| Chipotle (adj. category) | Build-your-bowl playbook | Not halal, no grill story | Halal-sourced + lava stone + sauces as signature |
+| Chipotle (adj. category) | Build-your-bowl playbook | Not halal, no grill story | Maple Lodge Farms chicken + lava stone + sauces as signature |
 
 Full analysis → `references/competitor-analysis.md`.
 
@@ -199,3 +199,5 @@ Strategies Lazzat does NOT execute:
 - `content-writer` (executes the long-form you commission)
 - `digital-marketer` (executes the paid part)
 - `influencer-finder` (when you add creators to a plan)
+
+

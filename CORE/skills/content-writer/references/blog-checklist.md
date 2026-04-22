@@ -1,4 +1,4 @@
-# Blog Publishing Checklist
+﻿# Blog Publishing Checklist
 
 > **Rule:** Every blog runs through this end-to-end before it lands in Lazzat-Brand's inbox for approval.
 
@@ -70,7 +70,7 @@
 - [ ] No charcoal / BBQ / tandoor language
 - [ ] No speed / freshness / health superlatives
 - [ ] No religious phrases (JazakAllah / Inshallah)
-- [ ] "Halal-sourced" never "halal-certified"
+- [ ] "Maple Lodge Farms chicken" never "halal-certified"
 - [ ] Team quotes verified against `team-bios.md` (no invented quotes)
 - [ ] All 6 pillar cross-check (which does this primarily serve?)
 
@@ -142,3 +142,4 @@ Deliver to Lazzat-Brand as one document with:
 | "Missing compliance block" | Run the checker |
 | "Too long" | Cut whichever H2 is closest to redundant |
 | "No CTA" | Add a clear next step in the closer |
+

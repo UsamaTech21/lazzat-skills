@@ -1,4 +1,4 @@
-# Delivery Platform Setup — Uber Eats, DoorDash, SkipTheDishes
+﻿# Delivery Platform Setup — Uber Eats, DoorDash, SkipTheDishes
 
 > **Status:** Registration pending for both locations. Awaiting: final menu PDF (approved by Lazzat-Founder), business phone, tax IDs from Sir Shahid.
 
@@ -172,7 +172,7 @@ Delivery orders need packaging distinct from dine-in:
 ## Compliance
 
 - Menu items match `menu-v14.md` exactly
-- No "halal certified" — use "halal-sourced"
+- No "halal certified" — use "Maple Lodge Farms chicken"
 - No claims not on `approved-claims.md` GREEN list
 - Photos all brand-approved (no stock)
 - No regional framing in descriptions
@@ -209,3 +209,4 @@ Pause delivery platforms if:
 - Power / internet outage
 
 Always restore within 60 min or communicate expected restoration time on social.
+

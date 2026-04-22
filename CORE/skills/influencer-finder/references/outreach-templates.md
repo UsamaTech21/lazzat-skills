@@ -1,4 +1,4 @@
-# Outreach Templates — DMs, Emails, Visit Briefs, Follow-Ups
+﻿# Outreach Templates — DMs, Emails, Visit Briefs, Follow-Ups
 
 > **Rule:** Every message sounds like Lazzat-Social, not like a corporate account. Real. Warm. Specific.
 
@@ -11,7 +11,7 @@ Hey [Name] — Lazzat-Social from Lazzat Grill & Shakes.
 
 Saw your [specific reference — "post about the Bramalea food spots last week" / "Paneer Cube review" / "Mom-life Brampton series"]. Really liked how you [specific observation — "actually described the sauce" / "showed your kid reacting" / "kept it honest about portion sizes"].
 
-We just opened in Brampton — McVean Dr (Castlemore) and Clarence St (Downtown). Lava stone grill, halal-sourced, 200g honest portions. We'd love to host you — free tasting, bring a plus-one, see the lava stone up close.
+We just opened in Brampton — McVean Dr (Castlemore) and Clarence St (Downtown). Lava stone grill, Maple Lodge Farms chicken, 200g honest portions. We'd love to host you — free tasting, bring a plus-one, see the lava stone up close.
 
 No script, no must-say — honest take, whatever it is. If you post, tag us; if you don't, still good.
 
@@ -48,7 +48,7 @@ Hi [Name] — I'm Lazzat-Social at Lazzat Grill & Shakes in Brampton.
 
 Not reaching out for a food-review shout-out. Reaching out because your focus on [specific angle — "macros" / "dietary-inclusive family meals" / "sustainable eating in Peel"] lines up with how we actually built the menu.
 
-We do 200g honestly-weighed protein, 13 sauces, a bowl-builder that handles vegetarian + vegan properly, and a lava stone method that keeps oil low. We thought you might want to see what that looks like in the real kitchen.
+We do 200g honestly-weighed protein, 17 sauces, a bowl-builder that handles vegetarian + vegan properly, and a lava stone method that keeps oil low. We thought you might want to see what that looks like in the real kitchen.
 
 Want to come in for a tasting? No expectation to post. If it fits your audience, it fits. If not, still good.
 
@@ -175,7 +175,7 @@ WHAT WE DON'T DO:
 
 WHEN IT COMES TO NAMING / TERMS:
 - It's a lava stone grill (not charcoal, not BBQ, not tandoor — the technique is distinct)
-- We say "halal-sourced" (not "halal certified" — our certification is still pending)
+- We say "Maple Lodge Farms chicken" (not "halal certified" — our certification is still pending)
 - Brand tagline is "Uniting Through Flavours" — no need to say it, just context
 
 TIMING:
@@ -222,7 +222,7 @@ We've loved having you in the Lazzat orbit. Now that we're past our first quarte
 What we'd love:
 - 1 Reel + 3 Stories (or TikTok equivalent)
 - 30 days usage rights for organic + boosted across our Meta + TikTok ads
-- Brand must-haves: lava stone, halal-sourced, 200g honest portion, no pork/beef/alcohol
+- Brand must-haves: lava stone, Maple Lodge Farms chicken, 200g honest portion, no pork/beef/alcohol
 - 80/20 creative control (yours / ours)
 
 Deliverable timeline: [date range]
@@ -264,3 +264,4 @@ Hi [Name] — quick note on the [reel / post]. One small thing: [the issue, stat
 ```
 
 Never escalate publicly. Never block without Lazzat-Brand + Lazzat-Founder sign-off.
+

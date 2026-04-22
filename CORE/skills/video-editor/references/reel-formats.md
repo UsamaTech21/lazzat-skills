@@ -1,4 +1,4 @@
-# The 10 Repeatable Reel Formats
+﻿# The 10 Repeatable Reel Formats
 
 > **Rule:** Don't invent new formats every week. Use the 10 below. Only propose a new format with Lazzat-Social + Lazzat-Brand sign-off.
 
@@ -36,7 +36,7 @@ SCENE 1 (2–8s): Base added (rice / salad / wrap) — quick cuts.
 SCENE 2 (8–16s): Protein selected — chef tongs it from lava stone.
              TEXT: "Protein. 200 grams. Every time."
 SCENE 3 (16–24s): Sauce drizzle — multiple sauces poured.
-             TEXT: "One of 13 sauces."
+             TEXT: "One of 17 sauces."
 CTA (24–30s): Finished bowl on cream linen.
              TEXT: "Lazzat Brampton. McVean. Clarence."
 ```
@@ -120,7 +120,7 @@ SCENE 1 (3–15s): Drive into storefront location shot.
 SCENE 2 (15–30s): Inside footage — guests from multiple cultures at one table (consent-given).
              TEXT: "Every table welcome."
 SCENE 3 (30–45s): Dish being placed on the table, hands reaching in.
-             TEXT: "Lava stone grilled. Halal-sourced."
+             TEXT: "Lava stone grilled. Maple Lodge Farms chicken."
 CTA (45–60s): Logo + location info overlay.
              TEXT: "McVean Dr · Clarence St · Brampton"
 ```
@@ -246,3 +246,4 @@ Test plan: [3 reels as pilot]
 Proposer: [Lazzat-Video / Lazzat-Social / other]
 Approver: Lazzat-Brand (required) + Lazzat-Founder (if high brand-risk)
 ```
+

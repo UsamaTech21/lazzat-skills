@@ -1,8 +1,9 @@
 # Approved Claims — What Lazzat May Say
 
-> **STATUS:** Locked — April 2026
+> **STATUS:** Locked — April 2026 (Wall Posts v4 + Voice & Claims Reference 2026-04-21)
 > **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder
 > **Rule:** Any claim not in the GREEN list requires Lazzat-Founder written approval BEFORE it appears in copy.
+> **Authoritative voice source:** `CORE/skills/voice-and-claims/SKILL.md` — read that file for the full defense of every claim below.
 > **Process:** If a team member wants to add a new claim → write it here → tag Lazzat-Brand → Lazzat-Brand tags Lazzat-Founder → approval before publishing.
 
 ---
@@ -11,34 +12,105 @@
 
 These are confirmed facts. Use freely in any brand-compliant format.
 
-### Grill & Cooking Method
-- "Lava stone grill" / "cooked on volcanic lava stone"
-- "No charcoal. No oil-heavy cooking." *(but say "low-oil", not "zero oil")*
-- "Real flame. Real stone. Real craft."
-- "Eco-friendlier grill method than charcoal — no carbon ash"
-- "Retains moisture because food sears on radiant stone heat"
+### Taglines (locked)
+- "Grill & Shakes — Uniting Through Flavours" *(primary)*
+- "Grill & Shakes — Flavours From Around The World" *(secondary)*
 
 ### Brand Positioning
-- "Every culture welcome"
-- "No pork. No beef. No alcohol." *(as a dietary positioning statement)*
-- "Global fast-casual grill"
-- "Premium fast-casual"
-- "Crafted, not assembled"
-- "Uniting Through Flavours" *(primary tagline)*
-- "Taste the World. Crafted Fresh. Served Fast." *(secondary tagline)*
+- "Globally-neutral fast-casual grill-and-shakes brand"
+- "A table where everyone belongs"
+- "One menu anyone can eat from, without checking twice"
+- "We wanted to remove the differences — not the similarities"
+- "Uniting Through Flavours"
+- **Founding shorthand:** "Eleven founders. Five countries. Four faiths."
+- **Operator credential:** "20+ restaurants over 11+ years of operating experience"
+
+### Grill & Cooking Method
+- "Direct flame" / "live fire" / "lava stone grill" *(all three approved; prefer direct flame for voice-forward copy)*
+- "Real flame. Real stone. Real craft."
+- "Paneer never meets chicken on our grill" — physical protein separation
+- "Every protein gets its own lane" — conveyor grill belt, staff-trained separation
+- "Vegetarian stays vegetarian — we physically keep it that way"
+- "No charcoal. No oil-heavy cooking." *(but say "low-oil", not "zero oil")*
+- "Direct flame. Nothing in between."
+
+### The 200 Gram Promise (Locked — voice-and-claims Section 2)
+- "200 grams of every protein, weighed before it hits the grill, every order"
+- "200g of chicken, lamb, paneer, or soya. We weigh it. You see it."
+- "Minimum 200 grams. Every protein. Every plate."
+- "The scale doesn't lie."
+- "We put a scale on the prep line because we'd rather be slow than vague."
 
 ### Sourcing (APPROVED AS WRITTEN — DO NOT EMBELLISH)
-- "Chicken sourced from Maple Lodge Farms, Brampton" ✅
-- "Halal-sourced meat" ✅ *(not "halal-certified" until paperwork confirmed)*
+- "Maple Lodge Farms chicken — Canada's largest poultry processor, headquartered in Brampton" ✅ *(this is the named-supplier credential; use it instead of any "halal-sourced" framing in customer copy)*
 - "Dairy from Ontario farms" ✅
 - "Produce from Ontario Food Terminal" ✅
+- Halal framing — **NOT customer-facing.** Confirmed honestly only when asked directly; see voice-and-claims Section 8 for the single approved verbal line.
 
-### Menu & Portion Claims
-- "200 grams of protein per main bowl" *(honestly weighed — this is a brand promise)*
+### Menu — Shape & Numbers (Locked)
+- "17 sauces from six continents"
+- "6 chef-built salads"
+- "4 grilled protein skewers: Chicken Tikka, Lamb Seekh, Paneer, Soya"
+- "4 menu formats: Cube, Kabab, Wrap, Platter"
+- "200 grams of protein per main — minimum, weighed before the grill"
 - "Build your bowl — base, protein, salad, sauces"
-- "13 signature sauces"
-- "6 salads, 4 bases, 4 menu formats (Cube, Kabab, Wrap, Platter)"
+- "Fresh-baked naan and pita from the Rotoquip + iCombi Pro line"
+- "20-second bowl assembly"
 - "Vegetarian and vegan options on every format"
+
+> **Note on skewer names:** "Chicken Tikka" and "Lamb Seekh" are approved **protein-skewer item names**. They do not count as cultural flavour tags. The ban on dish names like "Tandoori Chicken / Tikka Masala / Biryani / Karahi / Haleem / Nihari / Butter Chicken" is unchanged.
+
+### Drinks (Locked — voice-and-claims Section 4)
+- "Real fruit. Real milk. Real cream. Real cane sugar. Ice. Five ingredients."
+- "Made with real fruit" / "Not syrup. Not flavouring. Real fruit."
+- "No artificial flavours or colours"
+- "Blended fresh when you order — never pre-made, never from concentrate"
+- "Real whole milk + real cream"
+- "Sweetened with real cane sugar"
+- "We don't serve soda. We don't serve bubble tea. We serve real fruit drinks."
+- "What we can't serve to our own family, we won't serve to yours."
+- "What we wouldn't drink ourselves, we won't pour for you."
+
+**Locked price points (keep evidence on file for the "lowest" claim):**
+- Real-fruit hero shakes — **$6.99** (lowest real-fruit shake price in GTA / Brampton market)
+- **$7.99** signature (All Berry)
+- **$7.49** fruit blend
+- **$3.99** kids (8 oz)
+
+**Pricing phrasings:**
+- "Honest pricing."
+- "The lowest real-fruit shake in Brampton — $6.99."
+- "Real ingredients at an honest price."
+- "No syrups. No tricks. No hidden upcharges."
+
+### Salt Tile Wall (Locked — voice-and-claims Section 3)
+- "Formed approximately 600 million years ago from the evaporation of an ancient sea" *(Khan et al., 2026 — the only verified age figure)*
+- "Quarried from the Khewra Salt Mine — the world's second-largest salt mine by reserve"
+- "Warm amber glow when backlit"
+- "Naturally occurring minerals" *(the safer substitute wording)*
+- "Lasts 15–20+ years in a climate-controlled space"
+- "Semi-translucent" / "No two tiles are identical — the iron oxide sees to that"
+
+### Open Kitchen & In-House Recipes (Locked)
+- "Every sauce on our line was developed in this kitchen"
+- "No commercial additives. Real home-style cooking."
+- "Our kitchen has no walls because we have nothing to hide"
+- "If you can't watch us cook it, why would you eat it?"
+- "Every spice blend, every marinade, every dressing — made here"
+- "Marinated for hours. Grilled in minutes."
+
+### The Differences We Removed (as facts, not virtues)
+- "No beef. No pork. No bacon. No alcohol. No soft drinks."
+- "A table where everyone belongs"
+- "We took out everything that divides a table"
+- "One menu. Every table. No negotiation."
+
+### Allergens / Dietary Lanes (voice-and-claims Section 11)
+- "Dairy-free options available"
+- "Nut-free kitchen for [specific item]"
+- "Gluten-friendly bowls" *(when we can't guarantee a dedicated gluten-free zone)*
+- "Contains: Dairy, Gluten" *(mandatory on delivery platforms)*
+- "Four free lanes — dairy-free, gluten-free, nut-free, egg-free — cover about 90% of Canadian dietary restrictions"
 
 ### Operations
 - "Open kitchen — nothing hidden"
@@ -51,29 +123,60 @@ These are confirmed facts. Use freely in any brand-compliant format.
 - "Opening Saturday, April 26, 2026" *(McVean location launch)*
 - "Built by Brampton. For every Brampton."
 
-### Team
-- "Founded by Lazzat-Founder"
-- "Recipes validated by Lazzat-Culinary (culinary advisor)"
-- "Open-kitchen craft led by Chef Lazzat-Culinary & Chef Lazzat-Standards"
+### Team (role-based — see CORE/team-bios.md + team-roles.md for the canonical list)
+- "Built by a team with 20+ restaurants of operating experience"
+- "Recipes signed off by a culinary professor with 35 years in kitchens" *(Professor Parveen — college names only after written consent is on file)*
+- "Team spanning five countries and four faiths"
 
 ---
 
 ## 🟡 YELLOW LIST — Conditional / Use Only in Specific Formats
 
 ### Only in brand film / long-form / in-store (NOT in ads):
-- "Family story" / founder journey narrative — OK in film, NOT in ads
-- "Himalayan salt wall" — mention only for in-store experience posts, not in ad copy
+- Founder / family story narrative — OK in film, NOT in ads
+- Salt wall deep-dive (600M years, Khewra, iron oxide) — in-store posts and long-form only; *never* paired with health language
 - "Professor-validated recipes" — OK in long-form features, not in quick ad units
-- "Brampton's craft grill" — only with enough brand equity; do not use in first-3-months ads
+- College affiliations (George Brown, Sheridan) — only after written consent is on file
 
 ### Only with explicit proof attached:
 - Any specific macro / calorie claim → kitchen must provide the exact breakdown first
-- Any allergen statement → only after official kitchen testing
+- Any allergen statement beyond the four free lanes → only after official kitchen testing
+- "Lowest real-fruit shake in Brampton — $6.99" → requires current competitor price evidence on file (Competition Act substantiation)
 - Any "award-winning" language → only after actual award
 
 ---
 
 ## 🔴 RED LIST — Blocked Claims (NEVER USE)
+
+### Halal language on customer-facing surfaces
+- ❌ "Halal" on any signage, menu, social post, film, ad, hashtag, delivery-platform description, SEO meta, schema.org markup, alt text, influencer brief, paid placement
+- ❌ "Halal-certified" / "100% halal" / "Certified halal kitchen" / "Halal Grill"
+- ❌ "Halal-sourced" in customer copy *(use "Maple Lodge Farms chicken" as the supplier credential)*
+
+*(Staff confirm honestly in person if asked — see voice-and-claims Section 8 for the one approved line. Never print, never post, never volunteer.)*
+
+### Competitor names in customer copy (voice-and-claims Section 10)
+- ❌ Chipotle, Cava, Sweetgreen, Nando's, Booster Juice, McDonald's, Tim Hortons, Peri Peri Shack, Galito's, La Peri Peri, El's Lapte, Holy Shakes — or any other brand
+- ❌ "Unlike [X]" / "better than [X]" / "X% less than [X]" — any comparative framing
+- ❌ "The big chains" / "other places" / "competitors" *(implies a comparison)*
+
+### Disparagement of Osmow's / founders' sister brands (voice-and-claims Section 9)
+- ❌ Any negative reference — explicit or implied — to Osmow's or other restaurants the founders operate
+- ❌ "This time we did it right" / "corrected what we got wrong before" / any contrast framing
+- ✅ Only acceptable frame: "Twenty restaurants taught us what matters. This one is where we put it into practice."
+
+### AI-sounding words (voice-and-claims Section 15)
+- ❌ **Tier 1 (delete on sight):** delve · tapestry · realm · landscape · leverage · robust · seamless · myriad · plethora · testament to · navigate · foster · harness · unlock · paradigm · cutting-edge · revolutionize · showcasing · pivotal · meticulous · vibrant · unparalleled · underscore · synergy · groundbreaking · transformative · holistic · empower · streamline · unprecedented · multifaceted
+- ❌ **Tier 2 (suspect in clusters):** intricate · crucial · commendable · pioneering · trailblazing · versatile · redefine · optimize · elevate · reimagine · democratize · game-changer · frictionless · unleash · mission-critical · visionary · disruptive
+- ❌ **Tier 3 (filler):** furthermore · moreover · notably · "it's important to note" · "in today's ever-evolving world" · "in summary" · "at its core" · "a rich tapestry of"
+- ❌ **Corporate filler:** elevated · curated · artisanal · bespoke · premium · finest ingredients · carefully selected · committed to · passionate about · dedicated to excellence · our talented team · our valued guests · seamless · flawless
+
+### Structural tells (break the pattern)
+- ❌ "Not just X, but Y" / "It's not about X — it's about Y"
+- ❌ "In a world where [X], [Y] becomes [Z]"
+- ❌ Mechanical tricolons (groups of three)
+- ❌ More than one em dash per panel
+- ❌ Inspirational kickers / neat-bow endings
 
 ### Speed / Freshness Superlatives
 - ❌ "Served in X minutes"
@@ -81,38 +184,63 @@ These are confirmed facts. Use freely in any brand-compliant format.
 - ❌ "Ready in 60 seconds"
 - ❌ "Always fresh" *(absolute claim — legally risky)*
 - ❌ "Farm-to-table" *(until sourcing documented)*
-- ❌ "Organic" *(until certified)*
+- ❌ "Organic" *(until Canada Organic certified)*
+- ❌ "Fresh fruit" *(when we use IQF frozen — say "real fruit" instead)*
 
-### Health / Medical Claims
+### Health / Medical / Therapeutic Claims
 - ❌ "Healthy" *(without specific substantiation)*
 - ❌ "Low calorie" *(until kitchen-tested and documented)*
 - ❌ "Keto-friendly" *(until nutrition-certified)*
 - ❌ "Weight-loss" / "diet food" / "clean eating"
+- ❌ "Immunity" / "Detox" / "Superfood" / "Healing" / "Alkalizing" / "Purifying"
 - ❌ Any allergen-free claim (peanut-free, gluten-free, etc.) unless kitchen-verified
+- ❌ "Allergen-free" as an absolute claim — never
+- ❌ "Hormone-free" chicken *(illegal framing — use "Maple Lodge Farms chicken" or "raised without added hormones" + disclaimer)*
+
+### Salt Wall — forbidden
+- ❌ "800 million years" / "850 million years" / "250 million years" — unsupported for the salt
+- ❌ "Purifies air" / "releases negative ions" / "detoxifies" / "alkalizing" / "reduces EMF"
+- ❌ "84 essential minerals" / "rich in trace minerals"
+- ❌ "Healthier than table salt"
+- ❌ Anything beyond "approximately 600 million years" + "naturally occurring minerals"
+
+### Drinks — forbidden terminology
+- ❌ "Smoothie" *(use "Shake" or "Fruit Blend")*
+- ❌ "Juice" as a category *(use "Fruit Blend — water-based")*
+- ❌ "Fresh fruit" when frozen *(use "Real fruit")*
+- ❌ Apple / oranges as ingredients *(removed — sourcing + category reasons)*
+- ❌ "Blue spirulina" *(use "Butterfly pea flower")*
+- ❌ Pineapple in the Coconut shake *(pure coconut only)*
+- ❌ Named pre-combos (PB Power, Pistachio Royale...) — no pre-named combos
+- ❌ Blender brand/model *(use "Automated Blender System")*
 
 ### Superlatives Without Proof
 - ❌ "Best in Brampton" / "#1" / "voted best"
 - ❌ "World's best" / "authentic X"
 - ❌ "Legendary" / "iconic" *(we are 0 months old)*
+- ❌ "Cheapest shake in town" / "Unbeatable value"
 
-### Religious / Regional Phrases
-- ❌ "Halal-certified" *(use "halal-sourced" until paperwork confirmed)*
+### Religious / Regional / Cultural Phrases
 - ❌ "JazakAllah" / "Inshallah" / "Mashallah"
 - ❌ "Authentic Pakistani" / "Desi" / "Punjabi" / "Indian" anything
-- ❌ "South Asian" / "Eastern" / "Oriental"
+- ❌ "South Asian" / "Eastern" / "Oriental" / "Ethnic"
+- ❌ Linguistic explanation of the word "Lazzat" — keep it implicit
+- ❌ Bollywood needle-drops / ethnic music loops in films
+- ❌ Cultural flavour tags in copy (Tandoori, Desi, Chaat) — use universal tags (Smoky, Tangy, Bright)
 
 ### Grill / Method
-- ❌ "Charcoal-grilled" *(we are lava stone — always)*
-- ❌ "Tandoor" / "tandoori"
-- ❌ "BBQ" *(too generic — we are lava stone grill)*
+- ❌ "Charcoal-grilled" *(we are direct flame / lava stone — always)*
+- ❌ "Tandoor" / "tandoori" *(as a method or flavour tag)*
+- ❌ "BBQ" *(too generic — we are direct-flame grill)*
 - ❌ "Oil-free" *(we use minimal oil, not zero)*
 
 ### Menu / Product
 - ❌ Any item not in `menu-v14.md`
-- ❌ "Tandoori / Tikka / Biryani / Karahi / Haleem / Nihari" *(region-coded)*
-- ❌ "Butter chicken" / "Tikka masala" *(region-coded)*
-- ❌ Any beef or pork item
+- ❌ "Tandoori Chicken / Tikka Masala / Biryani / Karahi / Haleem / Nihari" as **dish names** *(region-coded; the skewer names "Chicken Tikka" and "Lamb Seekh" remain allowed)*
+- ❌ "Butter Chicken"
+- ❌ Any beef, pork, bacon, shellfish item
 - ❌ Any alcohol
+- ❌ Avocado, leafy greens, mayo-based items *(operational reasons)*
 
 ---
 
@@ -128,6 +256,17 @@ These are confirmed facts. Use freely in any brand-compliant format.
 
 **No one is authorized to publish a claim outside GREEN.**
 
+### Specialist approvers (who must sign off before Founder, by domain)
+
+| Claim domain | Specialist approver |
+|---|---|
+| Food safety / allergen wording | Lazzat-Standards |
+| Recipe / culinary language | Lazzat-Culinary |
+| Construction / architecture (salt wall structure) | Lazzat-Build |
+| Operational pace / portion / price claims | Lazzat-Operations |
+| Voice / AI-word / competitor-silence / halal-handling | Lazzat-Brand → voice-and-claims skill |
+| Any health / therapeutic / mineral claim | **Do not write.** Flag to Lazzat-Founder. External counsel required before approval. |
+
 ---
 
 ## 🟠 PENDING CLAIMS (waiting for Lazzat-Founder)
@@ -140,10 +279,22 @@ These are confirmed facts. Use freely in any brand-compliant format.
 
 ## Quick Check for Content Writers
 
-Before writing any piece:
-1. Every numerical or superlative claim → must be on GREEN
-2. Every sourcing claim → must match GREEN wording exactly
-3. Every health / freshness / speed claim → default to AVOID; if essential, request approval
-4. Religious / regional framing → zero tolerance; rewrite immediately
+Before writing any piece, run the **seven tests** (voice-and-claims Section 18):
+
+1. **Specificity** — at least one number, proper noun, or named ingredient.
+2. **Fragment** — at least one sentence under five words.
+3. **"Who wrote this?"** — would a team member say this in the kitchen?
+4. **AI word scan** — Ctrl+F the Tier 1 list. Delete on sight.
+5. **Structure scan** — no "Not just X, but Y," no mechanical tricolons, no more than one em dash.
+6. **Comparison scan** — are we naming or implying anything about another brand (including Osmow's)?
+7. **Wall test** — read aloud from six feet. Body under 15 seconds; headlines under 3.
+
+Also:
+
+1. Every numerical or superlative claim → must be on GREEN.
+2. Every sourcing claim → must match GREEN wording exactly (especially "Maple Lodge Farms chicken" — not "halal-sourced").
+3. Every health / freshness / speed claim → default to AVOID; if essential, request approval.
+4. Religious / regional framing → zero tolerance; rewrite immediately.
+5. Any sentence about Osmow's / sister brands → rewrite to "twenty restaurants taught us..." framing only.
 
 When in doubt → **do not claim it.** A silent omission is always safer than a legal / brand risk.

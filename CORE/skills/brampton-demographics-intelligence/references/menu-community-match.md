@@ -48,7 +48,7 @@
 - **Falafel Wrap** — vegan + MENA anchor
 - **All 6 Salads** — plant-forward carousels
 - **Hummus + Warm Flatbread** — sharing side for vegetarian moments
-- **All Smoothies / Mocktails** — dietary-inclusive everywhere
+- **All Shakes / Fruit Blends** — dietary-inclusive everywhere
 
 ---
 

@@ -1,4 +1,4 @@
-# Ad Copy Templates
+﻿# Ad Copy Templates
 
 > **Rule:** Fill the `[brackets]`, run compliance, launch on a Tuesday. No exceptions.
 
@@ -14,7 +14,7 @@ Headline (40 char):
 Lava stone grill. Real flame.
 
 Description (30 char):
-Halal-sourced. Open kitchen.
+Maple Lodge Farms chicken. Open kitchen.
 
 CTA:
 See Menu
@@ -26,13 +26,13 @@ See Menu
 
 ```
 Primary text:
-One platter. Ten stories. Lava stone grilled meats, 13 sauces, honest portions — at our McVean Dr and Clarence St stores.
+One platter. Ten stories. Lava stone grilled meats, 17 sauces, honest portions — at our McVean Dr and Clarence St stores.
 
 Headline:
 Feed the whole table.
 
 Description:
-Halal-sourced. Every culture welcome.
+Maple Lodge Farms chicken. Every culture welcome.
 
 CTA:
 Order Now
@@ -86,7 +86,7 @@ Headline:
 Opens Saturday. McVean Dr.
 
 Description:
-Halal-sourced. Every culture welcome.
+Maple Lodge Farms chicken. Every culture welcome.
 
 CTA:
 Get Directions
@@ -104,7 +104,7 @@ Headline:
 [Event] — [dish].
 
 Description:
-Halal-sourced. Every table welcome.
+Maple Lodge Farms chicken. Every table welcome.
 
 CTA:
 See the Menu
@@ -177,7 +177,7 @@ DURATION: 9–15 sec
 15. Uniting Through Flavours
 
 **Descriptions (90-char max each — provide 4):**
-1. Volcanic stone. Real flame. 200g honest portions. Halal-sourced. Open kitchen. Brampton.
+1. Volcanic stone. Real flame. 200g honest portions. Maple Lodge Farms chicken. Open kitchen. Brampton.
 2. Lazzat Grill & Shakes — McVean Dr + Clarence St. See the menu and order now.
 3. Halal catering in Brampton — office lunches, Iftar, Diwali, Canada Day. Book today.
 4. Built for Brampton. Every table welcome. Lava stone grilled, honestly weighed.
@@ -195,7 +195,7 @@ DURATION: 9–15 sec
 - **Logos:** square logo + wide-banner logo
 - **Headlines (5):** same pool as RSA above
 - **Long headlines (5, 90-char max):**
-  1. Lava stone grill in Brampton — halal-sourced, open kitchen, every culture welcome.
+  1. Lava stone grill in Brampton — Maple Lodge Farms chicken, open kitchen, every culture welcome.
   2. Lazzat Grill & Shakes — McVean Dr + Clarence St. Bowls, platters, wraps, shakes.
   3. 200 grams. Honestly weighed. Thirteen sauces. Lava stone grilled. Lazzat Brampton.
   4. Brampton's lava stone grill — no pork, no beef, no alcohol. Every table welcome.
@@ -213,7 +213,7 @@ TEXT (on-screen): "No charcoal."
 SCENE 2 (2–6s): Chef Lazzat-Culinary weighs 200g cube on scale.
 TEXT: "200 grams. Every time."
 SCENE 3 (6–10s): Bowl assembly — sauce drizzle.
-TEXT: "13 sauces. One grill."
+TEXT: "17 sauces. One grill."
 CTA (10–15s): Hero shot — logo overlay.
 TEXT: "Lazzat Grill & Shakes — Brampton."
 CAPTION FIRST LINE:
@@ -228,7 +228,7 @@ Before running ANY ad, confirm every line against:
 
 | Line | GREEN if on approved-claims.md |
 |---|---|
-| "halal-sourced" | ✅ |
+| "Maple Lodge Farms chicken" | ✅ |
 | "halal certified" | ❌ (pending certification) |
 | "no pork, no beef, no alcohol" | ✅ |
 | "lava stone grilled" | ✅ |
@@ -257,3 +257,4 @@ COMPLIANCE BLOCK
 - Approver: Lazzat-Brand (routine) / Lazzat-Founder (strategic)
 - Launch date: [Tuesday, YYYY-MM-DD]
 ```
+

@@ -2,7 +2,7 @@
 
 > The canonical table of every skill's current version. Agents consult this before using a skill.
 
-Last registry update: **2026-04-17**
+Last registry update: **2026-04-21**
 
 ---
 
@@ -10,7 +10,8 @@ Last registry update: **2026-04-17**
 
 | Skill | Version | Last Updated | Owner |
 |---|---|---|---|
-| core-brand | 1.0.0 | 2026-04-17 | Lazzat-Brand |
+| core-brand | 1.1.0 | 2026-04-21 | Lazzat-Brand |
+| voice-and-claims | 1.0.0 | 2026-04-21 | Lazzat-Brand |
 
 ---
 
@@ -18,18 +19,28 @@ Last registry update: **2026-04-17**
 
 | Skill | Version | Last Updated | Owner |
 |---|---|---|---|
-| brand-compliance-checker | 1.0.0 | 2026-04-17 | Lazzat-Compliance |
-| senior-strategist | 1.0.0 | 2026-04-17 | Lazzat-Strategy |
-| social-media-handler | 1.0.0 | 2026-04-17 | Lazzat-Social |
-| content-writer | 1.0.0 | 2026-04-17 | Lazzat-Content |
-| seo-expert | 1.0.0 | 2026-04-17 | Lazzat-SEO |
-| digital-marketer | 1.0.0 | 2026-04-17 | Lazzat-Ads |
-| graphic-designer | 1.0.0 | 2026-04-17 | Lazzat-Design |
-| video-editor | 1.0.0 | 2026-04-17 | Lazzat-Video |
-| web-app-developer | 1.0.0 | 2026-04-17 | Lazzat-Web |
-| guerrilla-movement-marketer | 1.0.0 | 2026-04-17 | Lazzat-Guerrilla |
-| brampton-demographics-intelligence | 1.0.0 | 2026-04-17 | Lazzat-Intelligence |
-| influencer-finder | 1.0.0 | 2026-04-17 | Lazzat-Influencers |
+| brand-compliance-checker | 1.1.0 | 2026-04-21 | Lazzat-Compliance |
+| senior-strategist | 1.0.1 | 2026-04-21 | Lazzat-Strategy |
+| social-media-handler | 1.0.1 | 2026-04-21 | Lazzat-Social |
+| content-writer | 1.0.1 | 2026-04-21 | Lazzat-Content |
+| seo-expert | 1.0.1 | 2026-04-21 | Lazzat-SEO |
+| digital-marketer | 1.0.1 | 2026-04-21 | Lazzat-Ads |
+| graphic-designer | 1.0.1 | 2026-04-21 | Lazzat-Design |
+| video-editor | 1.0.1 | 2026-04-21 | Lazzat-Video |
+| web-app-developer | 1.0.1 | 2026-04-21 | Lazzat-Web |
+| guerrilla-movement-marketer | 1.0.1 | 2026-04-21 | Lazzat-Guerrilla |
+| brampton-demographics-intelligence | 1.0.1 | 2026-04-21 | Lazzat-Intelligence |
+| influencer-finder | 1.0.1 | 2026-04-21 | Lazzat-Influencers |
+
+---
+
+## Change Log
+
+### 2026-04-21 — Voice & Claims reconciliation (release 1.1)
+- **Added:** `voice-and-claims` skill (Lazzat's master voice authority) under `CORE/skills/voice-and-claims/` with four reference files (approved-phrasings, canadian-ad-law, allergen-handling, qa-scripts) and eval suite.
+- **Core-brand 1.1.0:** taglines updated to *Grill & Shakes — Uniting Through Flavours* (primary) and *Grill & Shakes — Flavours From Around The World* (secondary); non-negotiables expanded from 10 → 15; "halal" removed from all customer-facing surfaces in favour of "Maple Lodge Farms chicken" supplier credential; 13 → 17 sauce headline (13 live + 4 pending founder approval); 4 approved skewer names locked (Chicken Tikka, Lamb Seekh, Paneer, Soya); salt-wall age locked at "approximately 600 million years (Khan et al., 2026)"; shake prices locked; "smoothie" / "juice" category language replaced with "Shake" / "Fruit Blend".
+- **Brand-compliance-checker 1.1.0:** 32 checks → 40 checks; added Seven Tests (Specificity, Fragment, Who-wrote-this, AI-word scan, Structure scan, Comparison scan, Wall/Journalist); added 3 new eval cases (AI words, competitor/Osmow's silence, salt-wall therapeutic, smoothie/hormone-free).
+- **All 11 output skills 1.0.1:** "halal-sourced" replaced with "Maple Lodge Farms chicken"; "13 sauces" → "17 sauces" (marketing headline); secondary-tagline wording updated; `voice-and-claims` added to `Related skills (required)`.
 
 ---
 

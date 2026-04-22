@@ -1,59 +1,111 @@
 {
   "skill": "brand-compliance-checker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "cases": [
     {
       "id": "bc-01-regional-fail",
       "prompt": "Compliance check: 'Taste the authentic Pakistani flavours at Lazzat — Brampton's best Desi grill!'",
-      "expected_behavior": "FAIL on checks 1, 2, 4, 15. Rewrite to global framing. Output Compliance Block with Status ❌ REWRITE, then deliver rewritten version with Status ✅ PASS.",
+      "expected_behavior": "FAIL on checks 7, 8, 20. Also fails Seven Tests (Specificity, Comparison, AI word scan). Rewrite to globally-neutral framing. Output Compliance Block with Status ❌ REWRITE, then deliver rewritten version with Status ✅ PASS.",
       "assertions": [
         "mentions check failure for 'Pakistani'",
         "mentions check failure for 'Desi'",
         "mentions check failure for 'best' superlative",
-        "provides a rewritten version using global framing",
+        "mentions 'authentic' as banned",
+        "provides a rewritten version using globally-neutral framing (e.g., 'A table where everyone belongs.')",
         "final block shows PASS after rewrite"
       ]
     },
     {
       "id": "bc-02-charcoal-fail",
-      "prompt": "Compliance check: 'Our charcoal-grilled chicken tikka is ready in 60 seconds.'",
-      "expected_behavior": "FAIL on checks 4, 9, 13. Rewrite with lava stone + no speed claim + menu v14 item name.",
+      "prompt": "Compliance check: 'Our charcoal-grilled tikka masala is ready in 60 seconds.'",
+      "expected_behavior": "FAIL on checks 9, 13, 18. Rewrite with direct-flame / lava-stone + no speed claim + valid menu v14 item name. Note: 'tikka masala' is a banned dish name (but 'Chicken Tikka' as a skewer name is approved).",
       "assertions": [
         "flags 'charcoal-grilled'",
-        "flags 'tikka'",
+        "flags 'tikka masala' as a banned region-coded dish name",
         "flags 'ready in 60 seconds'",
-        "rewritten version uses lava stone + a v14 item (e.g., Chicken Cube)"
+        "rewritten version uses 'direct flame' / 'lava stone' and a v14 item (e.g., Chicken Tikka skewer over saffron rice)"
       ]
     },
     {
       "id": "bc-03-clean-pass",
-      "prompt": "Compliance check: 'Lava stone grilled Chicken Cube over saffron rice with Lazzat Green sauce. Halal-sourced. Every culture welcome. McVean Dr, Brampton.'",
-      "expected_behavior": "PASS all 32 checks. Pillar: Menu Spotlight (or Lava Stone Story). Approver: Lazzat-Brand + Lazzat-Social. Block is delivered clean.",
+      "prompt": "Compliance check: 'Direct-flame Chicken Tikka over saffron rice with Lazzat Green sauce. Maple Lodge Farms chicken. A table where everyone belongs. McVean Dr, Brampton.'",
+      "expected_behavior": "PASS all 40 checks and Seven Tests. Pillar: Menu Spotlight (or Direct Flame / Lava Stone Story). Approver: Lazzat-Brand + Lazzat-Social. Block is delivered clean.",
       "assertions": [
         "status is PASS",
         "no check marked failed",
         "pillar assigned",
-        "approver is Lazzat-Brand + Lazzat-Social"
+        "approver is Lazzat-Brand + Lazzat-Social",
+        "supplier credential is 'Maple Lodge Farms chicken' (not 'halal-sourced')"
       ]
     },
     {
-      "id": "bc-04-religious-fail",
-      "prompt": "Compliance check caption: 'Halal-certified meat. JazakAllah to our Brampton family for launch day support!'",
-      "expected_behavior": "FAIL on checks 5 (religious phrase) and 6 (halal-certified). Rewrite to 'halal-sourced' and 'Thank you, Brampton'.",
+      "id": "bc-04-religious-halal-fail",
+      "prompt": "Compliance check caption: 'Halal-sourced meat. JazakAllah to our Brampton family for launch day support!'",
+      "expected_behavior": "FAIL on check 10 (religious phrase) and check 11 (halal on customer-facing). Rewrite to 'Maple Lodge Farms chicken' and 'Thank you, Brampton'.",
       "assertions": [
         "flags JazakAllah",
-        "flags halal-certified",
-        "rewrite uses 'halal-sourced' and secular thanks"
+        "flags 'Halal-sourced' (violates voice-and-claims §8 customer-facing halal ban)",
+        "rewrite uses 'Maple Lodge Farms chicken' and secular thanks"
       ]
     },
     {
       "id": "bc-05-launch-window-conservatism",
-      "prompt": "Compliance check this ad (date is May 2026): 'Brampton's first lava stone grill — amazing flavours and incredible value.'",
+      "prompt": "Compliance check this ad (date is May 2026): 'Brampton's first direct-flame grill — amazing flavours and incredible value.'",
       "expected_behavior": "FAIL on launch-window conservatism: 'first', 'amazing', 'incredible' are all superlatives. Rewrite neutralized.",
       "assertions": [
         "applies launch-window conservatism block",
         "rewrite removes superlatives",
         "block includes [LAUNCH-WINDOW CONSERVATISM APPLIED]"
+      ]
+    },
+    {
+      "id": "bc-06-ai-words-fail",
+      "prompt": "Compliance check: 'Delve into a vibrant tapestry of curated flavours. It's not just a grill. It's a culinary journey that transforms your experience.'",
+      "expected_behavior": "FAIL all Seven Tests (Who-wrote-this, AI word scan, Structure scan). FAIL checks 1, 2, 3. Rewrite to plain human voice.",
+      "assertions": [
+        "flags 'delve'",
+        "flags 'vibrant'",
+        "flags 'tapestry'",
+        "flags 'curated'",
+        "flags the 'It's not just X. It's Y.' structure",
+        "flags 'culinary journey' / 'transformative'",
+        "rewrite uses short declarative sentences or fragments"
+      ]
+    },
+    {
+      "id": "bc-07-competitor-osmows-fail",
+      "prompt": "Compliance check: 'Unlike Cava, our bowls are build-your-own. And unlike Osmow's — where the founders used to work — we actually grill over flame.'",
+      "expected_behavior": "FAIL on check 24 (competitor name), check 25 (Osmow's disparagement), check 26 (comparison phrasing), and Seven Tests Comparison scan.",
+      "assertions": [
+        "flags 'Cava'",
+        "flags 'Osmow's'",
+        "flags the comparison / disparagement pattern",
+        "rewrite states Lazzat-only facts (direct flame, lava stone, 17 sauces, Maple Lodge Farms)",
+        "if Osmow's lineage must be mentioned, uses forward framing: 'The founders spent over twenty years in the industry. Lazzat is the next idea.'"
+      ]
+    },
+    {
+      "id": "bc-08-salt-wall-therapeutic-fail",
+      "prompt": "Compliance check: 'Our 800-million-year Himalayan salt wall — with 84 minerals — detoxifies the air and boosts immunity.'",
+      "expected_behavior": "FAIL on checks 22, 34, plus Seven Tests Specificity. Rewrite to sensory-only, locked age, no therapeutic claims.",
+      "assertions": [
+        "flags '800-million-year' (age must be approximately 600 million years)",
+        "flags '84 minerals'",
+        "flags 'detoxifies' / 'boosts immunity' as therapeutic claim",
+        "rewrite uses sensory-only language ('soft pink glow, radiant heat, sensory calm') and 'approximately 600 million years'"
+      ]
+    },
+    {
+      "id": "bc-09-smoothie-fail",
+      "prompt": "Compliance check: 'Our fresh-squeezed tropical smoothie — real fresh fruit, apple, orange, and hormone-free goodness.'",
+      "expected_behavior": "FAIL on checks 19, 33, plus 'hormone-free' is illegal framing for Canadian poultry and 'smoothie' is banned category.",
+      "assertions": [
+        "flags 'smoothie'",
+        "flags 'fresh-squeezed'",
+        "flags 'fresh fruit' if the fruit is frozen",
+        "flags 'apple' / 'orange' as not on the approved shake ingredient list",
+        "flags 'hormone-free' (illegal framing in Canada)",
+        "rewrite uses 'Shake' or 'Fruit Blend', lists approved ingredients (real fruit, real milk, real cream, cane sugar, ice), and 'Maple Lodge Farms chicken' if meat is referenced"
       ]
     }
   ]

@@ -1,4 +1,4 @@
-# On-Page SEO Rules
+﻿# On-Page SEO Rules
 
 > **Rule:** Every Lazzat page must pass these rules before publish. No exceptions.
 
@@ -31,7 +31,7 @@ Examples:
 - Never promise features we don't have (delivery radius, loyalty, etc. — check with Lazzat-Brand)
 
 Example:
-`Lazzat Grill & Shakes: halal-sourced lava stone grill in Brampton. 200g honest protein, 13 sauces, open kitchen. Visit McVean Dr or Clarence St.` (157 chars)
+`Lazzat Grill & Shakes: Maple Lodge Farms chicken lava stone grill in Brampton. 200g honest protein, 17 sauces, open kitchen. Visit McVean Dr or Clarence St.` (157 chars)
 
 ---
 
@@ -140,7 +140,7 @@ All schema lives in `<head>` or just before `</body>`, JSON-LD format.
 ```
 
 **Never** include in schema:
-- "halalCertified: true" — Lazzat is halal-sourced, not certified
+- "halalCertified: true" — Lazzat is Maple Lodge Farms chicken, not certified
 - Prices for items Lazzat-Founder hasn't approved for public disclosure
 - Aggregate ratings unless pulled from live review platforms
 
@@ -209,7 +209,7 @@ All answers sourced from `CORE/approved-claims.md` GREEN list.
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {"@type":"Question","name":"Is Lazzat halal?","acceptedAnswer":{"@type":"Answer","text":"Yes. All meats are halal-sourced from trusted Ontario suppliers including Maple Lodge Farms. We do not serve pork, beef, or alcohol."}},
+    {"@type":"Question","name":"Is Lazzat halal?","acceptedAnswer":{"@type":"Answer","text":"Yes. All meats are Maple Lodge Farms chicken from trusted Ontario suppliers including Maple Lodge Farms. We do not serve pork, beef, or alcohol."}},
     {"@type":"Question","name":"What is lava stone grilling?","acceptedAnswer":{"@type":"Answer","text":"Lava stone grilling uses volcanic rock heated to radiant temperatures. It sears without requiring charcoal, and the stone keeps each protein's natural flavour intact."}},
     {"@type":"Question","name":"Do you deliver?","acceptedAnswer":{"@type":"Answer","text":"Yes — dine-in, takeout, and delivery via our partners from both Brampton locations (McVean Dr and Clarence St)."}},
     {"@type":"Question","name":"Do you cater?","acceptedAnswer":{"@type":"Answer","text":"Yes. Office lunches, birthdays, Iftar, Eid, Diwali, and family events. Contact catering@lazzat.ca with headcount and date."}}
@@ -232,3 +232,4 @@ All answers sourced from `CORE/approved-claims.md` GREEN list.
 - [ ] Canonical tag present
 - [ ] Submitted to Google Search Console
 - [ ] Compliance Block attached
+

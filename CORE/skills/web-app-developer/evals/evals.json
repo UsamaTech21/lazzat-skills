@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "web-app-developer-evals",
   "skill": "web-app-developer",
@@ -69,7 +69,7 @@
           "dark-bg",
           "prep time",
           "5 km",
-          "halal-sourced",
+          "Maple Lodge Farms chicken",
           "Lazzat-Founder",
           "HST",
           "Compliance Block"
@@ -84,3 +84,4 @@
     }
   ]
 }
+

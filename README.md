@@ -1,7 +1,7 @@
 ﻿# Lazzat Grill & Shakes — AI Marketing Agency Skill System
 
 > **Internal use — Lazzat team only.**
-> Version **1.0.0** · April 2026 · Brampton, Ontario
+> Version **1.1.0** · April 2026 · Brampton, Ontario
 > Owner: Lazzat-Brand (Brand & Marketing Lead) · Sign-off: Lazzat-Founder (Founder)
 
 A production-grade library of Claude / Claude Code skills that turns any AI session into Lazzat's in-house marketing agency — brand-compliant, menu-accurate, approver-aware, and automatically compliance-checked.
@@ -25,10 +25,11 @@ Every output the system produces is:
 
 ---
 
-## The 12 Skills
+## The 13 Skills
 
 | # | Skill | Who Uses It | Path |
 |---|---|---|---|
+| 0 | Voice & Claims *(master authority)* | Everyone (required read) | `CORE/skills/voice-and-claims/` |
 | 1 | Brand Compliance Checker | Everyone (auto-runs) | `CORE/skills/brand-compliance-checker/` |
 | 2 | Senior Strategist | Lazzat-Brand | `CORE/skills/senior-strategist/` |
 | 3 | Social Media Handler | Lazzat-Social, Content Writer | `CORE/skills/social-media-handler/` |
@@ -153,7 +154,7 @@ Full matrix → `CORE/team-roles.md`.
 ❌ Never: palette outside `#1A1A1A` / `#F5E6D3` / `#D4A574` / `#C0392B`
 ❌ Never: menu items outside v14
 ❌ Never: "JazakAllah", "Inshallah", religious greetings in marketing
-❌ Never: "halal-certified" (use "halal-sourced")
+❌ Never: "halal-certified" (use "Maple Lodge Farms chicken")
 
 ✅ Always: "every culture welcome" global framing
 ✅ Always: lava stone eco angle when grill is mentioned
@@ -270,3 +271,4 @@ The skill system's architecture — its skill taxonomy, compliance framework, va
 
 - Questions / issues: [github.com/UsamaTech21/lazzat-skills/issues](https://github.com/UsamaTech21/lazzat-skills/issues)
 - Pull requests: see `CONTRIBUTING.md`
+

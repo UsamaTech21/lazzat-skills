@@ -1,4 +1,4 @@
-# Lazzat Tone Guide
+﻿# Lazzat Tone Guide
 
 > **Rule:** Every sentence either sounds like Lazzat or it doesn't. There's no middle register.
 
@@ -51,9 +51,9 @@ Don't try to say every brand promise in every paragraph. Pick one: lava stone OR
 - crafted, built, plated, weighed, seared
 - 200 grams, honest, exact, daily
 - global, every culture, every table, every plate
-- halal-sourced, no pork, no beef, no alcohol
+- Maple Lodge Farms chicken, no pork, no beef, no alcohol
 - bowl-builder, cube, kabab, wrap, platter
-- 13 sauces (always the number first)
+- 17 sauces (always the number first)
 - open kitchen, nothing hidden
 - Brampton, Castlemore, Downtown
 
@@ -140,3 +140,4 @@ Use a phrase early, bring it back in the closer. "Every table welcome" works as 
 - [ ] Primary tagline appears ONCE in long-form
 - [ ] Paragraphs vary in length
 - [ ] Compliance block attached
+

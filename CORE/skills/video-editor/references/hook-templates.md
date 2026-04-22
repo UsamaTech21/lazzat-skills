@@ -1,4 +1,4 @@
-# Video Hook Templates
+﻿# Video Hook Templates
 
 > **Rule:** The first 2 seconds decide the life of a video. If the hook fails, nothing after matters.
 
@@ -44,7 +44,7 @@
 19. "Why is every cube exactly 200 grams?"
 20. "Why don't we serve pork, beef, or alcohol?"
 21. "Where does our chicken actually come from?"
-22. "What's inside the 13 sauces?"
+22. "What's inside the 17 sauces?"
 
 ### Curiosity gap hooks
 23. "This is what a lava stone looks like at 400°C."
@@ -81,7 +81,7 @@
 44. "Two hundred grams. Honestly weighed. No upsell."
 45. "This is what goes in. Nothing else."
 46. "Our kitchen is open because we have nothing to hide."
-47. "You don't need to ask if it's halal-sourced. It is."
+47. "You don't need to ask if it's Maple Lodge Farms chicken. It is."
 
 ### Trending-format-safe hooks (adapted to brand voice)
 48. "Not every grill does this."
@@ -141,3 +141,4 @@ Rotate hook style monthly so the feed doesn't feel repetitive.
 | 4 — Health & Honesty | Numbers, Value/honesty, Contrast |
 | 5 — Catering & Occasions | POV, Launch/date-anchored |
 | 6 — Brand Story & Vision | Community, Value/honesty, Curiosity gap |
+

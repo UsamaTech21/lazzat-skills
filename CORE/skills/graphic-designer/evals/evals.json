@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "graphic-designer-evals",
   "skill": "graphic-designer",
@@ -36,7 +36,7 @@
           "CMYK",
           "bleed",
           "No pork",
-          "Halal-sourced",
+          "Maple Lodge Farms chicken",
           "v14"
         ],
         "excludes": ["halal certified", "BBQ", "tandoor"]
@@ -50,7 +50,7 @@
           "cream",
           "#F2EBDD",
           "wordmark",
-          "halal-sourced",
+          "Maple Lodge Farms chicken",
           "recyclable"
         ],
         "excludes": [
@@ -62,3 +62,4 @@
     }
   ]
 }
+

@@ -1,4 +1,4 @@
-# Platform-Specific Rules
+﻿# Platform-Specific Rules
 
 > **Rule:** Same story, different shape per platform. Never reuse a caption character-for-character across platforms — the algorithm punishes copy-paste.
 
@@ -141,7 +141,7 @@ Never on ANY platform:
 - ❌ Say "Pakistani / Desi / Indian / South Asian / Punjabi / Authentic"
 - ❌ Say "charcoal / BBQ / tandoor"
 - ❌ Speed / freshness / superlative claims without proof
-- ❌ "Halal-certified" (use "halal-sourced")
+- ❌ "Halal-certified" (use "Maple Lodge Farms chicken")
 - ❌ JazakAllah / Inshallah / religious phrases in marketing copy
 - ❌ Off-v14 menu items
 - ❌ Unapproved colors or fonts
@@ -161,3 +161,4 @@ Never on ANY platform:
 | YouTube | Lazzat Grill & Shakes | Lazzat-Video | Lazzat-Brand |
 | GBP (both locations) | Lazzat Grill & Shakes | Lazzat-SEO | Lazzat-Brand |
 | WhatsApp Business | Official number | Lazzat-Social | Lazzat-Culinary |
+

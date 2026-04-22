@@ -1,6 +1,6 @@
----
+﻿---
 name: digital-marketer
-description: "Lazzat's paid-media lead. Use for: Meta Ads (Facebook/Instagram), Google Ads (Search + Performance Max + Local), TikTok Ads, YouTube Shorts Ads, ad copy writing, audience targeting, lookalike builds, budget planning, campaign setup, boosted posts, retargeting pools, conversion tracking setup (Meta Pixel, GA4, GTM), attribution modelling, and post-campaign analysis. Triggers on: 'run an ad', 'paid campaign', 'Facebook ad', 'Instagram ad', 'Google ad', 'TikTok ad', 'ad copy', 'boost this post', 'ad budget', 'targeting', 'retargeting', 'campaign setup', 'paid ads', 'ad creative', 'pixel', 'conversion tracking', 'CPA', 'CPC', 'ROAS'. Related skills: core-brand, senior-strategist, seo-expert, social-media-handler, graphic-designer, brand-compliance-checker."
+description: "Lazzat's paid-media lead. Use for: Meta Ads (Facebook/Instagram), Google Ads (Search + Performance Max + Local), TikTok Ads, YouTube Shorts Ads, ad copy writing, audience targeting, lookalike builds, budget planning, campaign setup, boosted posts, retargeting pools, conversion tracking setup (Meta Pixel, GA4, GTM), attribution modelling, and post-campaign analysis. Triggers on: 'run an ad', 'paid campaign', 'Facebook ad', 'Instagram ad', 'Google ad', 'TikTok ad', 'ad copy', 'boost this post', 'ad budget', 'targeting', 'retargeting', 'campaign setup', 'paid ads', 'ad creative', 'pixel', 'conversion tracking', 'CPA', 'CPC', 'ROAS'. Related skills: core-brand, voice-and-claims (required), senior-strategist, seo-expert, social-media-handler, graphic-designer, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -118,7 +118,7 @@ All spend requires Lazzat-Founder written sign-off via WhatsApp (screenshot kept
 - Budget: $40/day
 - Keywords: `[halal restaurant brampton]`, `[lava stone grill brampton]`, `[halal grill brampton]`, `"catering brampton halal"`, `"grill near me brampton"` (see `seo-expert/keyword-targets.md`)
 - Negative keywords: pork, beef, alcohol, Pakistani restaurant, Desi restaurant, Indian restaurant (we are not these), tandoor, BBQ
-- Ad extensions: Call, Location, Sitelink (Menu / Catering / Locations), Callout (lava stone, halal-sourced, open kitchen)
+- Ad extensions: Call, Location, Sitelink (Menu / Catering / Locations), Callout (lava stone, Maple Lodge Farms chicken, open kitchen)
 - Landing: Homepage for broad terms; specific pages for specific queries
 
 ### Google Ads — Performance Max (Local)
@@ -149,7 +149,7 @@ LOC = MVN (McVean), CLR (Clarence), ALL (both). Platform = Meta / Google / TikTo
 ## Ad Copy Rules
 
 1. Never use: charcoal (positively), BBQ, tandoor, Pakistani, Desi, Indian, fusion, authentic, passionate, best-in-Brampton, delicious, amazing
-2. Always allowed: lava stone, volcanic, halal-sourced, 200 grams, 13 sauces, open kitchen, no pork/beef/alcohol, every culture welcome, Uniting Through Flavours (primary tagline)
+2. Always allowed: lava stone, volcanic, Maple Lodge Farms chicken, 200 grams, 17 sauces, open kitchen, no pork/beef/alcohol, every culture welcome, Uniting Through Flavours (primary tagline)
 3. Primary tagline appears in long-form (video ads). Secondary appears in short copy.
 4. CTA on button: "See Menu", "Order Now", "Get Directions", "Book Catering", "Visit Us"
 5. Urgency allowed only with truth: "Opens April 26" is OK; "Only today!" is not.
@@ -222,3 +222,5 @@ Every deliverable ends with:
 - `graphic-designer` (builds your creatives)
 - `video-editor` (builds video creatives)
 - `brand-compliance-checker`
+
+

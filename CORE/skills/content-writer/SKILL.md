@@ -1,6 +1,6 @@
----
+﻿---
 name: content-writer
-description: "Lazzat's long-form voice. Use for: blog posts, SEO articles, wall-panel copy, website long-form pages (About, Story, Catering, Locations), newsletter, email drafts, reel/video scripts, press pitches, catering inquiry responses, customer-complaint replies (draft-for-Lazzat-Brand), menu descriptions for delivery platforms, and any text that is longer than a social caption. Triggers on: 'write a blog', 'blog about', 'write an article', 'wall panel copy', 'About page copy', 'newsletter', 'email draft', 'WhatsApp message', 'draft a response', 'write copy for', 'reel script', 'video script', 'menu description', 'catering email', 'press pitch'. Related skills: core-brand, senior-strategist, seo-expert, social-media-handler, video-editor, brand-compliance-checker."
+description: "Lazzat's long-form voice. Use for: blog posts, SEO articles, wall-panel copy, website long-form pages (About, Story, Catering, Locations), newsletter, email drafts, reel/video scripts, press pitches, catering inquiry responses, customer-complaint replies (draft-for-Lazzat-Brand), menu descriptions for delivery platforms, and any text that is longer than a social caption. Triggers on: 'write a blog', 'blog about', 'write an article', 'wall panel copy', 'About page copy', 'newsletter', 'email draft', 'WhatsApp message', 'draft a response', 'write copy for', 'reel script', 'video script', 'menu description', 'catering email', 'press pitch'. Related skills: core-brand, voice-and-claims (required), senior-strategist, seo-expert, social-media-handler, video-editor, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -146,7 +146,7 @@ Subject: Lazzat catering — [event type] for [N] people
 Hi [Name],
 
 Thanks for thinking of us for [event].
-For [N] people on [date], our [Mega Platter / Office Combo / Family Platter] works — lava stone grilled, 200g protein per serving, 13 sauces, dietary-inclusive (vegetarian and vegan options included).
+For [N] people on [date], our [Mega Platter / Office Combo / Family Platter] works — lava stone grilled, 200g protein per serving, 17 sauces, dietary-inclusive (vegetarian and vegan options included).
 
 We'd need 24 hours' notice. Pickup is free from McVean Dr or Clarence St; delivery is quote-based.
 
@@ -255,3 +255,5 @@ Every output ends with:
 - `video-editor` (executes the reel scripts you draft)
 - `graphic-designer` (builds the featured image brief)
 - `brand-compliance-checker`
+
+

@@ -1,4 +1,4 @@
-# Post Templates — Canva Layout Library
+﻿# Post Templates — Canva Layout Library
 
 > Every template here is design-locked. To change a layout pattern, route through Lazzat-Brand.
 
@@ -49,7 +49,7 @@ CONTENT RULES:
 
 ## Template 3 — Carousel (3-slide + CTA)
 
-**Use:** dish explainers, how-it-works, 13 sauces guide
+**Use:** dish explainers, how-it-works, 17 sauces guide
 **Size:** 1080×1350 (Feed 4:5)
 
 ```
@@ -155,7 +155,7 @@ LAYOUT:
   - Left column: Platters + Wraps + Bowls
   - Right column: Kids + Combos + Drinks + Sides + Desserts
 - Each item: name (Arial Black 28pt, white) + description (Arial 18pt, cream) + price (gold 22pt)
-- Footer: "No pork. No beef. No alcohol. Halal-sourced." (Inter 18pt, centered)
+- Footer: "No pork. No beef. No alcohol. Maple Lodge Farms chicken." (Inter 18pt, centered)
 
 CONTENT RULES:
 - Items must match `menu-v14.md` EXACTLY (name, price, description)
@@ -205,7 +205,7 @@ DESIGN:
 - Charcoal wordmark on bag center
 - Gold tagline handwritten script under wordmark
 - One brand promise line on back: "200 grams, honestly weighed. Thirteen sauces. One grill."
-- Recyclable stamp + small "Halal-sourced" badge lower corner
+- Recyclable stamp + small "Maple Lodge Farms chicken" badge lower corner
 - Food-contact compliant inks
 
 NEVER:
@@ -303,3 +303,4 @@ COMPLIANCE:
 - Approved templates → added to this file + Canva brand kit
 - Retired templates → flagged but kept for reference
 - Quarterly review: which templates drove engagement, which to retire
+

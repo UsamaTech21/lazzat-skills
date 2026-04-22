@@ -1,6 +1,6 @@
----
+﻿---
 name: video-editor
-description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Lazzat-Video/Lazzat-Video, brand film cuts (from Lazzat-Video's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
+description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Lazzat-Video/Lazzat-Video, brand film cuts (from Lazzat-Video's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, voice-and-claims (required), senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -213,3 +213,4 @@ Every deliverable ends with:
 - `graphic-designer` (builds reel covers, end cards)
 - `content-writer` (drafts scripts)
 - `brand-compliance-checker`
+

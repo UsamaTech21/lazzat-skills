@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://agentskills.md/schema/evals.json",
   "name": "influencer-finder-evals",
   "skill": "influencer-finder",
@@ -12,7 +12,7 @@
           "Tier 1",
           "Brampton",
           "lava stone",
-          "halal-sourced",
+          "Maple Lodge Farms chicken",
           "free meal",
           "no payment",
           "Compliance Block",
@@ -67,7 +67,7 @@
           "1:00",
           "menu-v14",
           "lava stone",
-          "halal-sourced",
+          "Maple Lodge Farms chicken",
           "#hosted",
           "Lazzat-Social",
           "tagline"
@@ -82,3 +82,4 @@
     }
   ]
 }
+

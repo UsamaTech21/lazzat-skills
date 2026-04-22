@@ -6,7 +6,7 @@
 
 ## 1. Repository Overview
 
-This repo is the Lazzat Grill & Shakes AI Marketing Agency skill system. It ships 12 production-grade skills + a master CORE brand context. Each skill follows the [Agent Skills Specification](https://agentskills.md).
+This repo is the Lazzat Grill & Shakes AI Marketing Agency skill system. It ships 13 production-grade skills + a master CORE brand context. The 13th, `voice-and-claims`, is the master voice authority; every output skill must load it before producing customer-facing copy. Each skill follows the [Agent Skills Specification](https://agentskills.md).
 
 **You are not writing Lazzat marketing content when you are editing this repo.** You are writing / improving / validating the *skills* that produce Lazzat marketing content. Keep that distinction sharp.
 

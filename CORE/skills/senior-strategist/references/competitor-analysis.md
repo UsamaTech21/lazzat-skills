@@ -1,4 +1,4 @@
-# Brampton Competitor Analysis — Apr 2026
+﻿# Brampton Competitor Analysis — Apr 2026
 
 > **Source:** Lazzat Competitor Intelligence Report 2026 + live GMB / social scans
 > **Owner:** Lazzat-Brand | **Last updated:** 2026-04-17
@@ -65,7 +65,7 @@ For every competitor we track:
   - **Production value** on every social post
   - **Global positioning** vs their regional positioning
   - **Build-a-bowl format** they do not offer
-  - **Dietary inclusivity** (vegan / vegetarian / halal-sourced) they ignore
+  - **Dietary inclusivity** (vegan / vegetarian / Maple Lodge Farms chicken) they ignore
 
 ---
 
@@ -77,14 +77,14 @@ For every competitor we track:
 - **Menu format:** Build-your-bowl — base / protein / salsas / toppings
 - **Price:** $13–17
 - **Why it matters:** We borrow the **format** and **transparency**, not the cuisine
-- **Our play:** Apply the Chipotle format to a halal-sourced, lava-stone, dietary-inclusive global grill
+- **Our play:** Apply the Chipotle format to a Maple Lodge Farms chicken, lava-stone, dietary-inclusive global grill
 
 ### 5. Nando's
 
 - **Position:** Flame grill, sauce identity, globally branded
 - **Menu format:** Chicken-forward
 - **Price:** $15–25
-- **Why it matters:** Their sauce ladder (Lemon & Herb → Extra Hot) is brand identity. We can do the same with 13 sauces.
+- **Why it matters:** Their sauce ladder (Lemon & Herb → Extra Hot) is brand identity. We can do the same with 17 sauces.
 - **Our play:** **Signature sauce identity** — "Lazzat Green / White / Red" become our Nando's moment
 
 ### 6. Sweetgreen / Erewhon / Kismet (bowl + wellness brands)
@@ -112,7 +112,7 @@ These matter because they show up in the same Uber Eats / DoorDash list a Brampt
 2. **200g honest portions** — nobody publishes a portion promise
 3. **13 signature sauces** — identity-level; nobody in halal grill matches
 4. **Global framing without "fusion"** — rare positioning in Brampton
-5. **Dietary inclusivity by design** — vegan / vegetarian / halal-sourced on every format
+5. **Dietary inclusivity by design** — vegan / vegetarian / Maple Lodge Farms chicken on every format
 6. **Professor-validated recipes** — credibility signal nobody else has
 7. **Open kitchen with character** — humanized founder + chef story
 8. **Brampton-rooted, globally-styled** — local trust + bigger brand aesthetic
@@ -130,7 +130,7 @@ These matter because they show up in the same Uber Eats / DoorDash list a Brampt
 |---|---|
 | Osmow's ubiquity | Be the one Brampton chooses BECAUSE it is local + specific |
 | Paramount polish | Match their production on 10% of the budget using discipline |
-| Local halal price | Lead with value, not price: 200g + 13 sauces + 6 salads = more per dollar |
+| Local halal price | Lead with value, not price: 200g + 17 sauces + 6 salads = more per dollar |
 | Sit-down chains | Fast-casual grill + delivery + catering — three revenue modes |
 
 ---
@@ -152,3 +152,4 @@ Our only competitor is **the version of Lazzat that doesn't exist yet**.
 - Quarterly rescan of Tier A
 - Monthly pulse-check of GMB ratings + new reviews
 - Annual full report refresh (April each year)
+

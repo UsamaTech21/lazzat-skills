@@ -1,10 +1,23 @@
 # Lazzat Menu — v14 (FINAL, AUTHORITATIVE)
 
 > **STATUS:** Locked — this is the ONLY menu that may be referenced in any Lazzat content.
-> **Source:** `lazzat Final Menu v14.xlsx` (Lazzat-Founder approved).
+> **Source:** `lazzat Final Menu v14.xlsx` (Lazzat-Founder approved) + Voice & Claims Reference 2026-04-21.
 > **Last updated:** April 2026
 > **Owner:** Lazzat-Brand
-> **Rule:** Never invent, rename, or reference items outside this file.
+> **Rule:** Never invent, rename, or reference items outside this file. All marketing descriptions pass through `CORE/skills/voice-and-claims/SKILL.md` before publishing.
+
+### Voice & Claims alignment summary
+
+The Voice & Claims Reference (2026-04-21) locks these headline numbers for all marketing copy:
+
+- **4 grilled protein skewers:** Chicken Tikka, Lamb Seekh, Paneer, Soya. *(These are the marketing-facing names for our four lava-stone-grilled proteins. In v14 ops vocabulary these map to: Chicken Cube / Chicken Seekh → "Chicken Tikka"; Lamb Cube / Chapli Kabab / Shami Kabab → "Lamb Seekh"; Paneer Cube → "Paneer"; Tofu Cube / plant-based protein → "Soya".)*
+- **17 sauces from six continents** *(13 are live on the prep line today — the 4 additional sauces are in the kitchen queue, Founder sign-off pending. Mark the 17 number as "on-brand headline"; name only the 13 live sauces below until the remaining four are locked.)*
+- **6 chef-built salads** ✓
+- **200g minimum** on all four proteins — chicken, lamb, paneer, soya — weighed before the grill.
+- **Fresh-baked naan and pita** from the Rotoquip + iCombi Pro line.
+- **Supplier credential:** Maple Lodge Farms chicken. *(Never "halal-sourced" in customer copy.)*
+- **Shake ingredients:** real fruit, real milk, real cream, real cane sugar, ice. Five ingredients, no more.
+- **Shake price points (locked):** $6.99 hero / $7.99 signature / $7.49 fruit blend / $3.99 kids (8 oz).
 
 ---
 
@@ -57,7 +70,9 @@ All platters: lava stone grilled, served with rice base, salad, sauces.
 
 ### 2D. Pick SAUCES (choose up to 2)
 
-**13 Signature Sauces:**
+**17 sauces from six continents** *(marketing headline)* — of which **13 are currently live on the prep line**. The remaining 4 are locked by voice-and-claims Section 13 as headline count but not yet named; do not fabricate names. Founder sign-off pending.
+
+**Live on the line (13):**
 1. Lazzat Green (cilantro-mint)
 2. Lazzat White (garlic yogurt)
 3. Lazzat Red (smoky tomato)
@@ -71,6 +86,8 @@ All platters: lava stone grilled, served with rice base, salad, sauces.
 11. Sweet Chili
 12. Garlic Aioli
 13. Lemon Herb
+
+> **Writing rule:** Headline copy uses *"17 sauces from six continents."* Item-level copy, menu boards, and detail descriptions name only sauces that are live (the 13 above). Do not invent a 14th–17th until listed here by Lazzat-Culinary with Founder approval.
 
 ---
 
@@ -93,7 +110,8 @@ All platters: lava stone grilled, served with rice base, salad, sauces.
 - Mini Chicken Cube Bowl
 - Mini Chicken Tenders (lava stone, not fried)
 - Kids Veggie Bowl
-- Includes juice box + small dessert
+- Includes kids' fruit-blend box + small dessert
+- Kids 8 oz shake — **$3.99** (locked)
 
 ---
 
@@ -110,19 +128,29 @@ All platters: lava stone grilled, served with rice base, salad, sauces.
 
 ## 6. DRINKS
 
-### 6A. Smoothies
+> **Voice rule (voice-and-claims Section 14.1):** We **never** call anything here a "smoothie" or a "juice" in customer copy. The categories are **Shakes** and **Fruit Blends** (water-based). Kids' "juice box" becomes "kids' fruit-blend box." Apple and orange are **removed** as ingredients (sourcing + category reasons).
+
+### 6A. Fruit Blends *(formerly "Smoothies" — voice renamed)*
 - Mango Madness
 - Very Berry
-- Green Glow (kale + apple + ginger)
+- Green Glow (kale + ginger) *(apple removed)*
 - Tropical Sunrise
 
-### 6B. Milkshakes (premium, Instagram-worthy presentation)
+### 6B. Shakes *(formerly "Milkshakes")*
+
+**Ingredient rule:** real fruit · real whole milk · real cream · real cane sugar · ice. Five ingredients. Always.
+
 - Classic Chocolate
 - Vanilla Dream
 - Strawberry Cream
 - Cookies & Cream
 - Mango Magic
 - Pistachio Delight
+- All Berry *(signature — $7.99 locked)*
+- Coconut *(pure coconut only — no pineapple)*
+- Butterfly Pea Flower Shake *(formerly "Blue Spirulina" — voice renamed)*
+
+**Price points (locked):** $6.99 hero shakes · $7.99 signature (All Berry) · $7.49 fruit blend · $3.99 kids (8 oz).
 
 ### 6C. Café
 - Espresso
@@ -134,15 +162,13 @@ All platters: lava stone grilled, served with rice base, salad, sauces.
 - Matcha Latte
 - Hot Chocolate
 
-### 6D. Mocktails (no alcohol — brand rule)
+### 6D. Mocktails (no alcohol — brand rule; **also note: no soft drinks / sodas — voice-and-claims Section 7**)
 - Virgin Mojito
 - Passion Fruit Fizz
 - Cucumber Cooler
 - Berry Blast
 
-### 6E. Fresh Juices
-- Orange
-- Apple
+### 6E. Fruit Blends — water-based *(formerly "Fresh Juices" — voice renamed; apple and orange removed)*
 - Carrot-Ginger
 - Pomegranate
 - Watermelon (seasonal)
@@ -190,9 +216,11 @@ These items must NEVER appear in any Lazzat content:
 
 - "Build your bowl your way"
 - "Choose your base, your protein, your sauces"
-- "13 signature sauces. One for every culture."
-- "Lava stone grilled. Zero charcoal. Zero compromise."
-- "From family platters to kids meals — every table welcome."
+- "17 sauces from six continents."
+- "4 grilled skewers: Chicken Tikka, Lamb Seekh, Paneer, Soya."
+- "Direct flame. Nothing in between."
+- "Lava stone grilled. Zero charcoal, zero compromise."
+- "From family platters to kids meals — a table where everyone belongs."
 
 ---
 
@@ -200,7 +228,16 @@ These items must NEVER appear in any Lazzat content:
 
 1. Only use exact item names from this file.
 2. If unsure whether an item is approved → **do not include** → flag to Lazzat-Brand.
-3. Cube vs Kabab vs Wrap vs Platter — these are the four menu formats. No others.
-4. Always pair menu mention with ONE of: lava stone, family-friendly, halal-sourced, every-culture-welcome, or dietary-inclusive angle.
+3. Cube vs Kabab vs Wrap vs Platter — these are the four menu formats. The four marketing skewer names are **Chicken Tikka, Lamb Seekh, Paneer, Soya**.
+4. Always pair menu mention with ONE of:
+   - direct flame / lava stone / live fire
+   - 200g weighed before the grill
+   - Maple Lodge Farms chicken *(supplier credential — never "halal-sourced")*
+   - "a table where everyone belongs" / "one menu anyone can eat from"
+   - dietary-inclusive / the four free lanes (dairy-free, gluten-free, nut-free, egg-free)
 5. Vegetarian items: Paneer Cube, Tofu Cube, Veggie Seekh, Falafel, all salads, all sides.
 6. Vegan items: Tofu Cube, Falafel, most salads (ask kitchen for sauces).
+7. **Never** use "halal" on any customer-facing copy — signage, menu, social, film, ad, hashtag, delivery-platform description, SEO meta, schema.org, alt text. *(Confirmed honestly in person if asked — see `voice-and-claims/references/qa-scripts.md`.)*
+8. **Never** call drinks "smoothies" or "juices" in customer copy. Use "shakes" and "fruit blends."
+9. **Never** name a competitor in customer-facing copy. **Never** disparage Osmow's or sister brands.
+10. Every menu-copy draft must pass the seven tests in `CORE/skills/voice-and-claims/SKILL.md` Section 18 before going live.

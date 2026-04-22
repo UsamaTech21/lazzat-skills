@@ -1,0 +1,117 @@
+{
+  "skill": "voice-and-claims",
+  "version": "1.0.0",
+  "cases": [
+    {
+      "id": "vc-01-halal-signage-fail",
+      "prompt": "Review this wall panel draft: 'Halal Grill — 100% Halal Chicken. Every Bite, Certified.'",
+      "expected_behavior": "FAIL. Customer-facing surface cannot use the word 'halal'. Rewrite using supplier credential (Maple Lodge Farms) and remove absolute claim language.",
+      "assertions": [
+        "flags 'halal' on wall / signage",
+        "references SKILL.md Section 8 halal handling rule",
+        "suggests 'Maple Lodge Farms chicken' as the supplier credential",
+        "removes '100%' absolute-claim framing"
+      ]
+    },
+    {
+      "id": "vc-02-ai-words-fail",
+      "prompt": "Review this caption: 'In today\\u2019s ever-evolving culinary landscape, Lazzat offers a vibrant tapestry of flavours — a seamless, unparalleled experience that will elevate your palate.'",
+      "expected_behavior": "FAIL. Contains Tier 1 AI words (landscape, vibrant, tapestry, seamless, unparalleled, elevate) and filler phrase. Rewrite with specificity and fragments per Section 17 voice rules.",
+      "assertions": [
+        "flags at least four Tier 1 AI words",
+        "flags 'in today\\u2019s ever-evolving' filler phrase",
+        "rewritten version contains one fragment under 5 words",
+        "rewritten version contains one specific number or proper noun"
+      ]
+    },
+    {
+      "id": "vc-03-competitor-compare-fail",
+      "prompt": "Review this ad: 'Unlike Booster Juice, our shakes are made with real fruit — not syrups like the big chains use.'",
+      "expected_behavior": "FAIL. Names a competitor + implies competitor uses inferior ingredients. Reframe as information statement per Section 4.",
+      "assertions": [
+        "flags 'Booster Juice' as a competitor name in customer copy",
+        "flags 'the big chains use' as an implied comparison",
+        "references Section 10 competitor-silence rule",
+        "suggests a 'what we can't serve our family' reframe"
+      ]
+    },
+    {
+      "id": "vc-04-osmow-disparage-fail",
+      "prompt": "Review this founder interview line: 'We built Lazzat because Osmow\\u2019s had become too corporate — we wanted to do it right this time.'",
+      "expected_behavior": "FAIL. Violates the absolute no-disparagement rule on founders\\u2019 existing restaurants (Section 9). Rewrite with learning-framed, forward-looking voice.",
+      "assertions": [
+        "flags disparagement of Osmow\\u2019s",
+        "references Section 9 absolute rule",
+        "rewritten version uses approved phrasing like 'twenty restaurants taught us...' or 'this is the first one that\\u2019s mine'"
+      ]
+    },
+    {
+      "id": "vc-05-salt-therapeutic-fail",
+      "prompt": "Review this wall panel: 'Our 850-million-year-old Himalayan salt wall releases negative ions and purifies the air as you dine, delivering 84 essential minerals for your wellbeing.'",
+      "expected_behavior": "FAIL. Wrong age figure, therapeutic claims (drug reclassification under FDA), 84-minerals misleading. Rewrite with the locked 600-million-year claim + 'naturally occurring minerals' only.",
+      "assertions": [
+        "flags '850-million' as unsupported",
+        "flags 'negative ions / purifies the air' as therapeutic drug claim",
+        "flags '84 essential minerals'",
+        "references 600-million-year Khan et al. (2026) claim as the only verified figure",
+        "rewritten version uses 'approximately 600 million years' + 'naturally occurring minerals'"
+      ]
+    },
+    {
+      "id": "vc-06-smoothie-juice-fail",
+      "prompt": "Review this menu line: 'Try our fresh organic smoothies and hand-pressed juices — healthy, detoxifying, full of immunity-boosting nutrients.'",
+      "expected_behavior": "FAIL on multiple counts: 'smoothie', 'organic' without certification, 'juice', 'fresh' implied for frozen fruit, 'healthy / detoxifying / immunity-boosting' therapeutic claims.",
+      "assertions": [
+        "flags 'smoothie' (use shake or fruit blend)",
+        "flags 'organic' without Canada Organic certification",
+        "flags 'juice' as a category (use fruit blend)",
+        "flags health claims (detoxifying, immunity-boosting)",
+        "suggests CFIA-defensible replacement language"
+      ]
+    },
+    {
+      "id": "vc-07-clean-pass",
+      "prompt": "Review this caption: 'Chicken Tikka. 200 grams. Weighed before the grill. Every order. One of seventeen sauces, six continents, one table where everyone belongs.'",
+      "expected_behavior": "PASS. Contains specificity, a fragment, approved menu items (Chicken Tikka skewer name), approved numbers (200, 17), approved inclusivity phrasing. No competitor mention, no health claim, no banned AI words.",
+      "assertions": [
+        "passes all seven tests in Section 18",
+        "approves 'Chicken Tikka' as a valid skewer name per Section 14.3 note",
+        "no rewrites required"
+      ]
+    },
+    {
+      "id": "vc-08-allergen-absolute-fail",
+      "prompt": "Review this delivery description: 'Our nut-free, gluten-free, allergen-free kitchen is safe for anyone with severe allergies.'",
+      "expected_behavior": "FAIL. 'Allergen-free' absolute claim is banned (Section 11). 'Gluten-free' without dedicated zone is risky - use 'gluten-friendly'. 'Safe for severe allergies' creates liability.",
+      "assertions": [
+        "flags 'allergen-free' as absolute claim",
+        "flags 'gluten-free' without a dedicated zone (suggest gluten-friendly)",
+        "flags 'safe for severe allergies' liability wording",
+        "suggests 'Contains:' format and item-specific wording"
+      ]
+    },
+    {
+      "id": "vc-09-hormone-free-fail",
+      "prompt": "Review this hero line: 'Hormone-free chicken, raised the right way.'",
+      "expected_behavior": "FAIL. 'Hormone-free' is illegal framing in Canada (banned in poultry since 1963). Rewrite with 'raised without added hormones' plus required disclaimer, or pivot to supplier credential.",
+      "assertions": [
+        "flags 'hormone-free' as illegal framing",
+        "references 1963 Canadian poultry law context",
+        "rewritten line uses 'Maple Lodge Farms chicken' or 'raised without added hormones' + disclaimer"
+      ]
+    },
+    {
+      "id": "vc-10-seven-tests",
+      "prompt": "Apply the seven tests (Section 18) to this caption: 'Our grilled offerings feature premium quality ingredients, carefully selected by our talented team, delivering an unparalleled dining experience for our valued guests.'",
+      "expected_behavior": "FAIL on tests 1, 2, 3, 4, 5. Specificity missing (no numbers, suppliers, named items). No fragments. Does not sound like a team member. AI Tier 1 words (unparalleled). Generic / corporate-filler tone.",
+      "assertions": [
+        "identifies failure on test 1 (specificity)",
+        "identifies failure on test 2 (no fragment)",
+        "identifies failure on test 3 (who-wrote-this / corporate-sounding)",
+        "identifies failure on test 4 (Tier 1 AI word: unparalleled)",
+        "identifies at least one more banned phrase (premium quality, carefully selected, our talented team, valued guests)",
+        "provides a rewritten version that passes all seven tests"
+      ]
+    }
+  ]
+}

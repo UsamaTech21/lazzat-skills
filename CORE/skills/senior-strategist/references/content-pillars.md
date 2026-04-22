@@ -1,4 +1,4 @@
-# The 6 Content Pillars — In Depth
+﻿# The 6 Content Pillars — In Depth
 
 > **Source:** `CORE/brand-guidelines.md` + Lazzat Marketing Strategy doc
 > **Owner:** Lazzat-Brand
@@ -59,7 +59,7 @@ The items themselves. Bowl-builds. Sauces. Platters. The format customers actual
 - Long form: menu-deep blog
 
 ### Hook templates
-- "13 sauces. One for every story. Today: [sauce name]."
+- "17 sauces. One for every story. Today: [sauce name]."
 - "Your bowl, your way — here's how."
 - "200 grams of protein. Honestly weighed. Every time."
 - "One platter. A table of 6. Watch."
@@ -166,13 +166,13 @@ The city. The neighbourhoods. The customers. The catering moments. The street-le
 ## Pillar 6 — Wellness & Lifestyle (15%)
 
 ### What it is
-Dietary inclusivity, fitness-friendly bowls, shake & smoothie moments, gym / studio partnerships.
+Dietary inclusivity, fitness-friendly bowls, shake & fruit-blend moments, gym / studio partnerships.
 
 ### Angles
 - Vegan hero (Tofu Cube, Falafel Wrap)
 - Vegetarian hero (Paneer Cube, Greek Salad)
 - Macro-friendly bowl math (without medical claims — just honest macros)
-- Shake & smoothie moments (cooling, premium presentation)
+- Shake & Fruit Blend moments (cooling, clean presentation)
 - Fitness partner shout-outs (yoga studios, gyms, run clubs)
 - "After the run" bowl stories
 
@@ -213,3 +213,4 @@ Dietary inclusivity, fitness-friendly bowls, shake & smoothie moments, gym / stu
 | Team & Craft | Lazzat-Brand | Lazzat-Founder (founder feature) |
 | Community Brampton | Lazzat-Brand + Lazzat-Social | Lazzat-Founder (charity / press moments) |
 | Wellness & Lifestyle | Lazzat-Brand | Lazzat-Founder (any macro / claim piece) |
+

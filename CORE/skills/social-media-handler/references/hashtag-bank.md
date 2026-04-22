@@ -67,9 +67,9 @@
 #LazzatGreen
 #LazzatWhite
 #LazzatRed
-#13Sauces
-#Milkshake
-#Smoothie
+#17Sauces
+#LazzatShakes
+#FruitBlend
 ```
 
 ---

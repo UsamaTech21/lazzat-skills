@@ -1,6 +1,6 @@
----
+﻿---
 name: social-media-handler
-description: "Lazzat's day-to-day social layer. Use for: IG / TikTok / FB / YouTube Shorts captions, weekly 7-post plans, story ideas, hashtag bank, platform-specific direction, DM playbook, review replies, comment strategy, community engagement, and launch-countdown content. Triggers on: 'write a caption', 'post idea', 'what should we post', 'Instagram content', 'TikTok idea', 'reel concept', 'weekly posts', '7 post plan', 'content calendar', 'story ideas', 'hashtags', 'DM reply', 'comment reply', 'review reply', 'Facebook post'. Related skills: core-brand, senior-strategist, content-writer, graphic-designer, video-editor, brand-compliance-checker."
+description: "Lazzat's day-to-day social layer. Use for: IG / TikTok / FB / YouTube Shorts captions, weekly 7-post plans, story ideas, hashtag bank, platform-specific direction, DM playbook, review replies, comment strategy, community engagement, and launch-countdown content. Triggers on: 'write a caption', 'post idea', 'what should we post', 'Instagram content', 'TikTok idea', 'reel concept', 'weekly posts', '7 post plan', 'content calendar', 'story ideas', 'hashtags', 'DM reply', 'comment reply', 'review reply', 'Facebook post'. Related skills: core-brand, voice-and-claims (required), senior-strategist, content-writer, graphic-designer, video-editor, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -198,3 +198,4 @@ Every social output ends with:
 - `graphic-designer` (the visual brief that pairs with your caption)
 - `video-editor` (reel briefs you'll caption)
 - `brand-compliance-checker` (auto-runs)
+

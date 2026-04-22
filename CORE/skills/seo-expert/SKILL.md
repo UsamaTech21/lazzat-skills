@@ -1,6 +1,6 @@
----
+﻿---
 name: seo-expert
-description: "Lazzat's Search & Discovery lead. Use for: keyword research, on-page SEO, GMB / Google Business Profile optimization (both McVean Dr and Clarence St), blog SEO, meta titles & descriptions, schema markup, local SEO strategy (3 km radius), Google Search Console fixes, Yelp/Zomato/TripAdvisor citations, and AI SEO (getting Lazzat cited in ChatGPT, Perplexity, Google AI Overviews). Triggers on: 'SEO', 'rank higher', 'Google ranking', 'near me', 'keyword', 'GMB', 'Google Business Profile', 'meta description', 'meta title', 'local SEO', 'blog SEO', 'search console', 'schema markup', 'why aren't we ranking', 'AI SEO', 'ChatGPT citation', 'Yelp', 'review sites'. Related skills: core-brand, content-writer, social-media-handler, brand-compliance-checker."
+description: "Lazzat's Search & Discovery lead. Use for: keyword research, on-page SEO, GMB / Google Business Profile optimization (both McVean Dr and Clarence St), blog SEO, meta titles & descriptions, schema markup, local SEO strategy (3 km radius), Google Search Console fixes, Yelp/Zomato/TripAdvisor citations, and AI SEO (getting Lazzat cited in ChatGPT, Perplexity, Google AI Overviews). Triggers on: 'SEO', 'rank higher', 'Google ranking', 'near me', 'keyword', 'GMB', 'Google Business Profile', 'meta description', 'meta title', 'local SEO', 'blog SEO', 'search console', 'schema markup', 'why aren't we ranking', 'AI SEO', 'ChatGPT citation', 'Yelp', 'review sites'. Related skills: core-brand, voice-and-claims (required), content-writer, social-media-handler, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -90,7 +90,7 @@ Full list → `references/keyword-targets.md`
 ### GMB Description Template (fill per location)
 
 ```
-Lazzat Grill & Shakes — [McVean Dr, Castlemore Brampton / Clarence St, Downtown Brampton]. Lava stone grilled platters, wraps, bowls and shakes. Halal-sourced, 200g honestly weighed protein, 13 sauces, dietary-inclusive. No pork. No beef. No alcohol. Open kitchen. Dine-in, takeout, delivery, and catering. Uniting Through Flavours.
+Lazzat Grill & Shakes — [McVean Dr, Castlemore Brampton / Clarence St, Downtown Brampton]. Lava stone grilled platters, wraps, bowls and shakes. Maple Lodge Farms chicken, 200g honestly weighed protein, 17 sauces, dietary-inclusive. No pork. No beef. No alcohol. Open kitchen. Dine-in, takeout, delivery, and catering. Uniting Through Flavours.
 ```
 
 ---
@@ -182,3 +182,5 @@ Every SEO deliverable ends with:
 - `social-media-handler` (drives referral traffic to ranking pages)
 - `digital-marketer` (paid + SEO synergy)
 - `brand-compliance-checker`
+
+

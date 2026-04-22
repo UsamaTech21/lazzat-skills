@@ -1,6 +1,6 @@
----
+﻿---
 name: graphic-designer
-description: "Lazzat's visual design lead. Use for: Canva design briefs, post layout direction, social media templates (feed, story, reel cover, carousel), in-store signage, menu boards, print collateral, packaging visual specs, business cards, uniforms / apron direction, storefront vinyl spec, wall-panel artwork briefs, ad creative specs, catering brochure, email templates. Triggers on: 'design a post', 'Canva brief', 'create a graphic', 'what should it look like', 'visual for this', 'post template', 'design direction', 'make a banner', 'packaging design', 'menu board', 'signage', 'printing', 'carousel', 'reel cover', 'brand kit'. Related skills: core-brand, social-media-handler, digital-marketer, content-writer, video-editor, brand-compliance-checker."
+description: "Lazzat's visual design lead. Use for: Canva design briefs, post layout direction, social media templates (feed, story, reel cover, carousel), in-store signage, menu boards, print collateral, packaging visual specs, business cards, uniforms / apron direction, storefront vinyl spec, wall-panel artwork briefs, ad creative specs, catering brochure, email templates. Triggers on: 'design a post', 'Canva brief', 'create a graphic', 'what should it look like', 'visual for this', 'post template', 'design direction', 'make a banner', 'packaging design', 'menu board', 'signage', 'printing', 'carousel', 'reel cover', 'brand kit'. Related skills: core-brand, voice-and-claims (required), social-media-handler, digital-marketer, content-writer, video-editor, brand-compliance-checker."
 license: MIT
 metadata:
   version: 1.0.0
@@ -215,3 +215,4 @@ Every deliverable ends with:
 - `content-writer` (you design their featured images)
 - `video-editor` (you design reel covers and end cards)
 - `brand-compliance-checker`
+
