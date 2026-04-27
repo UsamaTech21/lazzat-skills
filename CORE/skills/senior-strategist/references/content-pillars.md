@@ -170,7 +170,7 @@ Dietary inclusivity, fitness-friendly bowls, shake & fruit-blend moments, gym / 
 
 ### Angles
 - Vegan hero (Tofu Cube, Falafel Wrap)
-- Vegetarian hero (Paneer Cube, Greek Salad)
+- Vegetarian hero (Paneer Cube, Spiced Chickpea salad)
 - Macro-friendly bowl math (without medical claims — just honest macros)
 - Shake & Fruit Blend moments (cooling, clean presentation)
 - Fitness partner shout-outs (yoga studios, gyms, run clubs)

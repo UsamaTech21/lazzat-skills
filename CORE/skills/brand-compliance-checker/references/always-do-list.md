@@ -117,10 +117,17 @@ Every brand film ending — primary tagline. Every paid ad — secondary.
 - Every named dish must be on `menu-v14.md`.
 - Every skewer name must be one of: **Chicken Tikka, Lamb Seekh, Paneer, Soya**.
 - Every sauce must be one of the **13 live** names; "seventeen sauces from six continents" may be used as a marketing headline only.
-- Every salad must be one of the **6 chef-built** salads.
+- Every salad must be one of the **6 chef-built** salads using the canonical names: **Cucumber Tomato · Red Cabbage Slaw · Pickled Onion · Sweet Corn & Pepper ⚡ · Spiced Chickpea · Lazzat Bean Salad ⭐**. Never use legacy v13 names ("Classic House," "Mediterranean," "Mexican Fiesta," "Greek," "Asian Crunch," "Middle Eastern Fattoush").
 - Every format must be **Cube / Kabab / Wrap / Platter**.
-- Every shake price must match the locked point: **$6.99 / $7.99 / $7.49 / $3.99**.
-- Every shake ingredient list uses only: real fruit (specific), real milk, real cream, cane sugar, ice.
+- Every shake / fruit-blend name must be one of the canonical 5 Signature Shakes (**Mango, Strawberry, Coconut, All Berry ⭐, Almond Date**) or 6 Popular Fruit Blends (**Blue Lagoon, Tropical Blend, Berry Burst, Sunrise Blend, Watermelon Cooler, Green Blend**) or a Build-Your-Own. Never use legacy v13 drink names.
+- Every shake price must match the locked point: **$6.99 hero / $7.99 All Berry / $7.49 fruit blend / $8.48 Blue Lagoon premium / $3.99 kids 8oz**.
+- Every shake ingredient list uses only the five locked ingredients: **real fruit (specific) + real whole milk + real cream + real cane sugar + ice**. The Coconut Shake recipe is **coconut + pineapple + milk + cream** (do NOT write "pure coconut").
+- Every add-on price matches the locked points: **Protein/Collagen +$1.99 · Chia/Flax +$0.79 · Nut Top +$0.69 · Oat Milk +$0.79 · Almond Milk +$0.69 · Yogurt +$0.79 · Blue Spirulina +$0.99**.
+- Indulgent flavors (Chocolate, Biscoff, Hazelnut, Pistachio +$1, Dates, Almond, PB, Honey, Rose +$0.99, Espresso +$0.99, Blue Spirulina +$0.99) are **shake-base only** — never on a Fruit Blend / water-base build.
+- Spinach + Kale fruit selections are **shake-base only** (kale is shake-base only on Final Shakes).
+- Apple is **never** on a shake / fruit-blend ingredient list. Apple **is** allowed inside Lazzat Bean Salad (operational ingredient).
+- Blue Spirulina is the actual ingredient name (legacy "Butterfly Pea Flower" rename was reverted on Final Shakes 2026-04-26). Describe only as "natural blue colour from blue spirulina" — never therapeutic.
+- Salad #5 Spiced Chickpea is **vegetarian-only** (contains honey) — never tag as vegan. Salads #1, #2, #3, #4, #6 are vegan.
 
 ---
 
@@ -130,7 +137,11 @@ Every brand film ending — primary tagline. Every paid ad — secondary.
 - **Protein** — state **200g cooked weight**, "honestly weighed, before sauce." Never "raw weight." Same across all four skewers.
 - **Chicken** — state **"Maple Lodge Farms chicken."** Never "halal-sourced." Never "hormone-free."
 - **Salt wall origin** — "Himalayan salt tiles, from the Khewra region of Pakistan."
-- **Shake lowest price** — "$3.99 kids shake" may be stated as a fact. Do not say "lowest in Brampton" unless Lazzat-Compliance has documented the survey.
+- **Shake lowest price** — "$3.99 kids shake" may be stated as a fact. The locked claim line "Lowest Price for Real Fruit Shakes in Brampton — $6.99" requires current competitor-price evidence on file (Competition Act substantiation) before publishing.
+- **Shake ingredient claim** — always exactly five: real fruit · real whole milk · real cream · real cane sugar · ice.
+- **Shake offer line** — every signature-shake promo must include: "**+ 1 Real Fruit FREE with any Signature Shake.**"
+- **Shake hero line** — eligible to use: "**Not Syrup. Not Flavouring. Real Fruit.**"
+- **Halal status** — HMA certification application is in progress (~4–8 weeks). Until certified, do not use the word "halal" on any customer-facing surface. Use "Maple Lodge Farms chicken" as the supplier credential. The single approved verbal answer to "Is this halal?" is in `voice-and-claims/references/qa-scripts.md`.
 
 ---
 

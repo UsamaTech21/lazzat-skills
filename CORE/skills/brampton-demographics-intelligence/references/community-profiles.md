@@ -26,9 +26,9 @@ Every profile is structured the same way:
 - **Best Lazzat items to feature:**
   - Paneer Cube (vegetarian hero)
   - Veggie Seekh Kabab
-  - Any bowl with Cilantro Lime Rice + Greek Salad
-  - Mango Madness Shake
-  - Pistachio Delight Shake
+  - Any bowl with Cilantro Lime Rice + Spiced Chickpea salad
+  - Mango Shake
+  - Almond Date Shake
   - Big Family Platters (for gatherings)
 - **Neighbourhood concentration:** Castlemore, Bramalea, Springdale, Heart Lake, parts of Downtown
 - **Sensitivity notes:**
@@ -57,8 +57,8 @@ Every profile is structured the same way:
   - Paneer Cube (vegetarian hero)
   - Tofu Cube (vegan hero)
   - Falafel Wrap
-  - All 6 Salads (especially Mediterranean + Greek)
-  - Mango Magic / Green Glow shakes
+  - All 6 Salads (especially Lazzat Bean Salad + Spiced Chickpea + Sweet Corn & Pepper signature)
+  - Mango Shake / Green Blend / Sunrise Blend
   - Rice Pudding dessert
 - **Neighbourhood concentration:** Castlemore, Springdale, parts of Bramalea
 - **Sensitivity notes:**
@@ -134,7 +134,7 @@ Every profile is structured the same way:
   - Chicken Cube + Peri Peri / Harissa
   - Lamb Cube + Chipotle
   - Chicken Seekh Kabab Wrap
-  - Mango Madness Shake
+  - Mango Shake
   - Sweet Chili + Honey Mustard sauce combos
 - **Neighbourhood concentration:** Bramalea, Heart Lake, parts of Downtown
 - **Sensitivity notes:**
@@ -158,7 +158,7 @@ Every profile is structured the same way:
 - **Best Lazzat items:**
   - Chicken Cube Bowl with Cilantro Lime Rice + Sweet Chili
   - Lazzat Signature Wrap
-  - Milkshakes (very high engagement)
+  - Shakes (very high engagement) — All Berry Shake ⭐ + Mango Shake favorites
 - **Neighbourhood concentration:** Bramalea, parts of Downtown
 
 ---
@@ -177,8 +177,8 @@ Every profile is structured the same way:
   - Nowruz (Persian New Year, Mar 20–21)
 - **Best Lazzat items:**
   - Lamb Cube + Tahini
-  - Mediterranean Salad
-  - Middle Eastern Fattoush
+  - Red Cabbage Slaw
+  - Pickled Onion salad
   - Falafel Wrap
   - Hummus + Warm Flatbread
 - **Neighbourhood concentration:** Mixed across Brampton; Castlemore + Downtown
@@ -220,9 +220,9 @@ Every profile is structured the same way:
   - Mid-Autumn (Sep)
 - **Best Lazzat items:**
   - Tofu Cube
-  - Asian Crunch Salad
+  - Lazzat Bean Salad ⭐
   - Prawn Cube
-  - Green Glow Shake
+  - Green Blend (water-base fruit blend)
 
 ---
 

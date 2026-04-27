@@ -64,15 +64,16 @@ CTA (10–15s): Hero bowl.
 
 ---
 
-## Format 4 — 13 Sauces Lineup
+## Format 4 — Sauce Lineup (Live Line)
 
 **Length:** 15–30 seconds · **Pillar:** 1 · **Use:** Pillar anchor + ad variant
+**Source-of-truth:** voice-and-claims §13 + menu-v14 §2D — 17 sauces from six continents is the marketing headline; only the 13 currently-live sauces may be named individually.
 
 ```
-HOOK (0–2s): Overhead shot — 13 sauce cups lined up, each labeled.
-             TEXT: "Thirteen."
-SCENE 1 (2–20s): Each sauce named with quick cut (≈1.5 sec each).
-             TEXT: sauce name each cut (e.g., "Lazzat Green", "Charred Tomato", "Mint Yogurt")
+HOOK (0–2s): Overhead shot — the live sauce cups lined up, each labeled.
+             TEXT: "Seventeen sauces. Six continents."
+SCENE 1 (2–20s): Each LIVE sauce named with quick cut (≈1.5 sec each).
+             TEXT: sauce name each cut — name only the 13 live sauces (e.g., "Lazzat Green", "Lazzat White", "Lazzat Red", "Tahini", "Tzatziki", "Harissa", "Chipotle", "Peri Peri", "Honey Mustard", "Mango Chutney", "Sweet Chili", "Garlic Aioli", "Lemon Herb")
 SCENE 2 (20–27s): Single bowl, multi-sauce drizzle.
              TEXT: "One for every table."
 CTA (27–30s): Logo burn-in.

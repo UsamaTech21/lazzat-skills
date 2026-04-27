@@ -3,9 +3,12 @@ name: social-media-handler
 description: "Lazzat's day-to-day social layer. Use for: IG / TikTok / FB / YouTube Shorts captions, weekly 7-post plans, story ideas, hashtag bank, platform-specific direction, DM playbook, review replies, comment strategy, community engagement, and launch-countdown content. Triggers on: 'write a caption', 'post idea', 'what should we post', 'Instagram content', 'TikTok idea', 'reel concept', 'weekly posts', '7 post plan', 'content calendar', 'story ideas', 'hashtags', 'DM reply', 'comment reply', 'review reply', 'Facebook post'. Related skills: core-brand, voice-and-claims (required), senior-strategist, content-writer, graphic-designer, video-editor, brand-compliance-checker."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2
   owner: Lazzat-Social
-  last_updated: 2026-04-17
+  last_updated: 2026-04-27
+  reconciled_with:
+    - "Final Shakes.pdf (2026-04-26) — hashtag-bank #LazzatShakes swap"
+    - "Final_Salads - Google Sheets.pdf (2026-04-26) — caption-templates Lazzat Bean Salad swap"
 ---
 
 # Social Media Handler

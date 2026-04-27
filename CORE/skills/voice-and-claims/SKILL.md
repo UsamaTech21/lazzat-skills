@@ -3,11 +3,11 @@ name: voice-and-claims
 description: "Lazzat's master voice + claims authority. Load before any Lazzat sentence is written or approved - wall panels, menu copy, social posts, website text, film scripts, press, investor decks, delivery descriptions, staff training, customer responses, signage, SEO meta, schema, alt text. Enforces brand voice, blocks AI-sounding words and competitor comparisons (including Osmow's), locks halal-language rules, approved phrasings, the Seven Tests, and CFIA / Competition Act / Food and Drugs Act compliance. Triggers: 'is this on brand', 'can we say this', 'is this claim safe', 'approved phrasing', 'voice check', 'claims check', 'AI word scan', 'review this copy', 'approve this line'. Related: brand-compliance-checker (required), content-writer, social-media-handler, video-editor, graphic-designer, seo-expert, digital-marketer, web-app-developer, senior-strategist."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   owner: Lazzat-Brand
   maintainer: Lazzat-Compliance
-  last_updated: 2026-04-21
-  source: Lazzat Voice & Claims Reference (founder-approved, 2026-04-21)
+  last_updated: 2026-04-27
+  source: Lazzat Voice & Claims Reference (2026-04-21) + Final Shakes (2026-04-26) + Final Salads (2026-04-26) + Shakes Order Flow (2026-04-26)
   policy: append-and-update only
 ---
 
@@ -348,33 +348,80 @@ See `references/allergen-handling.md` for the full allergen protocol and third-p
 - Built by a team with 20+ restaurants of operating experience across 11+ years.
 - Recipes signed off by a culinary professor with 35 years in kitchens (Professor Parveen). Currently teaches at George Brown College and Sheridan College - *only cite the college names after written consent is on file*.
 
+### 13.1 Shakes & Fruit Blends — canonical names *(Final Shakes 2026-04-26)*
+
+**The 5 Signature Shakes (dairy-base):**
+1. **Mango Shake** — real mango + milk + cream — **$6.99**
+2. **Strawberry Shake** — real strawberry + milk + cream — **$6.99**
+3. **Coconut Shake** — real coconut + pineapple + milk + cream — **$6.99**
+4. **All Berry Shake** ⭐ *(signature)* — 4 real berries + milk + cream — **$7.99**
+5. **Almond Date Shake** — dates + almonds + honey + milk + cream — **$6.99** *(contains tree nuts + honey — vegetarian only)*
+
+**The 6 Popular Fruit Blends (water-base, no dairy):**
+1. **Blue Lagoon** — pineapple + mango + banana + Blue Spirulina — **$8.48** *(premium — Instagram hero)*
+2. **Tropical Blend** — mango + pineapple + coconut — **$7.49**
+3. **Berry Burst** — strawberry + blueberry + raspberry — **$7.49**
+4. **Sunrise Blend** — mango + peach + pineapple — **$7.49**
+5. **Watermelon Cooler** — watermelon + mint + lime juice — **$7.49** *(seasonal — summer)*
+6. **Green Blend** — spinach + mango + pineapple + banana — **$7.49**
+
+**Build-Your-Own:** Shake (milk + cream) **$6.99** · Fruit Blend (water-base, no dairy) **$7.49** · pick up to 3 fruits.
+
+**Locked claim lines (approved):**
+- "Not Syrup. Not Flavouring. Real Fruit."
+- "+ 1 Real Fruit FREE with any Signature Shake."
+- "Lowest price for real fruit shakes in Brampton."
+- "5 ingredients. No artificial flavours. No artificial colours."
+
+### 13.2 Salads — canonical names *(Final Salads 2026-04-26)*
+
+**The 6 Salads:**
+1. **Cucumber Tomato** *(Vegan, GF)*
+2. **Red Cabbage Slaw** *(Vegan, GF)*
+3. **Pickled Onion** *(Vegan, GF — contains Mustard, Sulphites >10ppm)*
+4. **Sweet Corn & Pepper** ⚡ *(SIGNATURE — Vegan, GF)*
+5. **Spiced Chickpea** *(Vegetarian, GF — contains honey)*
+6. **Lazzat Bean Salad** ⭐ *(Vegan, GF — plant-based positioning — apple is allowed inside this salad only)*
+
+**Locked claim line:** "6 chef-built salads — including Sweet Corn & Pepper signature and the plant-based Lazzat Bean Salad."
+
+### 13.3 Add-on pricing *(locked — see menu-v14 §6D)*
+
+- Protein 25g **+$1.99** · Collagen 10g **+$1.99** · Chia/Flax 10g **+$0.79** · Nut Top **+$0.69** · Oat Milk **+$0.79** · Almond Milk **+$0.69** · Yogurt **+$0.79** · Blue Spirulina **+$0.99**
+
+> **Rule:** Indulgent flavors (Chocolate, Biscoff, Hazelnut, Pistachio +$1, Dates, Almond, PB, Honey, Rose +$0.99, Espresso +$0.99, Blue Spirulina +$0.99) are **shake-base only** and cannot be added to a water-base Fruit Blend. Spinach + Kale fruit selections are also shake-base only.
+
 ---
 
 ## 14. Words & Terms We NEVER Use
 
 ### 14.1 Drink & menu terminology
 
+> **Source-of-truth reconciliation (2026-04-26):** Final Shakes + Shakes Order Flow are the **operational menu reality** for shakes / fruit blends. Where this table previously deprecated Blue Spirulina and changed the Coconut Shake recipe, the operational menu has reverted those: Blue Spirulina is the actual ingredient (not Butterfly Pea Flower), and the Coconut Shake recipe is **coconut + pineapple + milk + cream**. The voice rule still wins for STYLE; the Final Shakes / Final Salads sheets win for FACTS.
+
 | Never use | Use instead |
 |---|---|
 | Smoothie | Shake or Fruit Blend |
+| Milkshake | Shake |
 | Juice (as a category) | Fruit Blend (water-based) |
-| Apple (as ingredient) | Removed - sourcing issue |
+| Apple in any shake / fruit blend | Removed from drinks (sourcing). Apple **is allowed inside Lazzat Bean Salad only**. |
 | Orange / Oranges | Removed - was only for juice |
-| Blue spirulina | Butterfly pea flower |
-| Pineapple in the Coconut shake | Pure coconut only |
+| "Pure coconut" Coconut Shake | The Coconut Shake **recipe includes pineapple** (coconut + pineapple + milk + cream). |
+| "Butterfly Pea Flower" *(legacy rename — reverted)* | **Blue Spirulina** — this is the actual ingredient on the menu and add-on (+$0.99) |
 | "Fresh fruit" (frozen isn't fresh) | "Real fruit" |
 | "Organic" (without certification) | Do not claim |
 | "Immunity / Detox / Superfood" | CFIA risk - do not use health claims |
-| Named combos (PB Power, Pistachio Royale...) | No pre-named combos |
+| Named combos (PB Power, Pistachio Royale...) | No pre-named combos beyond the 5 Signature Shakes + 6 Popular Fruit Blends |
 | Blender brand/model | "Automated Blender System" |
 | "Hormone-free" chicken | "Raised without added hormones" (with required disclaimer) |
-| "Halal" on any customer-facing surface | "Maple Lodge Farms chicken" (supplier credential) |
+| "Halal" on any customer-facing surface | "Maple Lodge Farms chicken" (supplier credential) — see Section 8 + 14.4 |
+| Therapeutic claims on Blue Spirulina | Describe as "natural blue colour from blue spirulina." Never "anti-inflammatory," "immunity-boosting," "phycocyanin benefits." |
 
 ### 14.2 Excluded menu items
 
-- No beef, no pork, no bacon, no shellfish, no alcohol, no soft drinks.
+- No beef, no pork, no bacon, no shellfish, no alcohol, no soft drinks / sodas.
 - Avocado - avoid as a line item (operational profile).
-- Leafy greens - avoid as a line item.
+- Leafy greens **as standalone bowl bases** - avoid. *(Spinach and Kale ARE allowed as shake-base fruit selections per Final Shakes — Kale is shake-base only. Salads with leafy greens are not on v14.)*
 - Mayo-based items - avoid as line items.
 
 ### 14.3 Cultural & religious positioning
@@ -388,6 +435,13 @@ See `references/allergen-handling.md` for the full allergen protocol and third-p
 - Never use cultural flavour tags (Tandoori, Desi, Chaat) - use universal tags (Smoky, Tangy, Bright).
 
 **Note on "Chicken Tikka" and "Lamb Seekh":** These are approved **protein-skewer menu item names** and do not count as cultural flavour tags. The ban on "Tandoori / Tikka Masala / Biryani / Karahi / Haleem / Nihari" as dish names still stands.
+
+### 14.4 Halal certification status (operational note)
+
+- HMA *(Halal Monitoring Authority)* certification application is **in progress** (~4–8 weeks ETA from 2026-04-26).
+- Until certified: **no "halal" word on any customer-facing surface** — signage, menu, social, film, ad, hashtag, delivery-platform description, SEO meta, schema.org, alt text. The single approved verbal answer to "Is this halal?" is in `references/qa-scripts.md`.
+- Once certified: brand-team will issue a **separate decision** on whether and how to use a "halal certified" mark on customer surfaces (reviewed by Lazzat-Founder + Lazzat-Brand). Until that decision lands, the default rule still wins.
+- The Final Salads internal sheet shows "Halal" as an ingredient-compliance column — that is **operational documentation**, not customer-facing copy.
 
 ---
 
@@ -560,3 +614,4 @@ Reuse these verbatim when they fit.
 
 - **2026-04-21** - Initial skill created by Lazzat-Founder. Locks the 200g promise (minimum, all proteins, weighed before grill), 600-million-year salt claim only, real-fruit-only drinks with "what we can't serve our family" rationale, direct-flame physical protein separation (treat like kosher dairy-meat separation), "removed differences not similarities" as core frame, halal handling rule (hidden front-of-house, confirmed honestly if asked), 20+ restaurants over 11+ years credential, absolute no-disparagement rule on Osmow's and sister brands, pricing philosophy with locked shake price points, full AI-word bans (Tier 1/2/3), Canadian regulatory guardrails. Adds: 17 sauces from six continents, 6 chef-built salads, 4 grilled protein skewers (Chicken Tikka, Lamb Seekh, Paneer, Soya), Maple Lodge Farms as named supplier, Rotoquip + iCombi Pro bread line, Professor Parveen sign-off credential.
 - **2026-04-21** - Integrated into Lazzat skill system at `CORE/skills/voice-and-claims/`. References renamed to kebab-case. Approval chain added for Locked sections. Lava-stone vs direct-flame terminology reconciled (both acceptable; direct-flame preferred for voice-forward copy).
+- **2026-04-27 (v1.1.0)** - Reconciled with operational menu sources: `Final Shakes.pdf`, `Final_Salads - Google Sheets.pdf`, `Shakes Order Flow.pdf`. (1) Reverted "Butterfly Pea Flower" rename — actual ingredient is **Blue Spirulina** (also a paid add-on at +$0.99). (2) Coconut Shake recipe corrected to **coconut + pineapple + milk + cream** (not "pure coconut only"). (3) Apple rule scoped — banned in shakes / fruit blends, **allowed inside Lazzat Bean Salad** (operational ingredient). (4) Leafy greens rule scoped — banned as standalone bowl base; spinach + kale **allowed as shake-base fruit selections** (kale is shake-base only). (5) Added §13.1 (canonical 5 Signature Shakes + 6 Fruit Blends with locked recipes & prices). (6) Added §13.2 (canonical 6 salads with dietary tags + Sweet Corn & Pepper signature flag + Lazzat Bean Salad ⭐). (7) Added §13.3 (locked add-on pricing: Protein/Collagen +$1.99, Chia/Flax +$0.79, Nut Top +$0.69, Oat Milk +$0.79, Almond Milk +$0.69, Yogurt +$0.79, Blue Spirulina +$0.99). (8) Added §14.4 (HMA halal certification status — pending ~4-8 weeks; default "no halal on customer-facing copy" rule still wins until certified + brand-team review). (9) Added "milkshake," "Pure coconut Coconut Shake," and Blue Spirulina therapeutic-claims rows to the §14.1 banned-language table. (10) Added the four locked claim lines: "Not Syrup. Not Flavouring. Real Fruit." / "+ 1 Real Fruit FREE" / "Lowest Price for Real Fruit Shakes in Brampton." / "5 ingredients. No artificial flavours. No artificial colours." Voice rule still wins for STYLE; Final Shakes / Final Salads sheets win for FACTS where they conflict.

@@ -101,7 +101,7 @@ delve · tapestry · realm · landscape · leverage · robust · seamless · myr
 - ❌ "Smoothie" (use "Shake" or "Fruit Blend")
 - ❌ "Juice" as a category (use "Fruit Blend — water-based")
 - ❌ Apple, oranges as ingredients
-- ❌ "Blue spirulina" (use "Butterfly pea flower")
+- ❌ "Butterfly Pea Flower" (legacy rename — reverted; the actual ingredient name and add-on is **"Blue Spirulina"** +$0.99 per Final Shakes 2026-04-26)
 - ❌ Named pre-combos (PB Power, Pistachio Royale...)
 - ❌ Blender brand/model name (use "Automated Blender System")
 

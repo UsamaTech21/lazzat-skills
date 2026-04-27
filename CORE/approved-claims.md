@@ -1,6 +1,6 @@
 # Approved Claims — What Lazzat May Say
 
-> **STATUS:** Locked — April 2026 (Wall Posts v4 + Voice & Claims Reference 2026-04-21)
+> **STATUS:** Locked — April 2026 (Wall Posts v4 + Voice & Claims Reference 2026-04-21 + Final Shakes 2026-04-26 + Final Salads 2026-04-26 + Shakes Order Flow 2026-04-26)
 > **Owner:** Lazzat-Brand | **Approver:** Lazzat-Founder
 > **Rule:** Any claim not in the GREEN list requires Lazzat-Founder written approval BEFORE it appears in copy.
 > **Authoritative voice source:** `CORE/skills/voice-and-claims/SKILL.md` — read that file for the full defense of every claim below.
@@ -60,21 +60,51 @@ These are confirmed facts. Use freely in any brand-compliant format.
 
 > **Note on skewer names:** "Chicken Tikka" and "Lamb Seekh" are approved **protein-skewer item names**. They do not count as cultural flavour tags. The ban on dish names like "Tandoori Chicken / Tikka Masala / Biryani / Karahi / Haleem / Nihari / Butter Chicken" is unchanged.
 
-### Drinks (Locked — voice-and-claims Section 4)
-- "Real fruit. Real milk. Real cream. Real cane sugar. Ice. Five ingredients."
-- "Made with real fruit" / "Not syrup. Not flavouring. Real fruit."
-- "No artificial flavours or colours"
-- "Blended fresh when you order — never pre-made, never from concentrate"
-- "Real whole milk + real cream"
-- "Sweetened with real cane sugar"
+### Drinks — The 5 Signature Shakes & 6 Fruit Blends (Locked — voice-and-claims §13.1, Final Shakes 2026-04-26)
+
+**Five-ingredient claim (locked):**
+- "Real fruit. Real whole milk. Real cream. Real cane sugar. Ice. Five ingredients."
+- "Made with real fruit" / "**Not Syrup. Not Flavouring. Real Fruit.**"
+- "No artificial flavours or colours."
+- "Blended fresh when you order — never pre-made, never from concentrate."
+- "Real whole milk + real cream."
+- "Sweetened with real cane sugar."
 - "We don't serve soda. We don't serve bubble tea. We serve real fruit drinks."
 - "What we can't serve to our own family, we won't serve to yours."
 - "What we wouldn't drink ourselves, we won't pour for you."
 
+**The 5 Signature Shakes (canonical names + recipes — never paraphrase):**
+1. **Mango Shake** — real mango + milk + cream — **$6.99** (+ 1 free fruit: pineapple or coconut)
+2. **Strawberry Shake** — real strawberry + milk + cream — **$6.99** (+ 1 free fruit: banana or mango)
+3. **Coconut Shake** — real coconut + pineapple + milk + cream — **$6.99** (+ 1 free fruit: mango or pineapple). *Coconut Shake is NOT pure coconut — pineapple is part of the recipe.*
+4. **All Berry Shake ⭐** — 4 real berries + milk + cream — **$7.99** *(signature)* (+ 1 free fruit: banana or peach)
+5. **Almond Date Shake** — dates + almonds + honey + milk + cream — **$6.99** (+ 1 free fruit: banana). *Contains tree nuts + honey — vegetarian, not vegan.*
+
+**The 6 Popular Fruit Blends (water-base, no dairy — canonical names + recipes):**
+1. **Blue Lagoon** — pineapple + mango + banana + Blue Spirulina — **$8.48** *(premium — Instagram hero)*
+2. **Tropical Blend** — mango + pineapple + coconut — **$7.49**
+3. **Berry Burst** — strawberry + blueberry + raspberry — **$7.49**
+4. **Sunrise Blend** — mango + peach + pineapple — **$7.49**
+5. **Watermelon Cooler** — watermelon + mint + lime juice — **$7.49** *(seasonal — summer only)*
+6. **Green Blend** — spinach + mango + pineapple + banana — **$7.49**
+
+**Build-Your-Own (locked):**
+- Shake (milk + cream) **$6.99** · Fruit Blend (water-base, no dairy) **$7.49** · pick up to 3 fruits.
+- Spinach + Kale fruit selections are **shake-base only** (cannot go on a Fruit Blend build).
+- Indulgent flavors (Chocolate, Biscoff, Hazelnut, Pistachio +$1, Dates, Almond, PB, Honey, Rose +$0.99, Espresso +$0.99, Blue Spirulina +$0.99) are **shake-base only**.
+
+**Locked add-on prices:** Protein 25g **+$1.99** · Collagen 10g **+$1.99** · Chia/Flax 10g **+$0.79** · Nut Top **+$0.69** · Oat Milk **+$0.79** · Almond Milk **+$0.69** · Yogurt **+$0.79** · Blue Spirulina **+$0.99**.
+
+**Locked offer & headline lines (approved):**
+- "+ 1 Real Fruit FREE with any Signature Shake."
+- "Lowest Price for Real Fruit Shakes in Brampton — $6.99." *(Competition Act substantiation: keep current competitor evidence on file.)*
+- "5 ingredients. No artificial flavours. No artificial colours."
+
 **Locked price points (keep evidence on file for the "lowest" claim):**
-- Real-fruit hero shakes — **$6.99** (lowest real-fruit shake price in GTA / Brampton market)
+- Hero shakes — **$6.99** (Mango, Strawberry, Coconut, Almond Date)
 - **$7.99** signature (All Berry)
-- **$7.49** fruit blend
+- **$7.49** fruit blend (water-base, build-your-own + 5 of the 6 popular blends)
+- **$8.48** premium fruit blend (Blue Lagoon — includes Blue Spirulina)
 - **$3.99** kids (8 oz)
 
 **Pricing phrasings:**
@@ -82,6 +112,20 @@ These are confirmed facts. Use freely in any brand-compliant format.
 - "The lowest real-fruit shake in Brampton — $6.99."
 - "Real ingredients at an honest price."
 - "No syrups. No tricks. No hidden upcharges."
+
+### Salads — The 6 Chef-Built Salads (Locked — voice-and-claims §13.2, Final Salads 2026-04-26)
+
+**Canonical names + dietary tags (never use legacy v13 names — see RED LIST):**
+1. **Cucumber Tomato** *(Vegan, GF)* — fresh diced cucumber & tomato, red onion, cilantro, lime-cumin dressing
+2. **Red Cabbage Slaw** *(Vegan, GF)* — shredded red cabbage & carrot, lime-cumin vinaigrette, toasted cumin seeds
+3. **Pickled Onion** *(Vegan, GF)* — tangy pickled red onion, peppercorns, bay (Bouchon brine). *Allergens: Mustard, Sulphites >10ppm.*
+4. **Sweet Corn & Pepper ⚡** *(SIGNATURE — Vegan, GF)* — sweet corn, red pepper, tamarind-lime glaze, smoky paprika
+5. **Spiced Chickpea** *(Vegetarian, GF — contains honey)* — chickpeas in warm cumin-paprika spice, lemon-honey dressing
+6. **Lazzat Bean Salad ⭐** *(Vegan, GF — plant-based hero)* — 4-bean blend (kidney + black + navy + chickpea), apple, raisins, cranberries, citrus-maple dressing. *Apple inside Lazzat Bean Salad is approved (this is the only place apple is allowed). Sulphites in some dried cranberries (>10ppm).*
+
+**Locked salad lines:**
+- "6 chef-built salads — including our Sweet Corn & Pepper signature and the plant-based Lazzat Bean Salad."
+- "Allergen matrix follows CFIA / Health Canada Priority Allergen list (2025)." *(internal-facing; for customer-facing, list specific allergens by item, never make blanket "allergen-free" claims.)*
 
 ### Salt Tile Wall (Locked — voice-and-claims Section 3)
 - "Formed approximately 600 million years ago from the evaporation of an ancient sea" *(Khan et al., 2026 — the only verified age figure)*
@@ -206,13 +250,18 @@ These are confirmed facts. Use freely in any brand-compliant format.
 
 ### Drinks — forbidden terminology
 - ❌ "Smoothie" *(use "Shake" or "Fruit Blend")*
+- ❌ "Milkshake" *(use "Shake")*
 - ❌ "Juice" as a category *(use "Fruit Blend — water-based")*
 - ❌ "Fresh fruit" when frozen *(use "Real fruit")*
-- ❌ Apple / oranges as ingredients *(removed — sourcing + category reasons)*
-- ❌ "Blue spirulina" *(use "Butterfly pea flower")*
-- ❌ Pineapple in the Coconut shake *(pure coconut only)*
-- ❌ Named pre-combos (PB Power, Pistachio Royale...) — no pre-named combos
-- ❌ Blender brand/model *(use "Automated Blender System")*
+- ❌ Apple in shakes / fruit blends *(banned — sourcing). Apple is allowed inside Lazzat Bean Salad only.*
+- ❌ Orange / oranges in any drink *(removed — was juice-only)*
+- ❌ "Pure coconut Coconut Shake" / "Coconut Shake is just coconut" *(the Coconut Shake recipe includes pineapple — coconut + pineapple + milk + cream)*
+- ❌ "Butterfly Pea Flower Shake" *(legacy rename — reverted; the actual ingredient and add-on is **Blue Spirulina** +$0.99)*
+- ❌ Therapeutic claims on Blue Spirulina ("phycocyanin benefits," "anti-inflammatory," "immunity," "detox") *(describe only as: "natural blue colour from blue spirulina")*
+- ❌ Legacy v13 drink names: "Mango Madness, Very Berry, Green Glow, Tropical Sunrise, Classic Chocolate, Vanilla Dream, Cookies & Cream, Mango Magic, Pistachio Delight, Carrot-Ginger, Pomegranate" — block; use canonical names from menu-v14 §6
+- ❌ Named pre-combos beyond the 5 Signature Shakes + 6 Popular Fruit Blends (no "PB Power," "Pistachio Royale," "Hazelnut Heaven" — no fan-fic combos)
+- ❌ Blender brand/model in customer copy *(use "Automated Blender System")*
+- ❌ Indulgent flavor / spinach / kale on a Fruit Blend (water-base) build *(shake-base only — kitchen rule)*
 
 ### Superlatives Without Proof
 - ❌ "Best in Brampton" / "#1" / "voted best"
@@ -240,7 +289,9 @@ These are confirmed facts. Use freely in any brand-compliant format.
 - ❌ "Butter Chicken"
 - ❌ Any beef, pork, bacon, shellfish item
 - ❌ Any alcohol
-- ❌ Avocado, leafy greens, mayo-based items *(operational reasons)*
+- ❌ Avocado, mayo-based items *(operational reasons)*
+- ❌ Leafy greens **as a standalone bowl base / line item** *(Spinach + Kale ARE allowed as shake-base fruit selections — see menu-v14 §6B; kale is shake-base only.)*
+- ❌ Legacy v13 salad names: "Classic House Salad / Mediterranean Salad / Mexican Fiesta Salad / Greek Salad / Asian Crunch Salad / Middle Eastern Fattoush" *(use canonical names from menu-v14 §2C)*
 
 ---
 

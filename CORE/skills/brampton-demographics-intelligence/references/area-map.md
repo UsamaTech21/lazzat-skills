@@ -72,7 +72,7 @@
 ### Targeting implications
 - Highest weekday-lunch density → lead with **Bowl Builders** + **Lazzat Solo combo**
 - Transit-commuter dinner grab-and-go → feature **Wraps + Wrap Combo**
-- Student + young-adult evening → feature **Milkshakes + Reels content**
+- Student + young-adult evening → feature **Shakes (All Berry ⭐ + Mango) + Fruit Blends + Reels content**
 - Local business catering → **Office Combo (10–15 pax)** push
 
 ---

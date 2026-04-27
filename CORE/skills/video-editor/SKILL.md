@@ -3,9 +3,11 @@ name: video-editor
 description: "Lazzat's video and reel production lead. Use for: Reel briefs, TikTok video direction, YouTube Shorts briefs, recording guidelines for Lazzat-Video/Lazzat-Video, brand film cuts (from Lazzat-Video's master), BTS content planning, hook writing, storyboarding, on-camera direction for team members, subtitle / caption burn-in rules, music clearance, raw footage management, and post-production brief handoff. Triggers on: 'reel idea', 'video brief', 'TikTok video', 'recording guide', 'BTS content', 'brand film cut', 'hook for video', 'video script', 'what to film', 'reel concept', 'shot list', 'storyboard', 'subtitle', 'b-roll', 'post-production'. Related skills: core-brand, voice-and-claims (required), senior-strategist, social-media-handler, digital-marketer, graphic-designer, content-writer, brand-compliance-checker."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2
   owner: Lazzat-Video
-  last_updated: 2026-04-17
+  last_updated: 2026-04-27
+  reconciled_with:
+    - "Lazzat Voice & Claims Reference.pdf (2026-04-21) — Sauce Lineup reel reframed to 17 sauces / six continents headline; 13 live cups still on-screen"
 ---
 
 # Video Editor
@@ -114,7 +116,7 @@ See `references/reel-formats.md` for full detail. Summary:
 | 1 | Lava Stone Sear Close-Up | 9–15s | Pillar 1 hero, ad awareness |
 | 2 | Bowl-Builder POV | 15–30s | Menu spotlight |
 | 3 | 200g Honesty | 9–15s | Brand-promise pillar |
-| 4 | 13 Sauces Lineup | 15–30s | Pillar 1 + menu |
+| 4 | Sauce Lineup (Live Line) | 15–30s | Pillar 1 + menu |
 | 5 | Team Story (2-line intro) | 30–45s | Pillar 3 |
 | 6 | Community Moment (Brampton angle) | 30–60s | Pillar 2 |
 | 7 | BTS — Kitchen Morning | 15–30s | Story + feed mirror |

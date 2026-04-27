@@ -3,9 +3,12 @@ name: brampton-demographics-intelligence
 description: "Community, cultural calendar, neighbourhood, and menu-to-community intelligence for Lazzat Brampton. Use for: who is our audience, target community for a campaign, Brampton demographics, which neighbourhood to target, campaign for Eid / Vaisakhi / Diwali / Nowruz, McVean Dr audience, Clarence St audience, menu items for a specific community, cultural calendar dates, sensitive festival handling. Triggers on: 'demographics', 'who is our audience', 'target community', 'which community', 'Eid content', 'Vaisakhi', 'Diwali', 'Navratri', 'Ramadan', 'McVean audience', 'Clarence audience', 'cultural calendar', 'neighbourhood', 'Brampton data'. Related skills: core-brand, voice-and-claims (required), senior-strategist, social-media-handler, digital-marketer, guerrilla-movement-marketer."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2
   owner: Lazzat-Intelligence
-  last_updated: 2026-04-17
+  last_updated: 2026-04-27
+  reconciled_with:
+    - "Final Shakes.pdf (2026-04-26) — community-profiles & area-map: shake names + #LazzatShakes; Mango Madness / Pomegranate / Carrot-Ginger references replaced with canonical names"
+    - "Final_Salads - Google Sheets.pdf (2026-04-26) — community-profiles, cultural-calendar, menu-community-match: legacy salad names replaced with canonical Lazzat Bean / Spiced Chickpea / Cucumber Tomato / Red Cabbage / Sweet Corn & Pepper / Pickled Onion"
 ---
 
 # Brampton Demographics Intelligence

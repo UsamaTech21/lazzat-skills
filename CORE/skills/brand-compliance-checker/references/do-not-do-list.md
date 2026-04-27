@@ -276,19 +276,52 @@ Rewrite into Lazzat's direct, confident voice: short sentences, real hands behin
 
 ## 11. Drinks / Shakes / Fruit Blends
 
-Source: voice-and-claims §5 and menu-v14 §6.
+Source: voice-and-claims §13.1 + §14.1 + menu-v14 §6 + Final Shakes 2026-04-26 + Shakes Order Flow 2026-04-26.
 
 | Banned | Reason | Use Instead |
 |---|---|---|
 | "Smoothie" (as a menu category) | We don't serve smoothies | "Shake" or "Fruit Blend" |
+| "Milkshake" | Voice-doc category lock | "Shake" |
 | "Juice" (as a category) | We do not extract juice | "Fruit Blend — water-based" |
 | "Fresh-squeezed" | We do not squeeze to order | "Real fruit, blended" |
 | "Fresh fruit" when the fruit is frozen | Misleading per Competition Act | "Real fruit. Pure. No concentrate." |
-| Apple or orange on a shake ingredient list | Not on the approved ingredient list | Use mango, strawberry, banana, avocado, mint, butterfly pea flower, etc. |
-| "Blue Spirulina" | Deprecated | "Butterfly Pea Flower" |
-| Pineapple in a Coconut shake | Coconut shake is pure coconut | "Pure Coconut Shake" |
-| Shake price ≠ $6.99 / $7.99 / $7.49 / $3.99 | Prices are locked | Use the locked price |
-| Claiming shake count ≠ five core ingredients | Voice-and-claims lock | "Real fruit, real milk, real cream, cane sugar, ice. Five ingredients." |
+| Apple in any shake or fruit blend | Removed from drinks (sourcing). Allowed only inside Lazzat Bean Salad. | Use mango, strawberry, banana, pineapple, coconut, peach, mixed berries, dragon fruit, lychee, dark cherry, watermelon, ginger, carrot, spinach (shake-base only), kale (shake-base only). |
+| Orange / oranges in any drink | Removed — was juice-only | *(omit; not on Final Shakes ingredient list)* |
+| "Butterfly Pea Flower Shake" / "Butterfly Pea Flower" | Legacy rename — reverted per Final Shakes 2026-04-26 | **"Blue Spirulina"** — actual ingredient + add-on (+$0.99). Describe as "natural blue colour from blue spirulina." |
+| Therapeutic Blue Spirulina claims ("phycocyanin benefits," "anti-inflammatory," "immunity," "detox") | CFIA / Food and Drugs Act risk | "Natural blue colour from blue spirulina." |
+| "Pure Coconut Shake" / "Coconut Shake is just coconut" / "no pineapple in coconut" | Recipe is coconut + pineapple + milk + cream | "Coconut Shake — real coconut + pineapple + milk + cream." |
+| Indulgent flavor on a Fruit Blend / water-base build (Chocolate, Biscoff, Hazelnut, Pistachio, Dates, Almond, PB, Honey, Rose, Espresso, Blue Spirulina) | Shake-base only — kitchen rule | Move to a Shake build, or omit. |
+| Spinach / Kale on a Fruit Blend (water-base) build | Shake-base only — texture rule (kale is shake-base only on Final Shakes) | Move to a Shake build, or omit. |
+| Naming a shake or fruit blend not on the canonical list | Brand lock | Use only: 5 Signature Shakes (Mango, Strawberry, Coconut, All Berry, Almond Date) + 6 Fruit Blends (Blue Lagoon, Tropical Blend, Berry Burst, Sunrise Blend, Watermelon Cooler, Green Blend) + Build-Your-Own. |
+| Legacy v13 shake / fruit-blend names ("Mango Madness, Very Berry, Green Glow, Tropical Sunrise, Classic Chocolate, Vanilla Dream, Cookies & Cream, Mango Magic, Pistachio Delight, Carrot-Ginger, Pomegranate") | Legacy lock — replaced 2026-04-26 | Use canonical names from menu-v14 §6 and approved-claims §Drinks. |
+| Inventing new pre-named combos (e.g., "PB Power," "Pistachio Royale," "Hazelnut Heaven") | No fan-fic combos | Either Build-Your-Own framing, or one of the 5 Signature Shakes / 6 Fruit Blends. |
+| Shake price ≠ $6.99 / $7.99 / $7.49 / $8.48 / $3.99 | Prices are locked | Use the locked price (see approved-claims §Drinks). |
+| Add-on price wrong (Protein/Collagen ≠ +$1.99, Chia/Flax ≠ +$0.79, Nut Top ≠ +$0.69, Oat Milk ≠ +$0.79, Almond Milk ≠ +$0.69, Yogurt ≠ +$0.79, Blue Spirulina ≠ +$0.99) | Prices are locked | Use the locked price (see approved-claims §Drinks add-ons). |
+| Claiming shake count ≠ five core ingredients | Voice-and-claims lock | "Real fruit, real whole milk, real cream, real cane sugar, ice. Five ingredients." |
+| Missing the "+ 1 Real Fruit FREE" line on signature-shake offer copy | Locked offer language | "+ 1 Real Fruit FREE with any Signature Shake." |
+| Claiming "lowest price for real fruit shakes in Brampton" without competitor evidence on file | Competition Act substantiation requirement | Either keep current evidence file, or omit the "lowest" claim. |
+| Calling All Berry Shake anything other than "All Berry Shake" or "All Berry" with the ⭐ signature mark | Brand lock | "All Berry Shake ⭐ — $7.99." |
+| Calling Lazzat Bean Salad anything other than "Lazzat Bean Salad" | Brand lock | "Lazzat Bean Salad ⭐ — plant-based, 4-bean, with apple, raisins, cranberries, citrus-maple dressing." |
+
+---
+
+## 11A. Salads (canonical names)
+
+Source: Final Salads 2026-04-26 + voice-and-claims §13.2 + menu-v14 §2C.
+
+| Banned | Reason | Use Instead |
+|---|---|---|
+| "Classic House Salad" | Legacy v13 name | **Cucumber Tomato** |
+| "Mediterranean Salad" / "Mediterranean" as salad name | Legacy v13 + region-coded | **Red Cabbage Slaw** |
+| "Mexican Fiesta Salad" / "Mexican Fiesta" | Legacy v13 + region-coded | **Sweet Corn & Pepper** ⚡ *(signature)* |
+| "Greek Salad" / "Greek" as salad name | Legacy v13 + region-coded | **Spiced Chickpea** *(or pick another canonical name based on intent)* |
+| "Asian Crunch Salad" / "Asian Crunch" | Legacy v13 + region-coded | **Lazzat Bean Salad** ⭐ *(or pick another canonical name based on intent)* |
+| "Middle Eastern Fattoush" / "Fattoush" | Legacy v13 + region-coded | **Pickled Onion** |
+| "Sweet Corn & Pepper" without the ⚡ signature flag in lists naming all six salads | Loses signature anchor | Add the ⚡ when listing all six. |
+| "Lazzat Bean Salad" without the ⭐ signature flag in lists naming all six salads | Loses plant-based hero anchor | Add the ⭐ when listing all six. |
+| Calling any salad "vegan" without checking — Spiced Chickpea is **vegetarian-only** (contains honey) | CFIA / consumer-protection risk | Tag salads correctly: VG (1, 2, 3, 4, 6) vs V-only (5 Spiced Chickpea). |
+| Marketing Pickled Onion or Lazzat Bean Salad without the **Sulphites >10ppm** allergen flag where required | CFIA / Health Canada Priority Allergen list | Disclose sulphites on customer-facing surfaces. |
+| Putting apple on a shake/fruit-blend ingredient list | Apple is restricted to Lazzat Bean Salad operational ingredient | Remove from shake build; keep inside Lazzat Bean Salad only. |
 
 ---
 

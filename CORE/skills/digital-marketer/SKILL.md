@@ -3,9 +3,12 @@ name: digital-marketer
 description: "Lazzat's paid-media lead. Use for: Meta Ads (Facebook/Instagram), Google Ads (Search + Performance Max + Local), TikTok Ads, YouTube Shorts Ads, ad copy writing, audience targeting, lookalike builds, budget planning, campaign setup, boosted posts, retargeting pools, conversion tracking setup (Meta Pixel, GA4, GTM), attribution modelling, and post-campaign analysis. Triggers on: 'run an ad', 'paid campaign', 'Facebook ad', 'Instagram ad', 'Google ad', 'TikTok ad', 'ad copy', 'boost this post', 'ad budget', 'targeting', 'retargeting', 'campaign setup', 'paid ads', 'ad creative', 'pixel', 'conversion tracking', 'CPA', 'CPC', 'ROAS'. Related skills: core-brand, voice-and-claims (required), senior-strategist, seo-expert, social-media-handler, graphic-designer, brand-compliance-checker."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.2
   owner: Lazzat-Ads
-  last_updated: 2026-04-17
+  last_updated: 2026-04-27
+  reconciled_with:
+    - "Final Shakes.pdf (2026-04-26) — ad-copy 17 sauces / six continents headline restored"
+    - "Lazzat Voice & Claims Reference.pdf (2026-04-21) — 'Catering Brampton Halal' replaced with Maple Lodge Farms credential"
 ---
 
 # Digital Marketer

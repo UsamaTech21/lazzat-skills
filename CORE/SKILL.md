@@ -3,12 +3,13 @@ name: core-brand
 description: "Master brand context for Lazzat Grill & Shakes. Load this before any other Lazzat skill. Contains brand identity, approved claims, menu v14, team roles, team bios, brand story, the voice & claims authority, and the compliance checker. Use whenever working on ANYTHING for Lazzat - social posts, blogs, ads, wall panels, emails, DMs, website copy, video scripts, influencer briefs, press pitches, menus, packaging, or internal strategy. Triggers on: 'lazzat', 'grill & shakes', 'brand guidelines', 'compliance check', 'brand rules', 'can we say', 'menu v14', 'voice check', 'claims check'."
 license: MIT
 metadata:
-  version: 1.1.0
+  version: 1.2.0
   owner: Lazzat-Brand
   brand: Lazzat Grill & Shakes
   locations: McVean Dr (Castlemore), Brampton & Clarence St (Downtown), Brampton, Ontario
   launch_date: 2026-04-26
-  last_updated: 2026-04-21
+  last_updated: 2026-04-27
+  reconciled_with: Final Shakes 2026-04-26, Final Salads 2026-04-26, Shakes Order Flow 2026-04-26
 ---
 
 # Lazzat Core — Master Brand Skill
@@ -47,8 +48,8 @@ Before producing ANY Lazzat output, open and read:
 | Fonts | Arial Black / Montserrat Black (headlines) · Arial / Calibri (body) · Playfair Display (display only) |
 | Method | Direct flame / live fire / lava stone — real flame, no charcoal, low-oil. Physical protein separation (paneer never meets chicken). |
 | Supplier credential | **Maple Lodge Farms chicken** *(never "halal-sourced" in customer copy — see voice-and-claims Section 8)* |
-| Menu shape | 4 protein skewers (Chicken Tikka, Lamb Seekh, Paneer, Soya) · 17 sauces from 6 continents · 6 chef-built salads · 4 formats (Cube / Kabab / Wrap / Platter) |
-| Shake rule | Real fruit · real milk · real cream · real cane sugar · ice. Five ingredients. Prices locked $6.99 / $7.99 / $7.49 / $3.99. |
+| Menu shape | 4 protein skewers (Chicken Tikka, Lamb Seekh, Paneer, Soya) · 17 sauces from 6 continents · 6 chef-built salads (Cucumber Tomato, Red Cabbage Slaw, Pickled Onion, Sweet Corn & Pepper ⚡, Spiced Chickpea, Lazzat Bean Salad ⭐) · 4 formats (Cube / Kabab / Wrap / Platter) |
+| Shake rule | Real fruit · real whole milk · real cream · real cane sugar · ice. Five ingredients. 5 Signature Shakes (Mango, Strawberry, Coconut, All Berry ⭐, Almond Date) + 6 Popular Fruit Blends (Blue Lagoon, Tropical Blend, Berry Burst, Sunrise Blend, Watermelon Cooler, Green Blend) + Build-Your-Own. Prices locked $6.99 / $7.99 / $7.49 / $8.48 / $3.99. "Not Syrup. Not Flavouring. Real Fruit." + "+ 1 Real Fruit FREE with any Signature Shake." |
 | Salt wall | Approximately 600 million years (Khan et al., 2026). Never "800M", never "84 minerals", never therapeutic. |
 | Positioning | Globally-neutral. "A table where everyone belongs." No beef. No pork. No bacon. No shellfish. No alcohol. No soft drinks. |
 

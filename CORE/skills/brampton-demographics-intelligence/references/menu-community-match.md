@@ -21,20 +21,20 @@
 | Vaisakhi | Paneer Cube + Saffron Rice | Veggie Seekh Kabab | "One harvest. Every table." | Community Brampton |
 | Eid al-Fitr | Family Mega Platter | Chicken Seekh Kabab | "Every culture welcome — today's table is a big one" | Community Brampton |
 | Eid al-Adha | Lamb Cube Platter | Chapli Kabab | "Lava stone, every table" | Menu Spotlight |
-| Ramadan (Iftar) | Chicken Cube Bowl + Mediterranean Salad | Dates-adjacent dessert (Rice Pudding) | "Tonight's Iftar, on the grill" | Wellness + Community |
-| Navratri (vegetarian) | Paneer Cube + Cilantro Lime Rice | Falafel Wrap + Greek Salad | "Plant-forward, built for every bowl" | Wellness |
-| Diwali | Mango Magic Milkshake + Family Platter | Pistachio Delight Shake | "Light up your table" | Community Brampton |
+| Ramadan (Iftar) | Chicken Cube Bowl + Cucumber Tomato salad | Dates-adjacent dessert (Rice Pudding) | "Tonight's Iftar, on the grill" | Wellness + Community |
+| Navratri (vegetarian) | Paneer Cube + Cilantro Lime Rice | Falafel Wrap + Spiced Chickpea salad | "Plant-forward, built for every bowl" | Wellness |
+| Diwali | Mango Shake + Family Platter | All Berry Shake ⭐ | "Light up your table" | Community Brampton |
 | Bandi Chhor Divas | Veggie Seekh Kabab | Paneer Cube Wrap | "One grill. Every story." | Community Brampton |
 | Christmas | Lazzat Mega Platter | Lamb Cube + Tabbouleh | "Every table, all together" | Community Brampton |
 | New Year Eve | Passion Fruit Fizz mocktail | Chocolate Lava Cake | "Toasting every table" | Wellness + Menu Spotlight |
-| Lunar New Year | Tofu Cube + Asian Crunch Salad | Prawn Cube | "Year of [animal], from every kitchen" | Global Kitchen |
+| Lunar New Year | Tofu Cube + Lazzat Bean Salad ⭐ | Prawn Cube | "Year of [animal], from every kitchen" | Global Kitchen |
 | Black History Month | Chicken Cube + Harissa / Peri Peri | Lamb Wrap + Chipotle | "Flavour is heritage. Heritage is ours to honour." | Community Brampton |
-| Valentine's | Lazzat Duo Combo | Strawberry Cream Shake | "Share one bowl. Say everything." | Menu Spotlight |
+| Valentine's | Lazzat Duo Combo | Strawberry Shake | "Share one bowl. Say everything." | Menu Spotlight |
 | Holi | All 6 Salads rainbow carousel | Falafel Wrap | "Every colour at the table" | Global Kitchen |
-| Nowruz | Lamb Cube + Tahini + Mediterranean Salad | Hummus + Warm Flatbread | "New year, new table" | Global Kitchen |
+| Nowruz | Lamb Cube + Tahini + Pickled Onion salad | Hummus + Warm Flatbread | "New year, new table" | Global Kitchen |
 | Vaisakhi 2027 | Paneer Cube + Cilantro Lime Rice | Big Family Platter | "One year of uniting through flavours" | Community Brampton |
 | Canada Day | Lazzat Mega Platter | Chicken Cube Bowl (customer favourite) | "One grill. Every Canadian." | Community Brampton |
-| Mother's Day | Lazzat Duo Combo | Pistachio Delight Milkshake | "She built the table. We'll build the bowl." | Community Brampton |
+| Mother's Day | Lazzat Duo Combo | Almond Date Shake | "She built the table. We'll build the bowl." | Community Brampton |
 | Back-to-school | Kids Meals (all) + Office Combo | Mini Chicken Cube Bowl | "First-day lunches — sorted." | Menu Spotlight |
 | Thanksgiving (Oct) | Mega Platter | Warm sides (Hummus + Flatbread, Tabbouleh) | "Grateful tables, every week." | Community Brampton |
 
@@ -71,7 +71,7 @@
 | Lazzat White | Garlic yogurt (MENA + South Asia) | Eid, Ramadan, Nowruz |
 | Lazzat Red | Smoky tomato | Canada Day, summer BBQ-adjacent |
 | Tahini | Middle Eastern | Nowruz, Eid, Falafel hero |
-| Tzatziki | Greek / Mediterranean | Summer patio, Greek Salad feature |
+| Tzatziki | Greek / Mediterranean | Summer patio, Cucumber Tomato salad feature |
 | Harissa | North African | Black History Month, sauce spotlight |
 | Chipotle | Mexican / Latin American | Summer, Caribbean Carnival support |
 | Peri Peri | South African | Black History Month, sauce spotlight |

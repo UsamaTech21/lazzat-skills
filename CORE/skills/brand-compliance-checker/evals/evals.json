@@ -1,6 +1,6 @@
 {
   "skill": "brand-compliance-checker",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "cases": [
     {
       "id": "bc-01-regional-fail",
@@ -98,14 +98,89 @@
     {
       "id": "bc-09-smoothie-fail",
       "prompt": "Compliance check: 'Our fresh-squeezed tropical smoothie — real fresh fruit, apple, orange, and hormone-free goodness.'",
-      "expected_behavior": "FAIL on checks 19, 33, plus 'hormone-free' is illegal framing for Canadian poultry and 'smoothie' is banned category.",
+      "expected_behavior": "FAIL on checks 19, 33, 33e, plus 'hormone-free' is illegal framing for Canadian poultry and 'smoothie' is banned category.",
       "assertions": [
         "flags 'smoothie'",
         "flags 'fresh-squeezed'",
         "flags 'fresh fruit' if the fruit is frozen",
-        "flags 'apple' / 'orange' as not on the approved shake ingredient list",
+        "flags 'apple' as banned in any shake / fruit blend (apple is allowed only inside Lazzat Bean Salad)",
+        "flags 'orange' as removed from drinks",
         "flags 'hormone-free' (illegal framing in Canada)",
-        "rewrite uses 'Shake' or 'Fruit Blend', lists approved ingredients (real fruit, real milk, real cream, cane sugar, ice), and 'Maple Lodge Farms chicken' if meat is referenced"
+        "rewrite uses 'Shake' or 'Fruit Blend', lists approved ingredients (real fruit, real whole milk, real cream, real cane sugar, ice), and 'Maple Lodge Farms chicken' if meat is referenced"
+      ]
+    },
+    {
+      "id": "bc-10-coconut-shake-recipe-fail",
+      "prompt": "Compliance check: 'Try our Pure Coconut Shake — just real coconut, milk, and cream. No pineapple, no shortcuts.'",
+      "expected_behavior": "FAIL on check 33c. The Coconut Shake recipe is coconut + pineapple + milk + cream per Final Shakes 2026-04-26. 'Pure coconut' framing is banned.",
+      "assertions": [
+        "flags 'Pure Coconut Shake' as a banned framing",
+        "flags 'No pineapple' as a recipe-accuracy violation",
+        "rewrite states the correct recipe: 'Coconut Shake — real coconut + pineapple + milk + cream — $6.99'",
+        "may add the locked offer line '+ 1 Real Fruit FREE with any Signature Shake'"
+      ]
+    },
+    {
+      "id": "bc-11-butterfly-pea-flower-fail",
+      "prompt": "Compliance check: 'Try our new Butterfly Pea Flower Shake — naturally anti-inflammatory and full of phycocyanin antioxidants for immunity support.'",
+      "expected_behavior": "FAIL on checks 33b, 33d, 22. Butterfly Pea Flower naming is reverted on Final Shakes 2026-04-26 — actual ingredient is Blue Spirulina. Therapeutic claims (anti-inflammatory, immunity, phycocyanin benefits) are CFIA / Food and Drugs Act violations.",
+      "assertions": [
+        "flags 'Butterfly Pea Flower' as legacy naming (use 'Blue Spirulina')",
+        "flags 'anti-inflammatory'",
+        "flags 'phycocyanin antioxidants'",
+        "flags 'immunity support' as therapeutic claim",
+        "rewrite uses 'Blue Lagoon — pineapple + mango + banana + Blue Spirulina — $8.48' or 'Add Blue Spirulina +$0.99 for natural blue colour'",
+        "rewrite removes all therapeutic framing"
+      ]
+    },
+    {
+      "id": "bc-12-legacy-salad-name-fail",
+      "prompt": "Compliance check: 'Build your bowl with our Greek Salad, Mediterranean Salad, or Mexican Fiesta — six flavours from around the world.'",
+      "expected_behavior": "FAIL on check 33a. All three salad names are legacy v13 — replaced 2026-04-26 by Final Salads. Region-coded modifiers also fail check 7.",
+      "assertions": [
+        "flags 'Greek Salad' as legacy v13",
+        "flags 'Mediterranean Salad' as legacy v13 + region-coded",
+        "flags 'Mexican Fiesta' as legacy v13 + region-coded",
+        "rewrite uses canonical names: 'Cucumber Tomato, Red Cabbage Slaw, Pickled Onion, Sweet Corn & Pepper ⚡, Spiced Chickpea, Lazzat Bean Salad ⭐'",
+        "may use the locked salad line: '6 chef-built salads — including our Sweet Corn & Pepper signature and the plant-based Lazzat Bean Salad.'"
+      ]
+    },
+    {
+      "id": "bc-13-add-on-pricing-fail",
+      "prompt": "Compliance check: 'Add Protein +$2.99, Collagen +$2.49, or Blue Spirulina +$1.49 to any shake or fruit blend. Indulgent flavors like Chocolate or Pistachio work great on our Tropical Blend.'",
+      "expected_behavior": "FAIL on check 35a (add-on prices wrong) and 33f (indulgent flavors banned on water-base Fruit Blend builds).",
+      "assertions": [
+        "flags 'Protein +$2.99' (locked at +$1.99)",
+        "flags 'Collagen +$2.49' (locked at +$1.99)",
+        "flags 'Blue Spirulina +$1.49' (locked at +$0.99)",
+        "flags 'Chocolate ... on our Tropical Blend' (indulgent flavors are shake-base only — Tropical Blend is water-base)",
+        "rewrite uses correct prices: Protein +$1.99, Collagen +$1.99, Blue Spirulina +$0.99",
+        "rewrite restricts indulgent flavors to a Shake build, not a Fruit Blend build"
+      ]
+    },
+    {
+      "id": "bc-14-spiced-chickpea-vegan-fail",
+      "prompt": "Compliance check: 'Our Spiced Chickpea salad is 100% vegan and fully halal — perfect for your plant-based community.'",
+      "expected_behavior": "FAIL on check 35b (Spiced Chickpea is vegetarian-only — contains honey) and check 11 (halal on customer-facing surface). Two separate violations.",
+      "assertions": [
+        "flags 'Spiced Chickpea ... 100% vegan' (it contains honey — vegetarian only)",
+        "flags 'fully halal' on customer-facing copy (HMA cert pending; voice-and-claims §14.4)",
+        "rewrite tags Spiced Chickpea correctly as 'vegetarian, gluten-free, contains honey'",
+        "rewrite removes the 'halal' word and uses 'plant-based' or 'vegetarian' as the dietary positioning instead"
+      ]
+    },
+    {
+      "id": "bc-15-canonical-shake-clean-pass",
+      "prompt": "Compliance check: 'All Berry Shake ⭐ — four real berries + milk + cream — $7.99. + 1 Real Fruit FREE with any Signature Shake. Not Syrup. Not Flavouring. Real Fruit.'",
+      "expected_behavior": "PASS all 40 checks and Seven Tests. Pillar: Menu Spotlight. Approver: Lazzat-Brand + Lazzat-Social. Hits canonical name, signature flag, recipe accuracy, locked price, locked offer line, locked hero line.",
+      "assertions": [
+        "status is PASS",
+        "uses canonical name 'All Berry Shake' with the ⭐ signature flag",
+        "recipe matches Final Shakes (4 real berries + milk + cream)",
+        "price matches locked $7.99",
+        "includes the '+ 1 Real Fruit FREE' locked offer line",
+        "includes the 'Not Syrup. Not Flavouring. Real Fruit.' locked hero line",
+        "no AI words, no competitor names, no halal language, no therapeutic claims"
       ]
     }
   ]

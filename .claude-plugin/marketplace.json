@@ -20,7 +20,7 @@
     "url": "https://github.com/UsamaTech21"
   },
   "description": "A production-grade Claude skill suite that turns any session into Lazzat's in-house marketing agency: brand-compliant, menu-accurate, approver-aware, voice-and-claims locked, and auto-compliance-checked.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "homepage": "https://github.com/UsamaTech21/lazzat-skills",
   "repository": "https://github.com/UsamaTech21/lazzat-skills",

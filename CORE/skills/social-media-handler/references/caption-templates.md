@@ -155,7 +155,7 @@ Which sauce do you never skip?
 ```
 Plant-forward. Not plant-only.
 
-Tofu Cube, Quinoa, Asian Crunch Salad, Lemon Herb sauce. 200 grams of honest protein, zero compromise.
+Tofu Cube, Quinoa, Lazzat Bean Salad, Lemon Herb sauce. 200 grams of honest protein, zero compromise.
 After the run, before the Monday meeting.
 
 What's in your Monday bowl?

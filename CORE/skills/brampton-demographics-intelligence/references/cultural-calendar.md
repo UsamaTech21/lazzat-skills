@@ -131,7 +131,7 @@
 | Jan 13 | Lohri | 🔗 SUPPORT | Vegetarian hero |
 | Jan 14 | Makar Sankranti / Pongal | 🔗 SUPPORT | Community feature — Tamil + Punjabi parallel |
 | Jan all month | Wellness month theme | 🎯 LEAD | Macro-friendly bowls, vegan / vegetarian hero (no "diet" language) |
-| Jan 29 | Lunar New Year | 🎯 LEAD | "Year of the [animal]" — Tofu Cube + Asian Crunch Salad hero |
+| Jan 29 | Lunar New Year | 🎯 LEAD | "Year of the [animal]" — Tofu Cube + Lazzat Bean Salad hero |
 
 ---
 

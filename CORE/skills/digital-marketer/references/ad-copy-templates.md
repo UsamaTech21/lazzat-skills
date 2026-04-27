@@ -172,8 +172,8 @@ DURATION: 9–15 sec
 10. Every Culture Welcome
 11. Lazzat Grill & Shakes
 12. No Pork. No Beef. No Alcohol.
-13. 13 Sauces. One Grill.
-14. Catering Brampton Halal
+13. 17 Sauces. Six Continents.
+14. Brampton Catering — Maple Lodge Farms Chicken
 15. Uniting Through Flavours
 
 **Descriptions (90-char max each — provide 4):**

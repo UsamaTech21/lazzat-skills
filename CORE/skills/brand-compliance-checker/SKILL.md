@@ -3,9 +3,10 @@ name: brand-compliance-checker
 description: "Auto-run compliance layer for Lazzat. Checks any Lazzat content - captions, blogs, ads, wall copy, video scripts, emails, DMs, website copy, press pitches, influencer briefs, menus, packaging, SEO meta, schema.org markup, alt text, delivery-platform descriptions - against CORE brand rules, approved claims, menu v14, the voice-and-claims skill, and the non-negotiables list. Flags failures, proposes corrections, and routes to the right approver. Use automatically inside every other Lazzat skill. Triggers on: 'check this', 'is this ok', 'review this post', 'compliance check', 'can we publish', 'does this pass brand guidelines', 'approve this copy', 'voice check', 'claims check'. Related skills: core-brand (required), voice-and-claims (required), senior-strategist, social-media-handler, content-writer."
 license: MIT
 metadata:
-  version: 1.1.0
+  version: 1.2.0
   owner: Lazzat-Compliance
-  last_updated: 2026-04-21
+  last_updated: 2026-04-27
+  reconciled_with: Final Shakes 2026-04-26, Final Salads 2026-04-26, Shakes Order Flow 2026-04-26
 ---
 
 # Brand Compliance Checker
@@ -97,18 +98,26 @@ If any of the seven fail, stop; the piece is already REWRITE, regardless of the 
 25. Osmow's / founders' sister brands - absent or framed forward-only ("twenty restaurants taught us..." / "years in the industry"), **never** disparaged?
 26. "Better than", "Cheaper than", "Unlike [brand]" - absent?
 
-### F. Menu & Product (7)
+### F. Menu & Product (12)
 27. Every named dish exists in `menu-v14.md`?
 28. No beef, pork, bacon, shellfish, alcohol, soft drinks referenced (even jokingly)?
 29. "Sandwiches" - only if tagged "Coming Soon"?
 30. Every sauce name from the 13 LIVE sauce list? (17-sauce headline may be used in marketing, but specific names must map to the 13 live sauces.)
 31. Skewer names used correctly (Chicken Tikka / Lamb Seekh / Paneer / Soya)? No invented skewer names?
 32. Cube / Kabab / Wrap / Platter format used correctly?
-33. Shake language correct? (No "smoothie", no "juice-as-category". Shakes are five-ingredient: real fruit, real milk, real cream, cane sugar, ice. Fruit Blends for water-based.)
+33. Shake language correct? (No "smoothie", no "milkshake", no "juice-as-category". Shakes are five-ingredient: real fruit, real whole milk, real cream, real cane sugar, ice. Fruit Blends for water-based.)
+33a. Salad name is one of the canonical 6 (**Cucumber Tomato, Red Cabbage Slaw, Pickled Onion, Sweet Corn & Pepper ⚡, Spiced Chickpea, Lazzat Bean Salad ⭐**)? No legacy v13 name (Classic House, Mediterranean, Mexican Fiesta, Greek, Asian Crunch, Middle Eastern Fattoush)?
+33b. Shake / fruit-blend name is one of the canonical 5 Signature Shakes (Mango, Strawberry, Coconut, All Berry ⭐, Almond Date) or 6 Popular Fruit Blends (Blue Lagoon, Tropical Blend, Berry Burst, Sunrise Blend, Watermelon Cooler, Green Blend) or a Build-Your-Own framing? No legacy v13 drink names?
+33c. Coconut Shake recipe correct? (= **coconut + pineapple + milk + cream** — never "pure coconut," never "no pineapple")
+33d. Blue Spirulina referenced as actual ingredient / +$0.99 add-on? No "Butterfly Pea Flower" naming? No therapeutic claims attached to it?
+33e. Apple absent from any shake / fruit-blend ingredient list? (Apple is allowed only inside Lazzat Bean Salad — operational ingredient.) Orange absent from any drink?
+33f. Indulgent flavors and Spinach + Kale appear only on shake-base builds, never on Fruit Blend (water-base)?
 
-### G. Claims Accuracy (3)
+### G. Claims Accuracy (5)
 34. Salt-wall age stated as "approximately 600 million years" (Khan et al., 2026) - never "800M", never "84 minerals", never therapeutic?
-35. Shake price points correct? (Regular $6.99, Premium $7.99, Coconut $7.49, Kids $3.99)
+35. Shake price points correct? ($6.99 hero / $7.99 All Berry / $7.49 fruit blend / $8.48 Blue Lagoon premium / $3.99 kids 8oz)
+35a. Add-on prices correct? (Protein/Collagen +$1.99, Chia/Flax +$0.79, Nut Top +$0.69, Oat Milk +$0.79, Almond Milk +$0.69, Yogurt +$0.79, Blue Spirulina +$0.99)
+35b. Salad dietary tag correct? (#1 Cucumber Tomato, #2 Red Cabbage Slaw, #3 Pickled Onion, #4 Sweet Corn & Pepper, #6 Lazzat Bean Salad = Vegan; #5 Spiced Chickpea = Vegetarian only — contains honey, never "vegan"). Sulphite flag (#3, #6) and Mustard flag (#3) disclosed where applicable on customer-facing copy?
 36. 200g-cooked protein promise phrased as "honestly weighed, before sauce", never "raw weight"?
 
 ### H. Visual / Design (4)

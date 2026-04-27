@@ -184,4 +184,4 @@ Total: 3–5
 `#LazzatGrill #BramptonFood #MegaPlatter #CanadaDay #CanadaDayBrampton`
 
 **Diwali shake hero:**
-`#LazzatGrill #Brampton #Milkshake #Diwali #LightUpYourTable`
+`#LazzatGrill #Brampton #LazzatShakes #Diwali #LightUpYourTable`
