@@ -28,7 +28,6 @@
 #CastlemoreBrampton
 #DowntownBrampton
 #BramptonCatering
-#BramptonHalalFood
 #SixBrampton
 ```
 
@@ -39,8 +38,6 @@
 ```
 #LavaStoneGrill
 #VolcanicStoneGrill
-#HalalFood
-#HalalBrampton
 #RealFlame
 #GrillLife
 #CleanMeat
@@ -118,7 +115,6 @@
 #Vegetarian
 #Vegan
 #PlantBased
-#HalalSourced
 #DairyFree  (only if confirmed dairy-free — kitchen check)
 #GlutenFriendly  (only if confirmed — kitchen check)
 ```
@@ -138,7 +134,7 @@
 ❌ #Authentic[X]
 ❌ #BestInBrampton  (unproven superlative)
 ❌ #FastestGrill
-❌ #HalalCertified  (use #HalalSourced)
+❌ #HalalCertified / #Halal / #HalalFood / #HalalBrampton / #BramptonHalalFood / #HalalSourced (all halal hashtags banned until HMA certification clears — `voice-and-claims §14.4`)
 ❌ #FarmToTable  (unproven)
 ❌ #Organic  (uncertified)
 ❌ #CleanEating

@@ -17,7 +17,7 @@
 - [ ] Public liability insurance certificate
 - [ ] Hours of operation (per location)
 - [ ] Delivery radius preferences (default 5 km; Lazzat-Founder may adjust)
-- [ ] Cuisine categories approved (primary: Halal; secondary: Grill, Middle Eastern-adjacent, BBQ-alternative)
+- [ ] Cuisine categories approved (primary: Grill / Global Grill; "Halal" tag deferred until HMA certification clears — `voice-and-claims §14.4`)
 
 ---
 

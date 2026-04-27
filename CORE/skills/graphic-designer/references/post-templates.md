@@ -204,7 +204,7 @@ DESIGN:
 - Warm cream base
 - Charcoal wordmark on bag center
 - Gold tagline handwritten script under wordmark
-- One brand promise line on back: "200 grams, honestly weighed. Thirteen sauces. One grill."
+- One brand promise line on back: "200 grams, honestly weighed. Seventeen sauces. Six continents."
 - Recyclable stamp + small "Maple Lodge Farms chicken" badge lower corner
 - Food-contact compliant inks
 

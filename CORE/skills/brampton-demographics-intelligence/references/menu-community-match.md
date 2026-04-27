@@ -63,7 +63,9 @@
 
 ---
 
-## 13 Sauces ↔ Culture Micro-Pairings (Global Kitchen pillar)
+## Sauces ↔ Culture Micro-Pairings (Global Kitchen pillar)
+
+> Marketing headline: **17 sauces from six continents** (13 currently live + 4 founder-pending). Below table names only the 13 live sauces.
 
 | Sauce | Natural flavour heritage | Featured pillar moment |
 |---|---|---|

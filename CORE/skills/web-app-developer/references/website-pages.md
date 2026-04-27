@@ -26,8 +26,8 @@ First impression. Orient visitors in 5 seconds to: what Lazzat is, where it is, 
 
 ### Hero section
 - Full-bleed hero image (dark-bg platter OR lava stone sear)
-- H1: "Halal Grill in Brampton" (or variant from `seo-expert/keyword-targets.md`)
-- Sub: "Volcanic stone. Real flame. 200g honest portions. Thirteen sauces. Every table welcome."
+- H1: "Lava Stone Grill in Brampton" (no "halal" in customer-facing copy until HMA certification clears — see `voice-and-claims §14.4`)
+- Sub: "Volcanic stone. Real flame. 200g honest portions. Seventeen sauces from six continents. Every table welcome."
 - Primary CTA: "See the Menu"
 - Secondary CTA: "Book Catering"
 
@@ -41,8 +41,8 @@ First impression. Orient visitors in 5 seconds to: what Lazzat is, where it is, 
 7. Newsletter opt-in
 
 ### SEO
-- Title: `Halal Grill Brampton | Lazzat Grill & Shakes` (≤ 60 chars)
-- Meta: "Volcanic stone grill in Brampton. Maple Lodge Farms chicken, 200g honest portions, 17 sauces, open kitchen. McVean Dr + Clarence St. See the menu."
+- Title: `Lava Stone Grill Brampton | Lazzat Grill & Shakes` (≤ 60 chars; "halal" deferred until HMA cert clears)
+- Meta: "Volcanic stone grill in Brampton. Maple Lodge Farms chicken, 200g honest portions, 17 sauces from six continents, open kitchen. McVean Dr + Clarence St. See the menu."
 - Schema: Organization + WebSite + LocalBusiness (both) + FAQPage
 
 ### Performance targets
@@ -63,7 +63,7 @@ Show the real menu. Connect to online ordering. Connect to delivery apps.
   - Item name (Arial Black, 24pt)
   - Description (≤ 20 words)
   - Price (once Lazzat-Founder confirms)
-  - Dietary badges (V, VG, GF-aware, Halal, Kids)
+  - Dietary badges (V, VG, GF-aware, Kids) — **no Halal badge until HMA certification clears (voice-and-claims §14.4)**
   - "Add to order" button (links to Toast / Uber / DoorDash / Skip per user choice)
 
 ### Data source
@@ -135,8 +135,9 @@ Convert catering leads (B2B + B2C events).
 - Spam protection: Turnstile
 
 ### SEO
-- Title: `Halal Catering Brampton | Lazzat Grill & Shakes`
-- Meta: "Halal catering in Brampton for offices, weddings, Iftar, Diwali, birthdays. Lava stone platters, 200g honest portions, 24-hour notice. Book today."
+- Title: `Brampton Catering — Lava Stone Grill | Lazzat Grill & Shakes`
+- Meta: "Brampton catering — Maple Lodge Farms chicken, lava stone platters, 200g honest portions, dietary-inclusive. 24-hour notice. Office lunches, Iftar, Diwali, weddings, birthdays. Book today."
+- *(Halal-as-keyword deferred until HMA certification clears — see `voice-and-claims §14.4`)*
 - Schema: Service + FAQPage
 
 ---

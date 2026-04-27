@@ -80,7 +80,7 @@ CTA (27–30s): Logo burn-in.
              TEXT: "See the menu."
 ```
 
-**Caption first line:** "Thirteen sauces. One grill. Every table."
+**Caption first line:** "Seventeen sauces. Six continents. Every table."
 
 **Note:** Use only real menu sauces from `menu-v14.md`. No invented sauces.
 

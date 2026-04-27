@@ -2,6 +2,8 @@
 
 > **Priority:** P0 = must rank top 3 in 6 months · P1 = must rank top 10 in 6 months · P2 = long-tail opportunity · P3 = defensive / brand
 > **Cadence:** Re-review monthly with Lazzat-SEO + Lazzat-Brand. Move keywords between priorities based on Search Console data.
+>
+> **Halal-keyword rule:** Keywords below containing `halal` represent **search intent we target** — this is internal research. Visible page copy (H1, meta description, body, schema) must **not** use the word `halal` / `halal-certified` / `halal-sourced` until the HMA certification application clears. We can still rank for halal-search intent organically via NAP, reviews, "Maple Lodge Farms chicken" mentions, and "no pork / no beef / no alcohol" content. See `voice-and-claims §14.4` and `web-app-developer/references/website-pages.md`.
 
 ---
 

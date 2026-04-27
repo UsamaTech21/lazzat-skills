@@ -110,7 +110,7 @@ These matter because they show up in the same Uber Eats / DoorDash list a Brampt
 
 1. **Lava stone grill** — zero competitors in Brampton have it
 2. **200g honest portions** — nobody publishes a portion promise
-3. **13 signature sauces** — identity-level; nobody in halal grill matches
+3. **17 sauces from six continents** (13 currently live + 4 founder-pending) — identity-level; nobody in the Brampton grill category matches
 4. **Global framing without "fusion"** — rare positioning in Brampton
 5. **Dietary inclusivity by design** — vegan / vegetarian / Maple Lodge Farms chicken on every format
 6. **Professor-validated recipes** — credibility signal nobody else has

@@ -114,7 +114,7 @@ Use a phrase early, bring it back in the closer. "Every table welcome" works as 
 
 ❌ *"Our passionate team is delighted to bring you authentic Pakistani flavours right here in Brampton. Every bite is a journey through generations of tradition."*
 
-✅ *"A new grill opens in Brampton. Lava stone, not charcoal. 200 grams of protein, honestly weighed. Thirteen sauces, one for every table. No pork. No beef. No alcohol. Every culture welcome. Uniting Through Flavours."*
+✅ *"A new grill opens in Brampton. Lava stone, not charcoal. 200 grams of protein, honestly weighed. Seventeen sauces from six continents — one for every table. No pork. No beef. No alcohol. Every culture welcome. Uniting Through Flavours."*
 
 ### Example 2
 

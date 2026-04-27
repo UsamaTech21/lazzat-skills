@@ -80,7 +80,7 @@ Order Now
 
 ```
 Primary text:
-Brampton — we open Saturday, April 26. Lava stone grill. 200g honest portions. Thirteen sauces. One grill for every table.
+Brampton — we open Saturday, April 26. Lava stone grill. 200g honest portions. Seventeen sauces from six continents. One grill for every table.
 
 Headline:
 Opens Saturday. McVean Dr.
@@ -113,7 +113,7 @@ See the Menu
 Filled example (Canada Day):
 ```
 Primary text:
-Canada Day done right — Mega Platter for a long-table summer. Four proteins. Rice. Salads. Thirteen sauces. From our lava stone to your backyard.
+Canada Day done right — Mega Platter for a long-table summer. Four proteins. Rice. Salads. Seventeen sauces. From our lava stone to your backyard.
 
 Headline:
 Canada Day — Mega Platter.
@@ -157,15 +157,17 @@ DURATION: 9–15 sec
 
 ## Google Search — Responsive Search Ad (RSA)
 
-### Campaign: Halal Grill Brampton
+### Campaign: Lava Stone Grill Brampton
+
+> Note: "Halal" is **not** used in headlines, descriptions, or path fields until HMA certification clears. We may still bid on `halal grill brampton` and adjacent search keywords; visible ad text uses "Maple Lodge Farms chicken" instead. See `voice-and-claims §14.4`.
 
 **Headlines (30-char max each — provide 15):**
-1. Halal Grill Brampton — Lazzat
-2. Lava Stone Grill Brampton
+1. Lava Stone Grill Brampton
+2. Volcanic Stone — Real Flame
 3. Open Kitchen — Real Flame
 4. McVean Dr + Clarence St
 5. 200g Honest Protein Bowls
-6. Halal-Sourced Meats Daily
+6. Maple Lodge Farms Chicken
 7. Built for Every Table
 8. Visit Lazzat Today
 9. Order Online — Lazzat
@@ -179,7 +181,7 @@ DURATION: 9–15 sec
 **Descriptions (90-char max each — provide 4):**
 1. Volcanic stone. Real flame. 200g honest portions. Maple Lodge Farms chicken. Open kitchen. Brampton.
 2. Lazzat Grill & Shakes — McVean Dr + Clarence St. See the menu and order now.
-3. Halal catering in Brampton — office lunches, Iftar, Diwali, Canada Day. Book today.
+3. Brampton catering — Maple Lodge Farms chicken, lava stone platters. Office lunches, Iftar, Diwali, Canada Day. Book today.
 4. Built for Brampton. Every table welcome. Lava stone grilled, honestly weighed.
 
 **Path fields:**
@@ -197,7 +199,7 @@ DURATION: 9–15 sec
 - **Long headlines (5, 90-char max):**
   1. Lava stone grill in Brampton — Maple Lodge Farms chicken, open kitchen, every culture welcome.
   2. Lazzat Grill & Shakes — McVean Dr + Clarence St. Bowls, platters, wraps, shakes.
-  3. 200 grams. Honestly weighed. Thirteen sauces. Lava stone grilled. Lazzat Brampton.
+  3. 200 grams. Honestly weighed. Seventeen sauces. Lava stone grilled. Lazzat Brampton.
   4. Brampton's lava stone grill — no pork, no beef, no alcohol. Every table welcome.
   5. Catering from Lazzat — lava stone platters, dietary-inclusive, 24h notice.
 - **Descriptions (5, 90-char max):** as RSA

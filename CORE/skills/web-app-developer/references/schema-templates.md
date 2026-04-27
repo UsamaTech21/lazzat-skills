@@ -86,7 +86,7 @@
       "closes": "00:00"
     }
   ],
-  "servesCuisine": ["Global Grill", "Halal"],
+  "servesCuisine": ["Global Grill"],
   "priceRange": "$$",
   "hasMenu": "https://lazzat.ca/menu",
   "acceptsReservations": "False",
@@ -132,7 +132,7 @@
       "closes": "00:00"
     }
   ],
-  "servesCuisine": ["Global Grill", "Halal"],
+  "servesCuisine": ["Global Grill"],
   "priceRange": "$$",
   "hasMenu": "https://lazzat.ca/menu",
   "paymentAccepted": ["Credit Card", "Debit Card", "Apple Pay", "Google Pay", "Cash"]
@@ -160,8 +160,7 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
         {
           "@type": "MenuItem",
           "name": "Mega Platter",
-          "description": "Lava stone grilled protein platter with rice, salad and thirteen signature sauces.",
-          "suitableForDiet": ["https://schema.org/HalalDiet"]
+          "description": "Lava stone grilled protein platter with rice, salad and thirteen signature sauces."
         }
       ]
     }
@@ -171,11 +170,10 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
 
 **Rules:**
 - Dietary restriction schema values (all verified):
-  - `https://schema.org/HalalDiet` — ALL items (Maple Lodge Farms chicken)
   - `https://schema.org/VegetarianDiet` — for paneer / veg items
   - `https://schema.org/VeganDiet` — only where confirmed
   - `https://schema.org/GlutenFreeDiet` — only for items explicitly GF-aware
-- Never include `halalCertified` or similar (we are Maple Lodge Farms chicken, not certified)
+- **Never include `https://schema.org/HalalDiet`, `halalCertified: true`, or any halal claim in schema** until HMA certification clears (`voice-and-claims §14.4`). The Maple Lodge Farms supplier credential goes in the answer body of the halal-related FAQ entry only.
 
 ---
 
@@ -191,7 +189,7 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
       "name": "Is Lazzat halal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. All meats at Lazzat are Maple Lodge Farms chicken from trusted Ontario suppliers, including Maple Lodge Farms chicken. We do not serve pork, beef, or alcohol at either location."
+        "text": "All chicken at Lazzat is supplied by Maple Lodge Farms, an Ontario family-run supplier. We do not serve pork, beef, or alcohol at either location. Our HMA halal certification application is in progress; until it is finalised we do not advertise the brand as halal-certified."
       }
     },
     {
@@ -267,8 +265,8 @@ Build from `menu-v14.md` — this is a template pattern; auto-generate on build:
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Lazzat Halal Catering Brampton",
-  "description": "Lava stone grilled catering platters for offices, weddings, Iftar, Eid, Diwali, birthdays, and family events in Brampton and surrounding GTA.",
+  "name": "Lazzat Brampton Catering — Lava Stone Grill",
+  "description": "Lava stone grilled catering platters with Maple Lodge Farms chicken for offices, weddings, Iftar, Eid, Diwali, birthdays, and family events in Brampton and surrounding GTA. (Halal-as-keyword deferred until HMA certification clears.)",
   "provider": {
     "@type": "Organization",
     "name": "Lazzat Grill & Shakes",

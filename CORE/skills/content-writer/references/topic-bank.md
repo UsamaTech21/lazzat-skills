@@ -1,6 +1,8 @@
 # Blog + Long-Form Topic Bank
 
 > **Rule:** Every blog must map to one of the 6 content pillars and one primary keyword. Pick from this list first; only create new topics with Lazzat-Brand's approval.
+>
+> **Halal & customer-facing copy:** "Primary keyword" columns may contain `halal` (this is internal SEO research — what users search). The actual blog title, H1, meta description, and body copy must use **"Maple Lodge Farms chicken"** instead of `halal` / `halal-certified` / `halal-sourced` until the HMA halal certification application clears (`voice-and-claims §14.4`).
 
 ---
 
@@ -12,7 +14,7 @@
 | 2 | Inside the Open Kitchen at McVean Dr | open kitchen brampton restaurant | 900 | Local / curious |
 | 3 | From Maple Lodge Farms to Your Plate — Lazzat's Supply Chain | halal chicken brampton | 1,200 | Quality-conscious |
 | 4 | Why Every Cube at Lazzat Weighs Exactly 200 Grams | grilled protein bowl brampton | 800 | Fitness / health-aware |
-| 5 | The 13 Sauces — Built for Every Table | grill restaurant sauces brampton | 1,000 | Repeat customer |
+| 5 | 17 Sauces, Six Continents — Built for Every Table | grill restaurant sauces brampton | 1,000 | Repeat customer |
 | 6 | What "Global Grill" Actually Means at Lazzat | global grill restaurant brampton | 1,100 | Brand-story seeker |
 | 7 | The Ontario Food Terminal Run — How We Source Daily | fresh vegetables brampton restaurant | 900 | Local |
 
@@ -26,7 +28,7 @@
 | 9 | McVean Dr vs Clarence St — Which Lazzat Is Yours? | lazzat locations brampton | 700 | Navigation |
 | 10 | Castlemore Is Growing — Lazzat Grows With It | castlemore restaurant brampton | 900 | North Brampton |
 | 11 | Downtown Brampton's Comeback — One Table at a Time | downtown brampton restaurant | 1,000 | South Brampton |
-| 12 | Halal That Welcomes Every Table — What Lazzat Won't Do | halal restaurant brampton | 1,100 | Multicultural audience |
+| 12 | A Grill That Welcomes Every Table — What Lazzat Won't Do | halal restaurant brampton | 1,100 | Multicultural audience *(SEO keyword targets halal-search intent; on-page copy must avoid "halal" until HMA cert clears — voice-and-claims §14.4)* |
 | 13 | Brampton by the Numbers — Why Our Menu Reads Everyone's Language | multicultural restaurant brampton | 1,200 | Demographic-aware |
 | 14 | Farsi-English Signage in Our Kitchen — A Team Story | brampton immigrant story restaurant | 800 | Human-interest |
 

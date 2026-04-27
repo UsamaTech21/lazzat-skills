@@ -209,7 +209,7 @@ All answers sourced from `CORE/approved-claims.md` GREEN list.
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {"@type":"Question","name":"Is Lazzat halal?","acceptedAnswer":{"@type":"Answer","text":"Yes. All meats are Maple Lodge Farms chicken from trusted Ontario suppliers including Maple Lodge Farms. We do not serve pork, beef, or alcohol."}},
+    {"@type":"Question","name":"Is Lazzat halal?","acceptedAnswer":{"@type":"Answer","text":"All chicken at Lazzat is supplied by Maple Lodge Farms, an Ontario family-run supplier. We do not serve pork, beef, or alcohol. Our HMA certification application is in progress; until it is finalised we do not advertise the brand as halal-certified."}},
     {"@type":"Question","name":"What is lava stone grilling?","acceptedAnswer":{"@type":"Answer","text":"Lava stone grilling uses volcanic rock heated to radiant temperatures. It sears without requiring charcoal, and the stone keeps each protein's natural flavour intact."}},
     {"@type":"Question","name":"Do you deliver?","acceptedAnswer":{"@type":"Answer","text":"Yes — dine-in, takeout, and delivery via our partners from both Brampton locations (McVean Dr and Clarence St)."}},
     {"@type":"Question","name":"Do you cater?","acceptedAnswer":{"@type":"Answer","text":"Yes. Office lunches, birthdays, Iftar, Eid, Diwali, and family events. Contact catering@lazzat.ca with headcount and date."}}

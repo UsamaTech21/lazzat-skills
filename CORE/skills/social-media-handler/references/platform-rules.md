@@ -96,7 +96,7 @@
 - **Aspect:** 9:16
 - **Length:** 15–60 sec
 - **Cross-post Reels** (after 1-day delay to avoid IG algorithm hit)
-- **Title:** SEO-optimized ("Best Halal Grill Brampton — Lazzat" not "Reel")
+- **Title:** SEO-optimized ("Lava Stone Grill Brampton — Lazzat" not "Reel"; no "halal" until HMA cert clears — `voice-and-claims §14.4`)
 - **Description:** include keywords + link to website
 - **Tags:** 5–10 relevant tags
 

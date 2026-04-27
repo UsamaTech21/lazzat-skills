@@ -27,7 +27,7 @@
 
 ### Numbers / stats hooks
 8. "Two hundred grams. Every time."
-9. "Thirteen sauces. One grill."
+9. "Seventeen sauces. Six continents. One grill."
 10. "Six minutes from stone to plate."
 11. "Thirty thousand meals prepped before we opened a door."
 12. "Zero pork. Zero beef. Zero alcohol."
@@ -66,7 +66,7 @@
 35. "The steam tells you the heat is right."
 
 ### Community hooks
-36. "Brampton asked for a halal grill without regional framing."
+36. "Brampton asked for a grill that doesn't pick a region."
 37. "One grill. Every culture welcome."
 38. "Every table at Lazzat reads a different language."
 39. "If Chipotle opened in Brampton for every culture — this is what it looks like."
